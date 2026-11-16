@@ -1,0 +1,25 @@
+{
+  "name": "golden-krill",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "npm run validate && tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "build-dives": "tsx scripts/build-dives.ts",
+    "validate": "tsx scripts/validate-bank.ts",
+    "generate": "tsx scripts/generate.ts",
+    "test": "tsx scripts/selftest.ts",
+    "deploy": "npm run build && gh-pages -d dist"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^1.9.0",
+    "@types/node": "^26.6.6",
+    "gh-pages": "^6.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "zod": "^4.6.7"
+  }
+}

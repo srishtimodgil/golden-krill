@@ -1,0 +1,6182 @@
+[
+  {
+    "id": "cheese-types",
+    "prompt": "Name a type of cheese",
+    "category": "Food & Drink",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "cheese"
+    ],
+    "answers": [
+      {
+        "text": "Cheddar",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mozzarella",
+        "aliases": [
+          "mozz"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Swiss",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Velveeta",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "String",
+        "aliases": [
+          "string cheese"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "American",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Parmesan",
+        "aliases": [
+          "parmigiano reggiano",
+          "parmigiano",
+          "parm"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Brie",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gouda",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Feta",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Blue",
+        "aliases": [
+          "bleu"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Provolone",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Monterey Jack",
+        "aliases": [
+          "jack",
+          "monterey"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pepper Jack",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Colby",
+        "aliases": [
+          "colby jack"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ricotta",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cream cheese",
+        "aliases": [
+          "cream"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cottage cheese",
+        "aliases": [
+          "cottage"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Goat cheese",
+        "aliases": [
+          "goat",
+          "chevre"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Camembert",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Muenster",
+        "aliases": [
+          "munster"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gruyère",
+        "tier": "Rare"
+      },
+      {
+        "text": "Halloumi",
+        "aliases": [
+          "haloumi"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Manchego",
+        "tier": "Rare"
+      },
+      {
+        "text": "Roquefort",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gorgonzola",
+        "tier": "Rare"
+      },
+      {
+        "text": "Emmental",
+        "aliases": [
+          "emmentaler",
+          "emmenthal"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Stilton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mascarpone",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pecorino",
+        "aliases": [
+          "pecorino romano",
+          "romano"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Paneer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Burrata",
+        "tier": "Rare"
+      },
+      {
+        "text": "Edam",
+        "tier": "Rare"
+      },
+      {
+        "text": "Havarti",
+        "tier": "Rare"
+      },
+      {
+        "text": "Asiago",
+        "tier": "Rare"
+      },
+      {
+        "text": "Queso fresco",
+        "tier": "Rare"
+      },
+      {
+        "text": "Taleggio",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Raclette",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Comté",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Limburger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jarlsberg",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Reblochon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oaxaca",
+        "aliases": [
+          "quesillo"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cotija",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Red Leicester",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wensleydale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fontina",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brunost",
+        "aliases": [
+          "gjetost",
+          "brown cheese"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mimolette",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Époisses",
+        "aliases": [
+          "epoisses de bourgogne"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Casu marzu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stinking Bishop",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Saint-Nectaire",
+        "aliases": [
+          "st nectaire"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ossau-Iraty",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Idiazabal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cabrales",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bryndza",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sbrinz",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vacherin",
+        "aliases": [
+          "vacherin mont d or",
+          "mont d or"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tête de Moine",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "pizza-toppings",
+    "prompt": "Name a pizza topping",
+    "category": "Food & Drink",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Pepperoni",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mushroom",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sausage",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tomato sauce",
+        "aliases": [
+          "marinara",
+          "pizza sauce"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Cheese",
+        "aliases": [
+          "extra cheese"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Onion",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Green pepper",
+        "aliases": [
+          "bell pepper",
+          "pepper",
+          "peppers"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Olive",
+        "aliases": [
+          "black olive"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ham",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pineapple",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bacon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chicken",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Spinach",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jalapeño",
+        "aliases": [
+          "jalapeno pepper"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ground beef",
+        "aliases": [
+          "beef"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tomato",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Anchovy",
+        "aliases": [
+          "anchovies"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Basil",
+        "tier": "Rare"
+      },
+      {
+        "text": "Garlic",
+        "tier": "Rare"
+      },
+      {
+        "text": "Artichoke",
+        "aliases": [
+          "artichoke heart"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sun-dried tomato",
+        "tier": "Rare"
+      },
+      {
+        "text": "Feta",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ricotta",
+        "tier": "Rare"
+      },
+      {
+        "text": "Banana pepper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Meatball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Salami",
+        "tier": "Rare"
+      },
+      {
+        "text": "Prosciutto",
+        "aliases": [
+          "parma ham"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Arugula",
+        "aliases": [
+          "rocket"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Broccoli",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sweetcorn",
+        "aliases": [
+          "corn"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Egg",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tuna",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shrimp",
+        "aliases": [
+          "prawn"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Caper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gorgonzola",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Goat cheese",
+        "aliases": [
+          "chevre"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chorizo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nduja",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pancetta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fig",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Truffle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pesto",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Clam",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Potato",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hot honey",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Soppressata",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Speck",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eggplant",
+        "aliases": [
+          "aubergine"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zucchini",
+        "aliases": [
+          "courgette"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Calamari",
+        "aliases": [
+          "squid"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Guanciale",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "fruits",
+    "prompt": "Name a fruit",
+    "category": "Food & Drink",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Apple",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Banana",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Orange",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tomato",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Cucumber",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Avocado",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Strawberry",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Grape",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pear",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Peach",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mango",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pineapple",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Watermelon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cherry",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Blueberry",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lemon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kiwi",
+        "aliases": [
+          "kiwifruit"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Plum",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Raspberry",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lime",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grapefruit",
+        "tier": "Rare"
+      },
+      {
+        "text": "Apricot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Papaya",
+        "tier": "Rare"
+      },
+      {
+        "text": "Coconut",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pomegranate",
+        "tier": "Rare"
+      },
+      {
+        "text": "Blackberry",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cantaloupe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Honeydew",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nectarine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fig",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cranberry",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mandarin",
+        "aliases": [
+          "tangerine"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Clementine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Date",
+        "tier": "Rare"
+      },
+      {
+        "text": "Passion fruit",
+        "tier": "Rare"
+      },
+      {
+        "text": "Guava",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lychee",
+        "aliases": [
+          "litchi"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Dragon fruit",
+        "aliases": [
+          "pitaya",
+          "pitahaya"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Persimmon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kumquat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Quince",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gooseberry",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Elderberry",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Starfruit",
+        "aliases": [
+          "carambola"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Durian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jackfruit",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rambutan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mangosteen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Loquat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Feijoa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cherimoya",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tamarind",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yuzu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Medlar",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salak",
+        "aliases": [
+          "snake fruit"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ackee",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Physalis",
+        "aliases": [
+          "cape gooseberry"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Longan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Soursop",
+        "aliases": [
+          "guanabana"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jabuticaba",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "bread-types",
+    "prompt": "Name a type of bread",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "bread"
+    ],
+    "answers": [
+      {
+        "text": "Sourdough",
+        "tier": "Plankton"
+      },
+      {
+        "text": "White",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Whole wheat",
+        "aliases": [
+          "wheat",
+          "wholemeal",
+          "brown",
+          "whole grain"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Toast",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Rye",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Baguette",
+        "aliases": [
+          "french bread"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pita",
+        "aliases": [
+          "pitta"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bagel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Naan",
+        "aliases": [
+          "nan"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ciabatta",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Focaccia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Brioche",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cornbread",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Banana bread",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Multigrain",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pumpernickel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Challah",
+        "tier": "Rare"
+      },
+      {
+        "text": "Soda bread",
+        "tier": "Rare"
+      },
+      {
+        "text": "Garlic bread",
+        "tier": "Rare"
+      },
+      {
+        "text": "English muffin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tortilla",
+        "tier": "Rare"
+      },
+      {
+        "text": "Roti",
+        "aliases": [
+          "chapati"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Matzo",
+        "aliases": [
+          "matzah",
+          "matzoh"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pretzel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lavash",
+        "tier": "Rare"
+      },
+      {
+        "text": "Paratha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Monkey bread",
+        "tier": "Rare"
+      },
+      {
+        "text": "Flatbread",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Injera",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fougasse",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pandesal",
+        "aliases": [
+          "pan de sal"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mantou",
+        "aliases": [
+          "steamed bun"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arepa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stollen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Panettone",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Simit",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bialy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lefse",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kulcha",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pão de queijo",
+        "aliases": [
+          "cheese bread"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bannock",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Barmbrack",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Damper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Borodinsky",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Khachapuri",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sangak",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Barbari",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pide",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pane carasau",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "spices",
+    "prompt": "Name a spice",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Pepper",
+        "aliases": [
+          "black pepper"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Cinnamon",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Paprika",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Pumpkin spice",
+        "aliases": [
+          "pumpkin pie spice"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Cumin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nutmeg",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ginger",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Turmeric",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cloves",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chili powder",
+        "aliases": [
+          "chilli powder",
+          "chili",
+          "chilli"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Garlic powder",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Curry powder",
+        "aliases": [
+          "curry"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Saffron",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cayenne",
+        "aliases": [
+          "cayenne pepper"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Allspice",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cardamom",
+        "aliases": [
+          "cardamon"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Vanilla",
+        "tier": "Rare"
+      },
+      {
+        "text": "Star anise",
+        "tier": "Rare"
+      },
+      {
+        "text": "Coriander seed",
+        "aliases": [
+          "coriander"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Fennel seed",
+        "aliases": [
+          "fennel"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mustard seed",
+        "aliases": [
+          "mustard"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mace",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sumac",
+        "tier": "Rare"
+      },
+      {
+        "text": "Caraway",
+        "tier": "Rare"
+      },
+      {
+        "text": "Celery seed",
+        "tier": "Rare"
+      },
+      {
+        "text": "Onion powder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Garam masala",
+        "tier": "Rare"
+      },
+      {
+        "text": "Anise",
+        "aliases": [
+          "aniseed"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "White pepper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Red pepper flakes",
+        "aliases": [
+          "chili flakes",
+          "crushed red pepper"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Fenugreek",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Juniper berry",
+        "aliases": [
+          "juniper"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chinese five spice",
+        "aliases": [
+          "five spice"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Asafoetida",
+        "aliases": [
+          "hing"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ajwain",
+        "aliases": [
+          "carom"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nigella",
+        "aliases": [
+          "kalonji",
+          "nigella seed"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Long pepper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sichuan pepper",
+        "aliases": [
+          "szechuan pepper"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Annatto",
+        "aliases": [
+          "achiote"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Galangal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Amchur",
+        "aliases": [
+          "mango powder"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mahleb",
+        "aliases": [
+          "mahlab"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pink peppercorn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sansho",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Black cardamom",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Baharat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ras el hanout",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Grains of paradise",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "bean-types",
+    "prompt": "Name a type of bean",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "bean",
+      "beans"
+    ],
+    "answers": [
+      {
+        "text": "Black",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kidney",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Green",
+        "aliases": [
+          "string",
+          "french"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Jelly",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Coffee",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Cocoa",
+        "aliases": [
+          "cacao"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Vanilla",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Pinto",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Navy",
+        "aliases": [
+          "haricot"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lima",
+        "aliases": [
+          "butter"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chickpea",
+        "aliases": [
+          "garbanzo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Soybean",
+        "aliases": [
+          "soy",
+          "soya",
+          "edamame"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Baked",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Black-eyed pea",
+        "aliases": [
+          "black eyed",
+          "cowpea"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cannellini",
+        "aliases": [
+          "white kidney"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Great Northern",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fava",
+        "aliases": [
+          "broad"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mung",
+        "tier": "Rare"
+      },
+      {
+        "text": "Adzuki",
+        "aliases": [
+          "azuki"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Runner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Borlotti",
+        "aliases": [
+          "cranberry"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Wax",
+        "aliases": [
+          "yellow wax"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Refried",
+        "tier": "Rare"
+      },
+      {
+        "text": "Flageolet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lupini",
+        "aliases": [
+          "lupin"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Moth",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rice",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Winged",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yardlong",
+        "aliases": [
+          "asparagus",
+          "snake"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hyacinth",
+        "aliases": [
+          "lablab"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Velvet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Anasazi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mayocoba",
+        "aliases": [
+          "peruano",
+          "canary"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Urad",
+        "aliases": [
+          "black gram"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jack",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sword",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pigeon pea",
+        "aliases": [
+          "gandule"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tepary",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "soups",
+    "prompt": "Name a soup",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "soup"
+    ],
+    "answers": [
+      {
+        "text": "Chicken noodle",
+        "aliases": [
+          "chicken"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tomato",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Alphabet",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Minestrone",
+        "tier": "Schooler"
+      },
+      {
+        "text": "French onion",
+        "aliases": [
+          "onion"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Clam chowder",
+        "aliases": [
+          "chowder"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Split pea",
+        "aliases": [
+          "pea"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lentil",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vegetable",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cream of mushroom",
+        "aliases": [
+          "mushroom"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Potato leek",
+        "aliases": [
+          "leek and potato",
+          "potato"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Broccoli cheddar",
+        "aliases": [
+          "broccoli"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Miso",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gazpacho",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pho",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ramen",
+        "tier": "Rare"
+      },
+      {
+        "text": "Borscht",
+        "aliases": [
+          "borsch"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Wonton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hot and sour",
+        "tier": "Rare"
+      },
+      {
+        "text": "Egg drop",
+        "tier": "Rare"
+      },
+      {
+        "text": "Matzo ball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gumbo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bisque",
+        "aliases": [
+          "lobster bisque"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Butternut squash",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tortilla",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tom yum",
+        "aliases": [
+          "tom yam"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pasta e fagioli",
+        "tier": "Rare"
+      },
+      {
+        "text": "Italian wedding",
+        "tier": "Rare"
+      },
+      {
+        "text": "Goulash",
+        "tier": "Rare"
+      },
+      {
+        "text": "Beef barley",
+        "tier": "Rare"
+      },
+      {
+        "text": "Corn chowder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mulligatawny",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vichyssoise",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bouillabaisse",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tom kha",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Avgolemono",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pozole",
+        "aliases": [
+          "posole"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Menudo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Laksa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cock-a-leekie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Callaloo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Harira",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caldo verde",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ribollita",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Okroshka",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shchi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Solyanka",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bird's nest",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sinigang",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tarator",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ajiaco",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Żurek",
+        "aliases": [
+          "zurek"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cullen skink",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "sauces",
+    "prompt": "Name a sauce",
+    "category": "Food & Drink",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "sauce"
+    ],
+    "answers": [
+      {
+        "text": "Ketchup",
+        "aliases": [
+          "catsup"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Barbecue",
+        "aliases": [
+          "bbq"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Soy",
+        "aliases": [
+          "soya"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tabasco",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Hot sauce",
+        "aliases": [
+          "hot"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mayonnaise",
+        "aliases": [
+          "mayo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mustard",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tomato",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Marinara",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Alfredo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pesto",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gravy",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Teriyaki",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Salsa",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sriracha",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tartar",
+        "aliases": [
+          "tartare"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Worcestershire",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Buffalo",
+        "aliases": [
+          "wing sauce"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hollandaise",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cranberry",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sweet and sour",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hoisin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fish",
+        "aliases": [
+          "nam pla"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Oyster",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chimichurri",
+        "tier": "Rare"
+      },
+      {
+        "text": "Béchamel",
+        "aliases": [
+          "white sauce"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bolognese",
+        "aliases": [
+          "ragu"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mint",
+        "tier": "Rare"
+      },
+      {
+        "text": "Apple",
+        "aliases": [
+          "applesauce"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Aioli",
+        "tier": "Rare"
+      },
+      {
+        "text": "Béarnaise",
+        "tier": "Rare"
+      },
+      {
+        "text": "Satay",
+        "aliases": [
+          "peanut"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Piri piri",
+        "aliases": [
+          "peri peri"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Brown sauce",
+        "aliases": [
+          "hp"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Puttanesca",
+        "tier": "Rare"
+      },
+      {
+        "text": "Arrabbiata",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carbonara",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sweet chili",
+        "aliases": [
+          "sweet chilli"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tzatziki",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mole",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ranch",
+        "tier": "Rare"
+      },
+      {
+        "text": "Velouté",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Espagnole",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bread sauce",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Romesco",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Remoulade",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Beurre blanc",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ponzu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "XO",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salsa verde",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mornay",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Soubise",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ravigote",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gribiche",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nuoc cham",
+        "aliases": [
+          "nuoc mam cham"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bordelaise",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tkemali",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Garum",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "pasta-shapes",
+    "prompt": "Name a pasta shape",
+    "category": "Food & Drink",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "pasta"
+    ],
+    "answers": [
+      {
+        "text": "Spaghetti",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Penne",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Macaroni",
+        "aliases": [
+          "elbow",
+          "elbow macaroni"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Couscous",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Fettuccine",
+        "aliases": [
+          "fettucine",
+          "fettuccini"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lasagna",
+        "aliases": [
+          "lasagne"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rigatoni",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Linguine",
+        "aliases": [
+          "linguini"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ravioli",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Farfalle",
+        "aliases": [
+          "bow tie",
+          "bowtie"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fusilli",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tortellini",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ziti",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Angel hair",
+        "aliases": [
+          "capellini"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Orzo",
+        "aliases": [
+          "risoni"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gnocchi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rotini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shells",
+        "aliases": [
+          "conchiglie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cannelloni",
+        "tier": "Rare"
+      },
+      {
+        "text": "Manicotti",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tagliatelle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pappardelle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Orecchiette",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vermicelli",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bucatini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gemelli",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rotelle",
+        "aliases": [
+          "wagon wheel",
+          "ruote"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ditalini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cavatappi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Radiatori",
+        "tier": "Rare"
+      },
+      {
+        "text": "Campanelle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Strozzapreti",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Trofie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Casarecce",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Paccheri",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mafaldine",
+        "aliases": [
+          "mafalda"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cavatelli",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Garganelli",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pici",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Anelli",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stelline",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Agnolotti",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cappelletti",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lumache",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fregola",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Malloreddus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bigoli",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Corzetti",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Calamarata",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tagliolini",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alfabeto",
+        "aliases": [
+          "alphabet"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Su filindeu",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "cocktails",
+    "prompt": "Name a cocktail",
+    "category": "Food & Drink",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Margarita",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Martini",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mojito",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Cosmopolitan",
+        "aliases": [
+          "cosmo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Piña colada",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Old fashioned",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bloody Mary",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Daiquiri",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Manhattan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mai tai",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Long Island iced tea",
+        "aliases": [
+          "long island"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sex on the beach",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Moscow mule",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Whiskey sour",
+        "aliases": [
+          "whisky sour"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Negroni",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tequila sunrise",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gin and tonic",
+        "aliases": [
+          "g and t"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mint julep",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aperol spritz",
+        "aliases": [
+          "spritz"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Screwdriver",
+        "tier": "Rare"
+      },
+      {
+        "text": "White Russian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Black Russian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Espresso martini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Caipirinha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Paloma",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tom Collins",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sidecar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gimlet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bellini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mimosa",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kir royale",
+        "aliases": [
+          "kir"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Dark 'n' Stormy",
+        "aliases": [
+          "dark and stormy"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cuba libre",
+        "aliases": [
+          "rum and coke"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hurricane",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zombie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sazerac",
+        "tier": "Rare"
+      },
+      {
+        "text": "Singapore sling",
+        "tier": "Rare"
+      },
+      {
+        "text": "French 75",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grasshopper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aviation",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Last Word",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Corpse Reviver",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ramos gin fizz",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bramble",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Boulevardier",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hanky Panky",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pisco sour",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Clover Club",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Painkiller",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Penicillin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Paper Plane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jungle Bird",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rob Roy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rusty Nail",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brandy Alexander",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Harvey Wallbanger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gibson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bee's Knees",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sherry cobbler",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vieux Carré",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "apple-varieties",
+    "prompt": "Name a variety of apple",
+    "category": "Food & Drink",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "apple"
+    ],
+    "answers": [
+      {
+        "text": "Granny Smith",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Red Delicious",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Gala",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Crab",
+        "aliases": [
+          "crabapple"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Fuji",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Honeycrisp",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Golden Delicious",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pink Lady",
+        "aliases": [
+          "cripps pink"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "McIntosh",
+        "aliases": [
+          "mcintosh red"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Braeburn",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jazz",
+        "tier": "Rare"
+      },
+      {
+        "text": "Envy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cosmic Crisp",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ambrosia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jonagold",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cortland",
+        "tier": "Rare"
+      },
+      {
+        "text": "Empire",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rome",
+        "aliases": [
+          "rome beauty"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Jonathan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cox's Orange Pippin",
+        "aliases": [
+          "cox",
+          "coxs"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bramley",
+        "aliases": [
+          "bramley seedling"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Northern Spy",
+        "tier": "Rare"
+      },
+      {
+        "text": "SweeTango",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mutsu",
+        "aliases": [
+          "crispin"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Winesap",
+        "tier": "Rare"
+      },
+      {
+        "text": "Opal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Macoun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gravenstein",
+        "tier": "Rare"
+      },
+      {
+        "text": "Newtown Pippin",
+        "aliases": [
+          "pippin"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Arkansas Black",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Baldwin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Egremont Russet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Roxbury Russet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Esopus Spitzenburg",
+        "aliases": [
+          "spitzenburg"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhode Island Greening",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Discovery",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spartan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Idared",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lady",
+        "aliases": [
+          "api"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Calville Blanc",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pinova",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kanzi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Belle de Boskoop",
+        "aliases": [
+          "boskoop"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Elstar",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sekai Ichi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wolf River",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Court Pendu Plat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kidd's Orange Red",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ashmead's Kernel",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "wine-grapes",
+    "prompt": "Name a wine grape variety",
+    "category": "Food & Drink",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Merlot",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Cabernet Sauvignon",
+        "aliases": [
+          "cabernet",
+          "cab sauv",
+          "cab"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Chardonnay",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Concord",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Pinot Noir",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sauvignon Blanc",
+        "aliases": [
+          "sauv blanc"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pinot Grigio",
+        "aliases": [
+          "pinot gris"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Riesling",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shiraz",
+        "aliases": [
+          "syrah"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Zinfandel",
+        "aliases": [
+          "primitivo",
+          "zin"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Malbec",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Moscato",
+        "aliases": [
+          "muscat"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sangiovese",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tempranillo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grenache",
+        "aliases": [
+          "garnacha"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Chenin Blanc",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gewürztraminer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cabernet Franc",
+        "tier": "Rare"
+      },
+      {
+        "text": "Viognier",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nebbiolo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gamay",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pinotage",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carménère",
+        "tier": "Rare"
+      },
+      {
+        "text": "Petite Sirah",
+        "aliases": [
+          "durif"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sémillon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Albariño",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grüner Veltliner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Barbera",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mourvèdre",
+        "aliases": [
+          "monastrell",
+          "mataro"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Torrontés",
+        "tier": "Rare"
+      },
+      {
+        "text": "Melon de Bourgogne",
+        "aliases": [
+          "muscadet"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Touriga Nacional",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aglianico",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nero d'Avola",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Verdejo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vermentino",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Trebbiano",
+        "aliases": [
+          "ugni blanc"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Garganega",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Assyrtiko",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xinomavro",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Furmint",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tannat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carignan",
+        "aliases": [
+          "carinena"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cinsault",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Petit Verdot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Marsanne",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Roussanne",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Montepulciano",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dolcetto",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Corvina",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fiano",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Picpoul",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lagrein",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Blaufränkisch",
+        "aliases": [
+          "lemberger"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Saperavi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mencía",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Godello",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rkatsiteli",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Plavac Mali",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "kitchen-utensils",
+    "prompt": "Name a kitchen utensil",
+    "category": "Objects & Brands",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Spoon",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Fork",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Knife",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Hands",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Spork",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Whisk",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ladle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Spatula",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tongs",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Peeler",
+        "aliases": [
+          "vegetable peeler"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Can opener",
+        "aliases": [
+          "tin opener"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rolling pin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Grater",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Colander",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Measuring cup",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wooden spoon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Potato masher",
+        "aliases": [
+          "masher"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Zester",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mandoline",
+        "tier": "Rare"
+      },
+      {
+        "text": "Garlic press",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slotted spoon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pastry brush",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sieve",
+        "aliases": [
+          "strainer"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bottle opener",
+        "tier": "Rare"
+      },
+      {
+        "text": "Corkscrew",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ice cream scoop",
+        "aliases": [
+          "scoop"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pizza cutter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kitchen shears",
+        "aliases": [
+          "scissors"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Meat thermometer",
+        "aliases": [
+          "thermometer"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Funnel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baster",
+        "aliases": [
+          "turkey baster"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Melon baller",
+        "tier": "Rare"
+      },
+      {
+        "text": "Measuring spoon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Skewer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Salad spinner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mortar and pestle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Apple corer",
+        "aliases": [
+          "corer"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Nutcracker",
+        "tier": "Rare"
+      },
+      {
+        "text": "Egg slicer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Meat tenderizer",
+        "aliases": [
+          "meat mallet"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Chopsticks",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cutting board",
+        "aliases": [
+          "chopping board"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mezzaluna",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spider",
+        "aliases": [
+          "spider skimmer"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chinois",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bench scraper",
+        "aliases": [
+          "dough scraper"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pastry blender",
+        "aliases": [
+          "pastry cutter"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ricer",
+        "aliases": [
+          "potato ricer"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cleaver",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Butter curler",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Reamer",
+        "aliases": [
+          "lemon reamer"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tamis",
+        "aliases": [
+          "drum sieve"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cherry pitter",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Larding needle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Trussing needle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Channel knife",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Food mill",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fish slice",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pie bird",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spurtle",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "furniture",
+    "prompt": "Name a piece of furniture",
+    "category": "Objects & Brands",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Chair",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Table",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Couch",
+        "aliases": [
+          "sofa"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Bed",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Desk",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dresser",
+        "aliases": [
+          "chest of drawers"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bookcase",
+        "aliases": [
+          "bookshelf",
+          "shelf",
+          "shelves"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Stool",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wardrobe",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cabinet",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nightstand",
+        "aliases": [
+          "bedside table"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Recliner",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Coffee table",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ottoman",
+        "aliases": [
+          "footstool"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bench",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Futon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Armchair",
+        "tier": "Rare"
+      },
+      {
+        "text": "Loveseat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rocking chair",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bunk bed",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sideboard",
+        "aliases": [
+          "buffet"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hutch",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vanity",
+        "aliases": [
+          "dressing table"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Crib",
+        "aliases": [
+          "cot"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bean bag",
+        "aliases": [
+          "beanbag"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Chaise longue",
+        "aliases": [
+          "chaise lounge",
+          "chaise"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Filing cabinet",
+        "tier": "Rare"
+      },
+      {
+        "text": "TV stand",
+        "tier": "Rare"
+      },
+      {
+        "text": "High chair",
+        "aliases": [
+          "highchair"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Credenza",
+        "tier": "Rare"
+      },
+      {
+        "text": "Daybed",
+        "tier": "Rare"
+      },
+      {
+        "text": "Coat rack",
+        "aliases": [
+          "hat stand"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Console table",
+        "tier": "Rare"
+      },
+      {
+        "text": "End table",
+        "aliases": [
+          "side table"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pouf",
+        "aliases": [
+          "pouffe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Davenport",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Settee",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Divan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chiffonier",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Étagère",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Secretary desk",
+        "aliases": [
+          "secretary"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tallboy",
+        "aliases": [
+          "highboy"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lowboy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Escritoire",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Whatnot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fainting couch",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tuffet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chesterfield",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Four-poster bed",
+        "aliases": [
+          "four poster"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Murphy bed",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Armoire",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Commode",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Prie-dieu",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "car-brands",
+    "prompt": "Name a car brand",
+    "category": "Objects & Brands",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Toyota",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ford",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Honda",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Hot Wheels",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Chevrolet",
+        "aliases": [
+          "chevy"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "BMW",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mercedes-Benz",
+        "aliases": [
+          "mercedes",
+          "benz"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tesla",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nissan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Volkswagen",
+        "aliases": [
+          "vw"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Audi",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ferrari",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jeep",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hyundai",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Porsche",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lamborghini",
+        "aliases": [
+          "lambo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Subaru",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mazda",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lexus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dodge",
+        "tier": "Rare"
+      },
+      {
+        "text": "Volvo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jaguar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Land Rover",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cadillac",
+        "tier": "Rare"
+      },
+      {
+        "text": "Buick",
+        "tier": "Rare"
+      },
+      {
+        "text": "GMC",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chrysler",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fiat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bentley",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rolls-Royce",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maserati",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mitsubishi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Acura",
+        "tier": "Rare"
+      },
+      {
+        "text": "Infiniti",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lincoln",
+        "tier": "Rare"
+      },
+      {
+        "text": "Peugeot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Renault",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aston Martin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bugatti",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ram",
+        "tier": "Rare"
+      },
+      {
+        "text": "Citroën",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Škoda",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "SEAT",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alfa Romeo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lotus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "McLaren",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Koenigsegg",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pagani",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Genesis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Suzuki",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Opel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vauxhall",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lada",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Polestar",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rivian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "BYD",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "DeLorean",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hispano-Suiza",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "hand-tools",
+    "prompt": "Name a hand tool",
+    "category": "Objects & Brands",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Hammer",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Screwdriver",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Wrench",
+        "aliases": [
+          "spanner"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Leatherman",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Swiss Army knife",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Pliers",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Saw",
+        "aliases": [
+          "handsaw"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tape measure",
+        "aliases": [
+          "measuring tape"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Level",
+        "aliases": [
+          "spirit level"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chisel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Crowbar",
+        "aliases": [
+          "pry bar"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mallet",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Utility knife",
+        "aliases": [
+          "box cutter",
+          "stanley knife"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Allen key",
+        "aliases": [
+          "hex key",
+          "allen wrench"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "File",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Clamp",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Axe",
+        "aliases": [
+          "ax"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hacksaw",
+        "tier": "Rare"
+      },
+      {
+        "text": "Socket wrench",
+        "aliases": [
+          "ratchet"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Adjustable wrench",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wire stripper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wire cutter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Plane",
+        "aliases": [
+          "hand plane"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sledgehammer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Square",
+        "aliases": [
+          "try square",
+          "speed square"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Awl",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trowel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Putty knife",
+        "tier": "Rare"
+      },
+      {
+        "text": "Caulking gun",
+        "aliases": [
+          "caulk gun"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Staple gun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hatchet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pickaxe",
+        "aliases": [
+          "pick"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Rasp",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pipe wrench",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tin snips",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bolt cutter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Scraper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shovel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hoe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spokeshave",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Drawknife",
+        "aliases": [
+          "drawshave"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Adze",
+        "aliases": [
+          "adz"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bradawl",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coping saw",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mitre box",
+        "aliases": [
+          "miter box"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nail set",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Center punch",
+        "aliases": [
+          "centre punch"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Torque wrench",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Feeler gauge",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caliper",
+        "aliases": [
+          "calipers"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scribe",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Burnisher",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brace",
+        "aliases": [
+          "brace and bit"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gimlet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Auger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sliding bevel",
+        "aliases": [
+          "bevel"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mattock",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Froe",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "shoe-types",
+    "prompt": "Name a type of shoe",
+    "category": "Objects & Brands",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "shoe",
+      "shoes"
+    ],
+    "answers": [
+      {
+        "text": "Sneaker",
+        "aliases": [
+          "trainer",
+          "tennis",
+          "tennis shoe"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Boot",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sandal",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Horseshoe",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Crocs",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Ugg",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "High heel",
+        "aliases": [
+          "heel"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Flip-flop",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Loafer",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Slipper",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Flat",
+        "aliases": [
+          "ballet flat"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Running",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Clog",
+        "aliases": [
+          "wooden",
+          "sabot"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Moccasin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Oxford",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pump",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Stiletto",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wedge",
+        "tier": "Rare"
+      },
+      {
+        "text": "Platform",
+        "tier": "Rare"
+      },
+      {
+        "text": "Espadrille",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mule",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brogue",
+        "tier": "Rare"
+      },
+      {
+        "text": "Derby",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boat",
+        "aliases": [
+          "deck"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cleat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wellington",
+        "aliases": [
+          "wellies",
+          "welly",
+          "rain boot",
+          "gumboot"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cowboy boot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chelsea boot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mary Jane",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slingback",
+        "tier": "Rare"
+      },
+      {
+        "text": "Peep toe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tap",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bowling",
+        "tier": "Rare"
+      },
+      {
+        "text": "Plimsoll",
+        "tier": "Rare"
+      },
+      {
+        "text": "Galosh",
+        "aliases": [
+          "galoshes",
+          "overshoe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Monk strap",
+        "aliases": [
+          "monk"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hiking boot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pointe",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kitten heel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Huarache",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Geta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zori",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jutti",
+        "aliases": [
+          "mojari"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brothel creeper",
+        "aliases": [
+          "creeper"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Winklepicker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Desert boot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jodhpur boot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spectator",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Opanak",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chopine",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "hat-types",
+    "prompt": "Name a type of hat",
+    "category": "Objects & Brands",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "hat"
+    ],
+    "answers": [
+      {
+        "text": "Baseball cap",
+        "aliases": [
+          "cap"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Cowboy",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Beanie",
+        "aliases": [
+          "bobble",
+          "wooly hat",
+          "woolly hat"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Stetson",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Top",
+        "aliases": [
+          "top hat"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fedora",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sombrero",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bowler",
+        "aliases": [
+          "derby"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Beret",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bucket",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sun",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Visor",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Trucker",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Party",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chef's hat",
+        "aliases": [
+          "chef"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bonnet",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Panama",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trilby",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fez",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pork pie",
+        "aliases": [
+          "porkpie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Newsboy cap",
+        "aliases": [
+          "newsboy",
+          "baker boy"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Flat cap",
+        "tier": "Rare"
+      },
+      {
+        "text": "Deerstalker",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boater",
+        "aliases": [
+          "straw boater"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hard",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mortarboard",
+        "aliases": [
+          "graduation cap"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Snapback",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fascinator",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ushanka",
+        "aliases": [
+          "trapper"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Conical",
+        "aliases": [
+          "rice hat",
+          "non la"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Kippah",
+        "aliases": [
+          "yarmulke"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tricorn",
+        "aliases": [
+          "tricorne"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Witch",
+        "tier": "Rare"
+      },
+      {
+        "text": "Balaclava",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tam o' shanter",
+        "aliases": [
+          "tam"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cloche",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pillbox",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Akubra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kufi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bicorne",
+        "aliases": [
+          "bicorn"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Busby",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bearskin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pith helmet",
+        "aliases": [
+          "sola topi"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Homburg",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Boonie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sou'wester",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Glengarry",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mitre",
+        "aliases": [
+          "miter"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zucchetto",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kepi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shako",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coonskin cap",
+        "aliases": [
+          "coonskin"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Capotain",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "board-games",
+    "prompt": "Name a board game",
+    "category": "Objects & Brands",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Monopoly",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Chess",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Scrabble",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ouija",
+        "aliases": [
+          "ouija board"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Checkers",
+        "aliases": [
+          "draughts"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Clue",
+        "aliases": [
+          "cluedo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sorry!",
+        "aliases": [
+          "sorry"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Risk",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Candy Land",
+        "aliases": [
+          "candyland"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Trouble",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Battleship",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Connect Four",
+        "aliases": [
+          "connect 4"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "The Game of Life",
+        "aliases": [
+          "game of life",
+          "life"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Snakes and Ladders",
+        "aliases": [
+          "chutes and ladders"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Backgammon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ludo",
+        "aliases": [
+          "parcheesi",
+          "pachisi"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Operation",
+        "tier": "Rare"
+      },
+      {
+        "text": "Guess Who",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mouse Trap",
+        "aliases": [
+          "mousetrap"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Go",
+        "aliases": [
+          "weiqi",
+          "baduk"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Othello",
+        "aliases": [
+          "reversi"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Stratego",
+        "tier": "Rare"
+      },
+      {
+        "text": "Catan",
+        "aliases": [
+          "settlers of catan"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ticket to Ride",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pandemic",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mancala",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chinese checkers",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trivial Pursuit",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pictionary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hungry Hungry Hippos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cranium",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mastermind",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carcassonne",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shogi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xiangqi",
+        "aliases": [
+          "chinese chess"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nine men's morris",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Senet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Royal Game of Ur",
+        "aliases": [
+          "game of ur"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Azul",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Agricola",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Twilight Struggle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gloomhaven",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Puerto Rico",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Diplomacy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Axis & Allies",
+        "aliases": [
+          "axis and allies"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Blokus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Terraforming Mars",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wingspan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Halma",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hnefatafl",
+        "aliases": [
+          "tafl"
+        ],
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "boat-types",
+    "prompt": "Name a type of boat",
+    "category": "Objects & Brands",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "boat"
+    ],
+    "answers": [
+      {
+        "text": "Canoe",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kayak",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sailboat",
+        "aliases": [
+          "sailing boat",
+          "sailing"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Gravy",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Banana",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Jet Ski",
+        "aliases": [
+          "jetski"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Yacht",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rowboat",
+        "aliases": [
+          "rowing boat",
+          "rowing"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Speedboat",
+        "aliases": [
+          "motorboat"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ferry",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Raft",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tugboat",
+        "aliases": [
+          "tug"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fishing",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gondola",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pontoon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Catamaran",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dinghy",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Paddle",
+        "aliases": [
+          "pedalo",
+          "pedal boat",
+          "paddleboat"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Houseboat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Barge",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lifeboat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Schooner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trawler",
+        "tier": "Rare"
+      },
+      {
+        "text": "Steamboat",
+        "aliases": [
+          "paddle steamer"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Junk",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sampan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Punt",
+        "tier": "Rare"
+      },
+      {
+        "text": "Narrowboat",
+        "aliases": [
+          "canal boat"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Longship",
+        "aliases": [
+          "longboat"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Galleon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trireme",
+        "tier": "Rare"
+      },
+      {
+        "text": "Submarine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hovercraft",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dragon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Airboat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trimaran",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cruise ship",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dhow",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Felucca",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coracle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Outrigger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Proa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pirogue",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dory",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Skiff",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ketch",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sloop",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yawl",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brigantine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Clipper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Galley",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caravel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carrack",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hydrofoil",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cog",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Knarr",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vaporetto",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Curragh",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shikara",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Umiak",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "fabrics",
+    "prompt": "Name a fabric",
+    "category": "Objects & Brands",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Cotton",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Silk",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Polyester",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Gore-Tex",
+        "aliases": [
+          "goretex"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Kevlar",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Wool",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Denim",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Linen",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Velvet",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Satin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nylon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fleece",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Spandex",
+        "aliases": [
+          "lycra",
+          "elastane"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Flannel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cashmere",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lace",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Corduroy",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rayon",
+        "aliases": [
+          "viscose"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chiffon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tweed",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jersey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Felt",
+        "tier": "Rare"
+      },
+      {
+        "text": "Canvas",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tulle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chenille",
+        "tier": "Rare"
+      },
+      {
+        "text": "Muslin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gingham",
+        "tier": "Rare"
+      },
+      {
+        "text": "Taffeta",
+        "tier": "Rare"
+      },
+      {
+        "text": "Organza",
+        "tier": "Rare"
+      },
+      {
+        "text": "Acrylic",
+        "tier": "Rare"
+      },
+      {
+        "text": "Twill",
+        "tier": "Rare"
+      },
+      {
+        "text": "Burlap",
+        "aliases": [
+          "hessian"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Terrycloth",
+        "aliases": [
+          "terry",
+          "towelling"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Microfiber",
+        "aliases": [
+          "microfibre"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Seersucker",
+        "tier": "Rare"
+      },
+      {
+        "text": "Poplin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chambray",
+        "tier": "Rare"
+      },
+      {
+        "text": "Crêpe",
+        "aliases": [
+          "crepe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mohair",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gabardine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Georgette",
+        "tier": "Rare"
+      },
+      {
+        "text": "Damask",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brocade",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lyocell",
+        "aliases": [
+          "tencel"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Calico",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chintz",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Voile",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cheesecloth",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oilcloth",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Moleskin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Madras",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bouclé",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Loden",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Charmeuse",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Crêpe de Chine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Percale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Toile",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ripstop",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Samite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bombazine",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "sword-types",
+    "prompt": "Name a type of sword",
+    "category": "Objects & Brands",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Katana",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Broadsword",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Rapier",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Lightsaber",
+        "aliases": [
+          "light saber"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Excalibur",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Sabre",
+        "aliases": [
+          "saber"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Scimitar",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cutlass",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Longsword",
+        "aliases": [
+          "long sword"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Claymore",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Épée",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Foil",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gladius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Falchion",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shortsword",
+        "aliases": [
+          "short sword"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Greatsword",
+        "aliases": [
+          "great sword"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Zweihänder",
+        "aliases": [
+          "zweihander",
+          "two handed sword"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Wakizashi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tachi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Smallsword",
+        "aliases": [
+          "small sword"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Backsword",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bastard sword",
+        "aliases": [
+          "hand and a half sword"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Khopesh",
+        "tier": "Rare"
+      },
+      {
+        "text": "Arming sword",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dao",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Estoc",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Flamberge",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kopis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xiphos",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spatha",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Falcata",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Talwar",
+        "aliases": [
+          "tulwar"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shamshir",
+        "aliases": [
+          "shamshir"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kilij",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yataghan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shotel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nodachi",
+        "aliases": [
+          "odachi"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Messer",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Katzbalger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Schiavona",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hook sword",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dha",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Khanda",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kampilan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pata",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shashka",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Urumi",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "watch-brands",
+    "prompt": "Name a watch brand",
+    "category": "Objects & Brands",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Rolex",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Casio",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Timex",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Apple",
+        "aliases": [
+          "apple watch"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Samsung",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Omega",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Seiko",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Swatch",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Citizen",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fossil",
+        "tier": "Schooler"
+      },
+      {
+        "text": "TAG Heuer",
+        "aliases": [
+          "tag"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cartier",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Patek Philippe",
+        "aliases": [
+          "patek"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Breitling",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tissot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Longines",
+        "tier": "Rare"
+      },
+      {
+        "text": "Audemars Piguet",
+        "aliases": [
+          "ap"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hublot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bulova",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hamilton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tudor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Movado",
+        "tier": "Rare"
+      },
+      {
+        "text": "Garmin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Invicta",
+        "tier": "Rare"
+      },
+      {
+        "text": "IWC",
+        "tier": "Rare"
+      },
+      {
+        "text": "Panerai",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rado",
+        "tier": "Rare"
+      },
+      {
+        "text": "Daniel Wellington",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shinola",
+        "tier": "Rare"
+      },
+      {
+        "text": "G-Shock",
+        "aliases": [
+          "gshock"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Jaeger-LeCoultre",
+        "aliases": [
+          "jlc"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vacheron Constantin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Breguet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Blancpain",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "A. Lange & Söhne",
+        "aliases": [
+          "a lange and sohne",
+          "lange"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Richard Mille",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zenith",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Grand Seiko",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oris",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chopard",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ulysse Nardin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Girard-Perregaux",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Piaget",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bell & Ross",
+        "aliases": [
+          "bell and ross"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nomos",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sinn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Glashütte Original",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Baume & Mercier",
+        "aliases": [
+          "baume and mercier"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Raymond Weil",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Frederique Constant",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mido",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Orient",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Montblanc",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Certina",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Doxa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "MB&F",
+        "aliases": [
+          "mbf"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "F.P. Journe",
+        "aliases": [
+          "fp journe",
+          "journe"
+        ],
+        "tier": "Golden Krill"
+      }
+    ]
+  }
+]

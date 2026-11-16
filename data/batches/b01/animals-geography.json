@@ -1,0 +1,6416 @@
+[
+  {
+    "id": "dog-breeds",
+    "prompt": "Name a breed of dog",
+    "category": "Animals & Nature",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "dog",
+      "breed"
+    ],
+    "answers": [
+      {
+        "text": "Labrador Retriever",
+        "aliases": [
+          "Labrador",
+          "Lab"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "German Shepherd",
+        "aliases": [
+          "Alsatian"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Golden Retriever",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Poodle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bulldog",
+        "aliases": [
+          "English Bulldog"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Beagle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chihuahua",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dachshund",
+        "aliases": [
+          "Wiener dog",
+          "Sausage dog"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pug",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rottweiler",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Siberian Husky",
+        "aliases": [
+          "Husky"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Boxer",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dalmatian",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Border Collie",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Great Dane",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yorkshire Terrier",
+        "aliases": [
+          "Yorkie"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Doberman",
+        "aliases": [
+          "Dobermann",
+          "Doberman Pinscher"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shih Tzu",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Corgi",
+        "aliases": [
+          "Pembroke Welsh Corgi",
+          "Welsh Corgi"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "French Bulldog",
+        "aliases": [
+          "Frenchie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cocker Spaniel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cavalier King Charles Spaniel",
+        "aliases": [
+          "Cavalier"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bernese Mountain Dog",
+        "aliases": [
+          "Berner"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Saint Bernard",
+        "aliases": [
+          "St Bernard"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Shiba Inu",
+        "aliases": [
+          "Shiba"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Akita",
+        "tier": "Rare"
+      },
+      {
+        "text": "Australian Shepherd",
+        "aliases": [
+          "Aussie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Maltese",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pomeranian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bichon Frisé",
+        "aliases": [
+          "Bichon"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Schnauzer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Greyhound",
+        "tier": "Rare"
+      },
+      {
+        "text": "Whippet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Basset Hound",
+        "aliases": [
+          "Basset"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bloodhound",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jack Russell Terrier",
+        "aliases": [
+          "Jack Russell"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Newfoundland",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mastiff",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chow Chow",
+        "aliases": [
+          "Chow"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Shar Pei",
+        "tier": "Rare"
+      },
+      {
+        "text": "Weimaraner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Afghan Hound",
+        "aliases": [
+          "Afghan"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bull Terrier",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boston Terrier",
+        "tier": "Rare"
+      },
+      {
+        "text": "Samoyed",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alaskan Malamute",
+        "aliases": [
+          "Malamute"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Irish Setter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rough Collie",
+        "aliases": [
+          "Collie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Vizsla",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Basenji",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhodesian Ridgeback",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Komondor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Puli",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Borzoi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Saluki",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xoloitzcuintli",
+        "aliases": [
+          "Xolo",
+          "Mexican Hairless"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leonberger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Keeshond",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Papillon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bedlington Terrier",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lhasa Apso",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pekingese",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Irish Wolfhound",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scottish Terrier",
+        "aliases": [
+          "Scottie"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "West Highland White Terrier",
+        "aliases": [
+          "Westie"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shetland Sheepdog",
+        "aliases": [
+          "Sheltie"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Old English Sheepdog",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Belgian Malinois",
+        "aliases": [
+          "Malinois"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cane Corso",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Portuguese Water Dog",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pharaoh Hound",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nova Scotia Duck Tolling Retriever",
+        "aliases": [
+          "Toller"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chinese Crested",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Norwegian Elkhound",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Azawakh",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Labradoodle",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Cockapoo",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "trees",
+    "prompt": "Name a type of tree",
+    "category": "Animals & Nature",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "tree"
+    ],
+    "answers": [
+      {
+        "text": "Oak",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Pine",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Maple",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Birch",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Willow",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Palm",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Apple",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Elm",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Redwood",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Spruce",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fir",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cedar",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cherry",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ash",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Beech",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Christmas tree",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sycamore",
+        "tier": "Rare"
+      },
+      {
+        "text": "Poplar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aspen",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cypress",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sequoia",
+        "aliases": [
+          "Giant sequoia"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Eucalyptus",
+        "aliases": [
+          "Gum tree"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Magnolia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dogwood",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hickory",
+        "tier": "Rare"
+      },
+      {
+        "text": "Walnut",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chestnut",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hemlock",
+        "tier": "Rare"
+      },
+      {
+        "text": "Larch",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yew",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baobab",
+        "tier": "Rare"
+      },
+      {
+        "text": "Banyan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Olive",
+        "tier": "Rare"
+      },
+      {
+        "text": "Coconut palm",
+        "aliases": [
+          "Coconut"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Holly",
+        "tier": "Rare"
+      },
+      {
+        "text": "Juniper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mahogany",
+        "tier": "Rare"
+      },
+      {
+        "text": "Teak",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lemon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Orange",
+        "tier": "Rare"
+      },
+      {
+        "text": "Linden",
+        "aliases": [
+          "Basswood"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hornbeam",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alder",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rowan",
+        "aliases": [
+          "Mountain ash"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hawthorn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sweetgum",
+        "aliases": [
+          "Liquidambar"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tulip tree",
+        "aliases": [
+          "Tulip poplar"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ginkgo",
+        "aliases": [
+          "Maidenhair tree"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jacaranda",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Acacia",
+        "aliases": [
+          "Wattle"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mesquite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Joshua tree",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Monkey puzzle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dragon tree",
+        "aliases": [
+          "Dragon blood tree"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kapok",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ebony",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sandalwood",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Catalpa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Black locust",
+        "aliases": [
+          "Locust"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Horse chestnut",
+        "aliases": [
+          "Buckeye"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mangrove",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cork oak",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bristlecone pine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Douglas fir",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sassafras",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Persimmon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wollemi pine",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "flowers",
+    "prompt": "Name a type of flower",
+    "category": "Animals & Nature",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "flower"
+    ],
+    "answers": [
+      {
+        "text": "Rose",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tulip",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Daisy",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sunflower",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lily",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Orchid",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Daffodil",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Carnation",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lavender",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Poppy",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Violet",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dandelion",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lilac",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Marigold",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hibiscus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Iris",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Peony",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chrysanthemum",
+        "aliases": [
+          "Mum"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hydrangea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Magnolia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lotus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jasmine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gardenia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Azalea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Camellia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Begonia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Petunia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Geranium",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pansy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zinnia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dahlia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gladiolus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Snapdragon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bluebell",
+        "tier": "Rare"
+      },
+      {
+        "text": "Buttercup",
+        "tier": "Rare"
+      },
+      {
+        "text": "Forget-me-not",
+        "tier": "Rare"
+      },
+      {
+        "text": "Crocus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hyacinth",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cherry blossom",
+        "aliases": [
+          "Sakura"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Morning glory",
+        "tier": "Rare"
+      },
+      {
+        "text": "Foxglove",
+        "tier": "Rare"
+      },
+      {
+        "text": "Primrose",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lily of the valley",
+        "tier": "Rare"
+      },
+      {
+        "text": "Freesia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Protea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bird of paradise",
+        "aliases": [
+          "Strelitzia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Edelweiss",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Anemone",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ranunculus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cosmos",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aster",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Delphinium",
+        "aliases": [
+          "Larkspur"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lupin",
+        "aliases": [
+          "Lupine"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Amaryllis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gerbera",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wisteria",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bougainvillea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Plumeria",
+        "aliases": [
+          "Frangipani"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Heather",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sweet pea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hollyhock",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Columbine",
+        "aliases": [
+          "Aquilegia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Clematis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cyclamen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Snowdrop",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Calla lily",
+        "aliases": [
+          "Arum lily"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Titan arum",
+        "aliases": [
+          "Corpse flower"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rafflesia",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Cauliflower",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "flightless-birds",
+    "prompt": "Name a bird that can't fly",
+    "category": "Animals & Nature",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "bird"
+    ],
+    "answers": [
+      {
+        "text": "Penguin",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ostrich",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Emu",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kiwi",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rhea",
+        "aliases": [
+          "Nandu"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Emperor penguin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "King penguin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cassowary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dodo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Moa",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gentoo penguin",
+        "tier": "Rare"
+      },
+      {
+        "text": "African penguin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Galápagos penguin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Humboldt penguin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Adélie penguin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rockhopper penguin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Macaroni penguin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Elephant bird",
+        "aliases": [
+          "Aepyornis"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Great auk",
+        "tier": "Rare"
+      },
+      {
+        "text": "Galápagos cormorant",
+        "aliases": [
+          "Flightless cormorant"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Weka",
+        "tier": "Rare"
+      },
+      {
+        "text": "Little penguin",
+        "aliases": [
+          "Fairy penguin",
+          "Little blue penguin"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Kākāpō",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Takahē",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chinstrap penguin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Magellanic penguin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yellow-eyed penguin",
+        "aliases": [
+          "Hoiho"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lesser rhea",
+        "aliases": [
+          "Darwin's rhea"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Titicaca grebe",
+        "aliases": [
+          "Titicaca flightless grebe"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Falkland steamer duck",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lord Howe woodhen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Guam rail",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aldabra rail",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Henderson crake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Okinawa rail",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Campbell teal",
+        "aliases": [
+          "Campbell Island teal"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Auckland teal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gough moorhen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rodrigues solitaire",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Adzebill",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stephens Island wren",
+        "aliases": [
+          "Lyall's wren"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Moa-nalo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Terror bird",
+        "aliases": [
+          "Phorusrhacid"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gastornis",
+        "aliases": [
+          "Diatryma"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Inaccessible Island rail",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Rubber duck",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "sharks",
+    "prompt": "Name a type of shark",
+    "category": "Animals & Nature",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "shark"
+    ],
+    "answers": [
+      {
+        "text": "Great white shark",
+        "aliases": [
+          "White shark"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Hammerhead shark",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tiger shark",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Whale shark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bull shark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mako shark",
+        "aliases": [
+          "Shortfin mako"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nurse shark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Basking shark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Blue shark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lemon shark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Megalodon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Thresher shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Goblin shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Blacktip shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oceanic whitetip shark",
+        "aliases": [
+          "Whitetip"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Greenland shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sand tiger shark",
+        "aliases": [
+          "Grey nurse shark",
+          "Ragged-tooth shark"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Wobbegong",
+        "tier": "Rare"
+      },
+      {
+        "text": "Angel shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spiny dogfish",
+        "aliases": [
+          "Dogfish"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Frilled shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cookiecutter shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Megamouth shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Leopard shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zebra shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Great hammerhead shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Port Jackson shark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bluntnose sixgill shark",
+        "aliases": [
+          "Sixgill shark"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Broadnose sevengill shark",
+        "aliases": [
+          "Sevengill shark"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bonnethead shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lanternshark",
+        "aliases": [
+          "Lantern shark"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Silky shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dusky shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sandbar shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Galápagos shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caribbean reef shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Grey reef shark",
+        "aliases": [
+          "Gray reef shark"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Blacktip reef shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Epaulette shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Horn shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Swell shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salmon shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Porbeagle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pacific sleeper shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Copper shark",
+        "aliases": [
+          "Bronze whaler"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spinner shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bramble shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pyjama shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sawshark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scalloped hammerhead shark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ninja lanternshark",
+        "aliases": [
+          "Ninja lantern shark"
+        ],
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "snakes",
+    "prompt": "Name a type of snake",
+    "category": "Animals & Nature",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "snake"
+    ],
+    "answers": [
+      {
+        "text": "Rattlesnake",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Cobra",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Python",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Boa constrictor",
+        "aliases": [
+          "Boa"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Anaconda",
+        "tier": "Schooler"
+      },
+      {
+        "text": "King cobra",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Black mamba",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Viper",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Garter snake",
+        "aliases": [
+          "Gardener snake"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Corn snake",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Copperhead",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cottonmouth",
+        "aliases": [
+          "Water moccasin"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Coral snake",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Adder",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sea snake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kingsnake",
+        "aliases": [
+          "King snake"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Milk snake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rat snake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Inland taipan",
+        "aliases": [
+          "Taipan"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Green mamba",
+        "tier": "Rare"
+      },
+      {
+        "text": "Puff adder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gaboon viper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pit viper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sidewinder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boomslang",
+        "tier": "Rare"
+      },
+      {
+        "text": "Krait",
+        "tier": "Rare"
+      },
+      {
+        "text": "Reticulated python",
+        "tier": "Rare"
+      },
+      {
+        "text": "Burmese python",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ball python",
+        "aliases": [
+          "Royal python"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hognose snake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grass snake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eastern brown snake",
+        "aliases": [
+          "Brown snake"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tiger snake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Death adder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eastern diamondback rattlesnake",
+        "aliases": [
+          "Diamondback"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Fer-de-lance",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bushmaster",
+        "tier": "Rare"
+      },
+      {
+        "text": "Russell's viper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Saw-scaled viper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Green tree python",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Emerald tree boa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rubber boa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rosy boa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Indigo snake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Black racer",
+        "aliases": [
+          "Racer"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coachwhip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Flying snake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vine snake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Horned viper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sand boa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gopher snake",
+        "aliases": [
+          "Bull snake"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ribbon snake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eyelash viper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Timber rattlesnake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Massasauga",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mojave rattlesnake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Twig snake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "File snake",
+        "aliases": [
+          "Wart snake"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Northern water snake",
+        "aliases": [
+          "Water snake"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Titanoboa",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "dinosaurs",
+    "prompt": "Name a dinosaur",
+    "category": "Animals & Nature",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "dinosaur"
+    ],
+    "answers": [
+      {
+        "text": "Tyrannosaurus rex",
+        "aliases": [
+          "T. rex",
+          "Tyrannosaurus"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Triceratops",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Velociraptor",
+        "aliases": [
+          "Raptor"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Stegosaurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Brachiosaurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Brontosaurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Diplodocus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Spinosaurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ankylosaurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Allosaurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Iguanodon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Parasaurolophus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pachycephalosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Apatosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gallimimus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dilophosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Compsognathus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carnotaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Giganotosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Argentinosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Deinonychus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Archaeopteryx",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oviraptor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Microraptor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maiasaura",
+        "tier": "Rare"
+      },
+      {
+        "text": "Edmontosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hadrosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Therizinosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Utahraptor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Albertosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baryonyx",
+        "tier": "Rare"
+      },
+      {
+        "text": "Megalosaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Protoceratops",
+        "tier": "Rare"
+      },
+      {
+        "text": "Styracosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Corythosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lambeosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kentrosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Plateosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coelophysis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Herrerasaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eoraptor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Troodon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mamenchisaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Amargasaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Suchomimus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carcharodontosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ouranosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Psittacosaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nigersaurus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yutyrannus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Patagotitan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dreadnoughtus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sinosauropteryx",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pentaceratops",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Euoplocephalus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Irritator",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Chicken",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Pigeon",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "marsupials",
+    "prompt": "Name a marsupial",
+    "category": "Animals & Nature",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Kangaroo",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Koala",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Wombat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wallaby",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tasmanian devil",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Opossum",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Possum",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sugar glider",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Quokka",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Thylacine",
+        "aliases": [
+          "Tasmanian tiger",
+          "Tasmanian wolf"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bandicoot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Numbat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bilby",
+        "tier": "Rare"
+      },
+      {
+        "text": "Quoll",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tree kangaroo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wallaroo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pademelon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antechinus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dunnart",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cuscus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brushtail possum",
+        "aliases": [
+          "Common brushtail possum"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ringtail possum",
+        "tier": "Rare"
+      },
+      {
+        "text": "Red kangaroo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eastern grey kangaroo",
+        "aliases": [
+          "Grey kangaroo",
+          "Gray kangaroo"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Rock wallaby",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bettong",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Potoroo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Marsupial mole",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Honey possum",
+        "aliases": [
+          "Noolbenger"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Feathertail glider",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Greater glider",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kowari",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kultarr",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Planigale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Phascogale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mulgara",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ningaui",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shrew opossum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yapok",
+        "aliases": [
+          "Water opossum"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Marsupial lion",
+        "aliases": [
+          "Thylacoleo"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Diprotodon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leadbeater's possum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mountain pygmy possum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nabarlek",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Woylie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Monito del monte",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "cat-breeds",
+    "prompt": "Name a breed of cat",
+    "category": "Animals & Nature",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "cat",
+      "breed"
+    ],
+    "answers": [
+      {
+        "text": "Persian",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Siamese",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Maine Coon",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sphynx",
+        "aliases": [
+          "Sphinx"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bengal",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ragdoll",
+        "tier": "Schooler"
+      },
+      {
+        "text": "British Shorthair",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Scottish Fold",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Russian Blue",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Abyssinian",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Manx",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Burmese",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Norwegian Forest Cat",
+        "aliases": [
+          "Wegie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Siberian",
+        "tier": "Rare"
+      },
+      {
+        "text": "American Shorthair",
+        "tier": "Rare"
+      },
+      {
+        "text": "Exotic Shorthair",
+        "aliases": [
+          "Exotic"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Birman",
+        "tier": "Rare"
+      },
+      {
+        "text": "Devon Rex",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cornish Rex",
+        "tier": "Rare"
+      },
+      {
+        "text": "Himalayan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Savannah",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oriental Shorthair",
+        "aliases": [
+          "Oriental"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Turkish Angora",
+        "aliases": [
+          "Angora"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Turkish Van",
+        "tier": "Rare"
+      },
+      {
+        "text": "Egyptian Mau",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tonkinese",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bombay",
+        "tier": "Rare"
+      },
+      {
+        "text": "Munchkin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Balinese",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chartreux",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ragamuffin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Selkirk Rex",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "LaPerm",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Korat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ocicat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Somali",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Singapura",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Havana Brown",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Burmilla",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Japanese Bobtail",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "American Curl",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Snowshoe",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Toyger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Peterbald",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Donskoy",
+        "aliases": [
+          "Don Sphynx"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nebelung",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pixie-bob",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lykoi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chausie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kurilian Bobtail",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Khao Manee",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cymric",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "American Bobtail",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sokoke",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "horse-breeds",
+    "prompt": "Name a breed of horse",
+    "category": "Animals & Nature",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "horse",
+      "breed"
+    ],
+    "answers": [
+      {
+        "text": "Arabian",
+        "aliases": [
+          "Arab"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Thoroughbred",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Clydesdale",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mustang",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Appaloosa",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Quarter Horse",
+        "aliases": [
+          "American Quarter Horse"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shetland pony",
+        "aliases": [
+          "Shetland"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shire",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Friesian",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lipizzaner",
+        "aliases": [
+          "Lipizzan"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Andalusian",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Percheron",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Morgan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tennessee Walking Horse",
+        "aliases": [
+          "Tennessee Walker"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Standardbred",
+        "tier": "Rare"
+      },
+      {
+        "text": "Belgian",
+        "aliases": [
+          "Belgian draft"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Akhal-Teke",
+        "tier": "Rare"
+      },
+      {
+        "text": "Paint horse",
+        "aliases": [
+          "American Paint Horse"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Icelandic horse",
+        "tier": "Rare"
+      },
+      {
+        "text": "Haflinger",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hanoverian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trakehner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Connemara pony",
+        "aliases": [
+          "Connemara"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Welsh pony",
+        "tier": "Rare"
+      },
+      {
+        "text": "Norwegian Fjord",
+        "aliases": [
+          "Fjord horse"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lusitano",
+        "tier": "Rare"
+      },
+      {
+        "text": "Paso Fino",
+        "tier": "Rare"
+      },
+      {
+        "text": "Falabella",
+        "tier": "Rare"
+      },
+      {
+        "text": "Exmoor pony",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dartmoor pony",
+        "tier": "Rare"
+      },
+      {
+        "text": "New Forest pony",
+        "tier": "Rare"
+      },
+      {
+        "text": "Suffolk Punch",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gypsy Vanner",
+        "aliases": [
+          "Gypsy Cob",
+          "Irish Cob"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Brumby",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mongolian horse",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hackney",
+        "tier": "Rare"
+      },
+      {
+        "text": "American Saddlebred",
+        "aliases": [
+          "Saddlebred"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Missouri Fox Trotter",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Holsteiner",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oldenburg",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dutch Warmblood",
+        "aliases": [
+          "KWPN"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Camargue",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Marwari",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Criollo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mangalarga Marchador",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Peruvian Paso",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Knabstrupper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Highland pony",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fell pony",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dales pony",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cleveland Bay",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Irish Draught",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kladruber",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Noriker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Boulonnais",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ardennes",
+        "aliases": [
+          "Ardennais"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Barb",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rocky Mountain Horse",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Welsh Cob",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caspian horse",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Przewalski's horse",
+        "aliases": [
+          "Takhi"
+        ],
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "mushrooms",
+    "prompt": "Name a type of mushroom",
+    "category": "Animals & Nature",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "mushroom",
+      "fungus"
+    ],
+    "answers": [
+      {
+        "text": "Button mushroom",
+        "aliases": [
+          "White button",
+          "Champignon"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Portobello",
+        "aliases": [
+          "Portabella",
+          "Portabello"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Shiitake",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Oyster mushroom",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chanterelle",
+        "aliases": [
+          "Girolle"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Morel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Truffle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Porcini",
+        "aliases": [
+          "Cep",
+          "Penny bun",
+          "King bolete"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Enoki",
+        "aliases": [
+          "Enokitake"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fly agaric",
+        "aliases": [
+          "Amanita muscaria"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Death cap",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cremini",
+        "aliases": [
+          "Crimini",
+          "Baby bella"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lion's mane",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maitake",
+        "aliases": [
+          "Hen of the woods"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Chicken of the woods",
+        "tier": "Rare"
+      },
+      {
+        "text": "Puffball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Reishi",
+        "aliases": [
+          "Lingzhi"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Magic mushroom",
+        "aliases": [
+          "Psilocybe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Destroying angel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shaggy ink cap",
+        "aliases": [
+          "Shaggy mane",
+          "Lawyer's wig"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Honey fungus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cordyceps",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wood ear",
+        "aliases": [
+          "Jelly ear",
+          "Cloud ear"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "King oyster",
+        "aliases": [
+          "King trumpet",
+          "Eryngii"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Matsutake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Black trumpet",
+        "aliases": [
+          "Horn of plenty"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Stinkhorn",
+        "tier": "Rare"
+      },
+      {
+        "text": "Turkey tail",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hedgehog mushroom",
+        "aliases": [
+          "Sweet tooth",
+          "Pied de mouton"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Beefsteak fungus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Field mushroom",
+        "tier": "Rare"
+      },
+      {
+        "text": "Parasol mushroom",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shimeji",
+        "aliases": [
+          "Beech mushroom"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Nameko",
+        "tier": "Rare"
+      },
+      {
+        "text": "Straw mushroom",
+        "aliases": [
+          "Paddy straw mushroom"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Saffron milk cap",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wood blewit",
+        "aliases": [
+          "Blewit"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Earthstar",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lobster mushroom",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caesar's mushroom",
+        "aliases": [
+          "Amanita caesarea"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jack-o'-lantern mushroom",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Witch's butter",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scarlet elf cup",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dead man's fingers",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Velvet shank",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Amethyst deceiver",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fairy ring champignon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sulphur tuft",
+        "aliases": [
+          "Sulfur tuft"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Panther cap",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Deadly webcap",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Funeral bell",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Liberty cap",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bird's nest fungus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Common ink cap",
+        "aliases": [
+          "Inky cap"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bleeding tooth fungus",
+        "aliases": [
+          "Hydnellum peckii"
+        ],
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "whales-dolphins",
+    "prompt": "Name a type of whale or dolphin",
+    "category": "Animals & Nature",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "whale",
+      "dolphin"
+    ],
+    "answers": [
+      {
+        "text": "Blue whale",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Killer whale",
+        "aliases": [
+          "Orca"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Humpback whale",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sperm whale",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bottlenose dolphin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Beluga",
+        "aliases": [
+          "White whale"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Narwhal",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Grey whale",
+        "aliases": [
+          "Gray whale"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Minke whale",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Right whale",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fin whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pilot whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bowhead whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sei whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spinner dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Common dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Risso's dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Amazon river dolphin",
+        "aliases": [
+          "Boto",
+          "Pink river dolphin"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Harbour porpoise",
+        "aliases": [
+          "Harbor porpoise"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Vaquita",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dusky dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bryde's whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spotted dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Striped dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pygmy sperm whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "False killer whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baiji",
+        "aliases": [
+          "Yangtze river dolphin"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hector's dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Irrawaddy dolphin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Southern right whale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dwarf sperm whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cuvier's beaked whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maui dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ganges river dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Commerson's dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pygmy killer whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Melon-headed whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dall's porpoise",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Finless porpoise",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rough-toothed dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fraser's dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hourglass dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "White-beaked dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Atlantic white-sided dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pacific white-sided dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Northern bottlenose whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Baird's beaked whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Omura's whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pygmy right whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rice's whale",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tucuxi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Burmeister's porpoise",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Heaviside's dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Clymene dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Australian snubfin dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Indo-Pacific humpback dolphin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spade-toothed whale",
+        "aliases": [
+          "Spade-toothed beaked whale"
+        ],
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "africa-countries",
+    "prompt": "Name a country in Africa",
+    "category": "Geography",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Egypt",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Nigeria",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kenya",
+        "tier": "Plankton"
+      },
+      {
+        "text": "South Africa",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ghana",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Morocco",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ethiopia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Algeria",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tunisia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Libya",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sudan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Somalia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Uganda",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tanzania",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Zimbabwe",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Madagascar",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Senegal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rwanda",
+        "tier": "Rare"
+      },
+      {
+        "text": "Angola",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cameroon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mali",
+        "tier": "Rare"
+      },
+      {
+        "text": "Democratic Republic of the Congo",
+        "aliases": [
+          "DRC",
+          "DR Congo",
+          "Congo-Kinshasa",
+          "Democratic Republic of Congo",
+          "Zaire"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Republic of the Congo",
+        "aliases": [
+          "Congo",
+          "Congo-Brazzaville",
+          "Republic of Congo",
+          "Congo Republic"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Zambia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Namibia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Botswana",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mozambique",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ivory Coast",
+        "aliases": [
+          "Côte d'Ivoire"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Liberia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sierra Leone",
+        "tier": "Rare"
+      },
+      {
+        "text": "South Sudan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Niger",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chad",
+        "tier": "Rare"
+      },
+      {
+        "text": "Burkina Faso",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Malawi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Comoros",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eritrea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Djibouti",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gabon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Equatorial Guinea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Guinea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Guinea-Bissau",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gambia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Benin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Togo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mauritania",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mauritius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Seychelles",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cape Verde",
+        "aliases": [
+          "Cabo Verde"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lesotho",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eswatini",
+        "aliases": [
+          "Swaziland"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Burundi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Central African Republic",
+        "aliases": [
+          "CAR"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "São Tomé and Príncipe",
+        "aliases": [
+          "Sao Tome"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Western Sahara",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "us-states",
+    "prompt": "Name a US state",
+    "category": "Geography",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "state"
+    ],
+    "answers": [
+      {
+        "text": "California",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Texas",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Florida",
+        "tier": "Plankton"
+      },
+      {
+        "text": "New York",
+        "aliases": [
+          "NY"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hawaii",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Alaska",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Washington",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ohio",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Georgia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Illinois",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Arizona",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nevada",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Colorado",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Michigan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Massachusetts",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Oregon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Utah",
+        "tier": "Rare"
+      },
+      {
+        "text": "Louisiana",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tennessee",
+        "tier": "Rare"
+      },
+      {
+        "text": "Virginia",
+        "tier": "Rare"
+      },
+      {
+        "text": "North Carolina",
+        "aliases": [
+          "NC"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "South Carolina",
+        "aliases": [
+          "SC"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pennsylvania",
+        "tier": "Rare"
+      },
+      {
+        "text": "New Jersey",
+        "aliases": [
+          "NJ"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Kentucky",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alabama",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mississippi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Minnesota",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wisconsin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Montana",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oklahoma",
+        "tier": "Rare"
+      },
+      {
+        "text": "Idaho",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wyoming",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "North Dakota",
+        "aliases": [
+          "ND"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "South Dakota",
+        "aliases": [
+          "SD"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nebraska",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kansas",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Iowa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Missouri",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arkansas",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Indiana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "West Virginia",
+        "aliases": [
+          "WV"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maryland",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Connecticut",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhode Island",
+        "aliases": [
+          "RI"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vermont",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "New Hampshire",
+        "aliases": [
+          "NH"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "New Mexico",
+        "aliases": [
+          "NM"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Delaware",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "europe-countries",
+    "prompt": "Name a country in Europe",
+    "category": "Geography",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "France",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Germany",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Italy",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Spain",
+        "tier": "Schooler"
+      },
+      {
+        "text": "United Kingdom",
+        "aliases": [
+          "UK",
+          "Britain",
+          "Great Britain"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Portugal",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Greece",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ireland",
+        "aliases": [
+          "Republic of Ireland",
+          "Eire"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Netherlands",
+        "aliases": [
+          "Holland"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Switzerland",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sweden",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Norway",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Russia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Poland",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Belgium",
+        "tier": "Schooler"
+      },
+      {
+        "text": "England",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Scotland",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Austria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Denmark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Finland",
+        "tier": "Rare"
+      },
+      {
+        "text": "Iceland",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ukraine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hungary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Czech Republic",
+        "aliases": [
+          "Czechia"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Croatia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Turkey",
+        "aliases": [
+          "Türkiye"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Romania",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bulgaria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wales",
+        "tier": "Rare"
+      },
+      {
+        "text": "Northern Ireland",
+        "tier": "Rare"
+      },
+      {
+        "text": "Luxembourg",
+        "tier": "Rare"
+      },
+      {
+        "text": "Monaco",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vatican City",
+        "aliases": [
+          "Vatican",
+          "Holy See"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Serbia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cyprus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Malta",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slovakia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Slovenia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Estonia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Latvia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lithuania",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Belarus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Moldova",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Albania",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Montenegro",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "North Macedonia",
+        "aliases": [
+          "Macedonia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bosnia and Herzegovina",
+        "aliases": [
+          "Bosnia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Andorra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "San Marino",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Liechtenstein",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Kazakhstan",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Georgia",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Azerbaijan",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "asia-countries",
+    "prompt": "Name a country in Asia",
+    "category": "Geography",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "China",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Japan",
+        "tier": "Plankton"
+      },
+      {
+        "text": "India",
+        "tier": "Plankton"
+      },
+      {
+        "text": "South Korea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "North Korea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Thailand",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vietnam",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pakistan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Indonesia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Philippines",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Saudi Arabia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Iran",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Iraq",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Israel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Afghanistan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Singapore",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Malaysia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Russia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Turkey",
+        "aliases": [
+          "Türkiye"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mongolia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nepal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bangladesh",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sri Lanka",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cambodia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Laos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Myanmar",
+        "aliases": [
+          "Burma"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Syria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jordan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lebanon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kuwait",
+        "tier": "Rare"
+      },
+      {
+        "text": "Qatar",
+        "tier": "Rare"
+      },
+      {
+        "text": "United Arab Emirates",
+        "aliases": [
+          "UAE"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Yemen",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oman",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kazakhstan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bhutan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maldives",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brunei",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "East Timor",
+        "aliases": [
+          "Timor-Leste"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Uzbekistan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Turkmenistan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tajikistan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bahrain",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Georgia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Armenia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Azerbaijan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cyprus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kyrgyzstan",
+        "aliases": [
+          "Kyrgyz Republic"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Egypt",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "rivers",
+    "prompt": "Name a river",
+    "category": "Geography",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "river"
+    ],
+    "answers": [
+      {
+        "text": "Nile",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Amazon",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mississippi",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Thames",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Danube",
+        "aliases": [
+          "Donau"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yangtze",
+        "aliases": [
+          "Chang Jiang",
+          "Yangtze Kiang"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ganges",
+        "aliases": [
+          "Ganga"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rhine",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Seine",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hudson",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Colorado",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Missouri",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Volga",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mekong",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tigris",
+        "tier": "Rare"
+      },
+      {
+        "text": "Euphrates",
+        "tier": "Rare"
+      },
+      {
+        "text": "Indus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Congo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zambezi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yellow River",
+        "aliases": [
+          "Huang He",
+          "Huang Ho"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Jordan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rio Grande",
+        "aliases": [
+          "Río Bravo"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "St. Lawrence",
+        "aliases": [
+          "Saint Lawrence"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ohio",
+        "tier": "Rare"
+      },
+      {
+        "text": "Columbia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tiber",
+        "tier": "Rare"
+      },
+      {
+        "text": "Loire",
+        "tier": "Rare"
+      },
+      {
+        "text": "Elbe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shannon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Delaware",
+        "tier": "Rare"
+      },
+      {
+        "text": "Potomac",
+        "tier": "Rare"
+      },
+      {
+        "text": "Niger",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mackenzie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yukon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Murray",
+        "tier": "Rare"
+      },
+      {
+        "text": "Orinoco",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ob",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yenisei",
+        "aliases": [
+          "Yenisey"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lena",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Amur",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Paraná",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Irrawaddy",
+        "aliases": [
+          "Ayeyarwady"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brahmaputra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Darling",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Limpopo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Orange",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dnieper",
+        "aliases": [
+          "Dnipro"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Don",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vistula",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oder",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhône",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Po",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ebro",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Douro",
+        "aliases": [
+          "Duero"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tagus",
+        "aliases": [
+          "Tejo",
+          "Tajo"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salween",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Okavango",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fraser",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Snake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arkansas",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tennessee",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Severn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Irtysh",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "islands",
+    "prompt": "Name an island",
+    "category": "Geography",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "island"
+    ],
+    "answers": [
+      {
+        "text": "Hawaii",
+        "aliases": [
+          "Big Island"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Iceland",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Greenland",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Madagascar",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jamaica",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cuba",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ireland",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Great Britain",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sicily",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bali",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tasmania",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Manhattan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Long Island",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Crete",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Puerto Rico",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Borneo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sumatra",
+        "tier": "Rare"
+      },
+      {
+        "text": "Java",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sri Lanka",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cyprus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sardinia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Corsica",
+        "tier": "Rare"
+      },
+      {
+        "text": "Malta",
+        "tier": "Rare"
+      },
+      {
+        "text": "Majorca",
+        "aliases": [
+          "Mallorca"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ibiza",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tenerife",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maui",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oahu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Honshu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hokkaido",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vancouver Island",
+        "tier": "Rare"
+      },
+      {
+        "text": "Newfoundland",
+        "tier": "Rare"
+      },
+      {
+        "text": "Isle of Man",
+        "tier": "Rare"
+      },
+      {
+        "text": "Martha's Vineyard",
+        "tier": "Rare"
+      },
+      {
+        "text": "Easter Island",
+        "aliases": [
+          "Rapa Nui"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Santorini",
+        "aliases": [
+          "Thira"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mykonos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Capri",
+        "tier": "Rare"
+      },
+      {
+        "text": "Barbados",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trinidad",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hispaniola",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alcatraz",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ellis Island",
+        "tier": "Rare"
+      },
+      {
+        "text": "Staten Island",
+        "tier": "Rare"
+      },
+      {
+        "text": "New Guinea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Baffin Island",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sulawesi",
+        "aliases": [
+          "Celebes"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Luzon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mindanao",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hainan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sakhalin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ellesmere Island",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zanzibar",
+        "aliases": [
+          "Unguja"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Socotra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spitsbergen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kodiak",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gotland",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhodes",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Skye",
+        "aliases": [
+          "Isle of Skye"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Anglesey",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Isle of Wight",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Christmas Island",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tristan da Cunha",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Saint Helena",
+        "aliases": [
+          "St Helena"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pitcairn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kangaroo Island",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "K'gari",
+        "aliases": [
+          "Fraser Island"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bora Bora",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tahiti",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Elba",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mauritius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Réunion",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Okinawa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jeju",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bouvet Island",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Australia",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "deserts",
+    "prompt": "Name a desert",
+    "category": "Geography",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "desert"
+    ],
+    "answers": [
+      {
+        "text": "Sahara",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Gobi",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kalahari",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mojave",
+        "aliases": [
+          "Mohave"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Atacama",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Arabian",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sonoran",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Namib",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Thar",
+        "aliases": [
+          "Great Indian Desert"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chihuahuan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Great Basin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Great Victoria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Great Sandy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Simpson",
+        "tier": "Rare"
+      },
+      {
+        "text": "Taklamakan",
+        "aliases": [
+          "Taklimakan"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Patagonian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Syrian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Negev",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sinai",
+        "tier": "Rare"
+      },
+      {
+        "text": "Painted Desert",
+        "tier": "Rare"
+      },
+      {
+        "text": "Libyan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Karakum",
+        "aliases": [
+          "Kara Kum"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Rub' al Khali",
+        "aliases": [
+          "Empty Quarter"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Kyzylkum",
+        "aliases": [
+          "Kyzyl Kum"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gibson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tanami",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Strzelecki",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sturt Stony",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nubian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Danakil",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dasht-e Kavir",
+        "aliases": [
+          "Great Salt Desert"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dasht-e Lut",
+        "aliases": [
+          "Lut"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Colorado Desert",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Black Rock Desert",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Great Salt Lake Desert",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Red Desert",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cholistan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Thal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Badain Jaran",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tengger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Monte",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chalbi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Judaean",
+        "aliases": [
+          "Judean"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sechura",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Antarctica",
+        "aliases": [
+          "Antarctic"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Arctic",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "capital-cities",
+    "prompt": "Name a national capital city",
+    "category": "Geography",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "city"
+    ],
+    "answers": [
+      {
+        "text": "London",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Paris",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Washington, D.C.",
+        "aliases": [
+          "Washington",
+          "Washington DC"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tokyo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rome",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Berlin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Madrid",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Beijing",
+        "aliases": [
+          "Peking"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Moscow",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ottawa",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Canberra",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cairo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mexico City",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Athens",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dublin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lisbon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Amsterdam",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brussels",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vienna",
+        "tier": "Rare"
+      },
+      {
+        "text": "Stockholm",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oslo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Copenhagen",
+        "tier": "Rare"
+      },
+      {
+        "text": "Helsinki",
+        "tier": "Rare"
+      },
+      {
+        "text": "Warsaw",
+        "tier": "Rare"
+      },
+      {
+        "text": "Prague",
+        "tier": "Rare"
+      },
+      {
+        "text": "Budapest",
+        "tier": "Rare"
+      },
+      {
+        "text": "New Delhi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Seoul",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bangkok",
+        "tier": "Rare"
+      },
+      {
+        "text": "Buenos Aires",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brasília",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lima",
+        "tier": "Rare"
+      },
+      {
+        "text": "Santiago",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bogotá",
+        "tier": "Rare"
+      },
+      {
+        "text": "Havana",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nairobi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wellington",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ankara",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tehran",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baghdad",
+        "tier": "Rare"
+      },
+      {
+        "text": "Manila",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hanoi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kyiv",
+        "aliases": [
+          "Kiev"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pretoria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Reykjavík",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bern",
+        "aliases": [
+          "Berne"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ulaanbaatar",
+        "aliases": [
+          "Ulan Bator"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Thimphu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kathmandu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tashkent",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bishkek",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Astana",
+        "aliases": [
+          "Nur-Sultan"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Naypyidaw",
+        "aliases": [
+          "Nay Pyi Taw"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vientiane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Phnom Penh",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ljubljana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bratislava",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vilnius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Riga",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tallinn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chișinău",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tbilisi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yerevan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Baku",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Addis Ababa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Abuja",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Accra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dakar",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kinshasa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Antananarivo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Windhoek",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gaborone",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lusaka",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Harare",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maputo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Montevideo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Asunción",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caracas",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Quito",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Port Moresby",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Valletta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vaduz",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ouagadougou",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ngerulmud",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Vatican City",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Singapore",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Monaco",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "mountain-ranges",
+    "prompt": "Name a mountain range",
+    "category": "Geography",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "mountains",
+      "mountain",
+      "range"
+    ],
+    "answers": [
+      {
+        "text": "Himalayas",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Rocky Mountains",
+        "aliases": [
+          "Rockies"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Alps",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Andes",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Appalachian Mountains",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pyrenees",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ural Mountains",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sierra Nevada",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Atlas Mountains",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Carpathian Mountains",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cascade Range",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Great Smoky Mountains",
+        "aliases": [
+          "Smoky Mountains",
+          "Smokies"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Alaska Range",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brooks Range",
+        "tier": "Rare"
+      },
+      {
+        "text": "Karakoram",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hindu Kush",
+        "tier": "Rare"
+      },
+      {
+        "text": "Caucasus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Apennines",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dolomites",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pennines",
+        "tier": "Rare"
+      },
+      {
+        "text": "Great Dividing Range",
+        "tier": "Rare"
+      },
+      {
+        "text": "Blue Ridge Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Adirondack Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ozark Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Catskill Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "White Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sierra Madre",
+        "tier": "Rare"
+      },
+      {
+        "text": "Balkan Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tian Shan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zagros Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Drakensberg",
+        "tier": "Rare"
+      },
+      {
+        "text": "Southern Alps",
+        "tier": "Rare"
+      },
+      {
+        "text": "Teton Range",
+        "tier": "Rare"
+      },
+      {
+        "text": "Black Hills",
+        "tier": "Rare"
+      },
+      {
+        "text": "Olympic Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grampian Mountains",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cairngorms",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pamir Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Altai Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kunlun Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Taurus Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jura Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vosges",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sudetes",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tatra Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dinaric Alps",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Transantarctic Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wasatch Range",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "San Juan Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bitterroot Range",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Western Ghats",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eastern Ghats",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aravalli Range",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scandinavian Mountains",
+        "aliases": [
+          "Scandes"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Annamite Range",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Qinling",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coast Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Green Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Simien Mountains",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rwenzori Mountains",
+        "aliases": [
+          "Ruwenzori",
+          "Mountains of the Moon"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Mid-Atlantic Ridge",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "lakes",
+    "prompt": "Name a lake",
+    "category": "Geography",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "lake",
+      "loch",
+      "lough"
+    ],
+    "answers": [
+      {
+        "text": "Lake Superior",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Lake Michigan",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Loch Ness",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Lake Erie",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Huron",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Ontario",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Tahoe",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Victoria",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Great Salt Lake",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Baikal",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Titicaca",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Geneva",
+        "aliases": [
+          "Lac Léman"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Como",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lake Tanganyika",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Malawi",
+        "aliases": [
+          "Lake Nyasa"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Champlain",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Okeechobee",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Placid",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Louise",
+        "tier": "Rare"
+      },
+      {
+        "text": "Windermere",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Mead",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Powell",
+        "tier": "Rare"
+      },
+      {
+        "text": "Crater Lake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Garda",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Lucerne",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Constance",
+        "aliases": [
+          "Bodensee"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Chad",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Winnipeg",
+        "tier": "Rare"
+      },
+      {
+        "text": "Great Bear Lake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Great Slave Lake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake of the Woods",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mono Lake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Eyre",
+        "aliases": [
+          "Kati Thanda"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Nicaragua",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Maracaibo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Loch Lomond",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sea of Galilee",
+        "aliases": [
+          "Lake Tiberias",
+          "Kinneret"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Balaton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Bled",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Nasser",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lake Ladoga",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Onega",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Tana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Turkana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Toba",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Taupō",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Wakatipu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Volta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Kivu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Albert",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Issyk-Kul",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Inle Lake",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Ohrid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Van",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Peipus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lough Neagh",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salton Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Saimaa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Vänern",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lake Vostok",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Caspian Sea",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Dead Sea",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Aral Sea",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "seas",
+    "prompt": "Name a sea",
+    "category": "Geography",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "sea"
+    ],
+    "answers": [
+      {
+        "text": "Mediterranean Sea",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Caribbean Sea",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Red Sea",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Black Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "North Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Baltic Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Arabian Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "South China Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Coral Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bering Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aegean Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Adriatic Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sargasso Sea",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tasman Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "East China Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yellow Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sea of Japan",
+        "aliases": [
+          "Japan Sea",
+          "East Sea"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ionian Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tyrrhenian Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Irish Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Norwegian Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Barents Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sea of Okhotsk",
+        "aliases": [
+          "Okhotsk"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Weddell Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ross Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Labrador Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Celtic Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Andaman Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Java Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Philippine Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sea of Marmara",
+        "aliases": [
+          "Marmara"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sea of Azov",
+        "aliases": [
+          "Azov"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Beaufort Sea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ligurian Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Balearic Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alboran Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kara Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Laptev Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "East Siberian Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chukchi Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Amundsen Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bellingshausen Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Greenland Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wadden Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "White Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Banda Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Celebes Sea",
+        "aliases": [
+          "Sulawesi Sea"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sulu Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Timor Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arafura Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Solomon Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bismarck Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Flores Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Molucca Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scotia Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Levantine Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cretan Sea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lincoln Sea",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Caspian Sea",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Dead Sea",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Sea of Galilee",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Salton Sea",
+        "tier": "Too Clever"
+      }
+    ]
+  }
+]

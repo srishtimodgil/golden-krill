@@ -1,0 +1,3774 @@
+[
+  {
+    "id": "harry-potter-characters",
+    "prompt": "Name a Harry Potter character",
+    "category": "Pop Culture",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "professor",
+      "mr",
+      "mrs",
+      "madam",
+      "madame",
+      "uncle",
+      "aunt"
+    ],
+    "answers": [
+      {
+        "text": "Harry Potter",
+        "aliases": [
+          "harry",
+          "potter"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Hermione Granger",
+        "aliases": [
+          "hermione",
+          "granger"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ron Weasley",
+        "aliases": [
+          "ron",
+          "ronald weasley"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Severus Snape",
+        "aliases": [
+          "snape",
+          "severus"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rubeus Hagrid",
+        "aliases": [
+          "hagrid",
+          "rubeus"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Albus Dumbledore",
+        "aliases": [
+          "dumbledore",
+          "albus"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lord Voldemort",
+        "aliases": [
+          "voldemort",
+          "tom riddle",
+          "tom marvolo riddle",
+          "you-know-who",
+          "he who must not be named",
+          "the dark lord"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Draco Malfoy",
+        "aliases": [
+          "draco"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sirius Black",
+        "aliases": [
+          "sirius",
+          "padfoot"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Neville Longbottom",
+        "aliases": [
+          "neville",
+          "longbottom"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ginny Weasley",
+        "aliases": [
+          "ginny",
+          "ginevra weasley"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Minerva McGonagall",
+        "aliases": [
+          "mcgonagall",
+          "minerva"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fred Weasley",
+        "aliases": [
+          "fred"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "George Weasley",
+        "aliases": [
+          "george"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bellatrix Lestrange",
+        "aliases": [
+          "bellatrix",
+          "lestrange"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dolores Umbridge",
+        "aliases": [
+          "umbridge",
+          "dolores"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Remus Lupin",
+        "aliases": [
+          "lupin",
+          "remus",
+          "moony"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Luna Lovegood",
+        "aliases": [
+          "luna"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Dobby",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cedric Diggory",
+        "aliases": [
+          "cedric",
+          "diggory"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cho Chang",
+        "aliases": [
+          "cho"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lucius Malfoy",
+        "aliases": [
+          "lucius"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Molly Weasley",
+        "aliases": [
+          "molly"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Arthur Weasley",
+        "aliases": [
+          "arthur"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Peter Pettigrew",
+        "aliases": [
+          "pettigrew",
+          "wormtail",
+          "scabbers"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Argus Filch",
+        "aliases": [
+          "filch"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gilderoy Lockhart",
+        "aliases": [
+          "lockhart",
+          "gilderoy"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Vernon Dursley",
+        "aliases": [
+          "vernon"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Petunia Dursley",
+        "aliases": [
+          "petunia"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Dudley Dursley",
+        "aliases": [
+          "dudley"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "James Potter",
+        "aliases": [
+          "james",
+          "prongs"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lily Potter",
+        "aliases": [
+          "lily",
+          "lily evans"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hedwig",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nearly Headless Nick",
+        "aliases": [
+          "sir nicholas"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Moaning Myrtle",
+        "aliases": [
+          "myrtle"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Kreacher",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alastor Moody",
+        "aliases": [
+          "mad-eye moody",
+          "mad-eye",
+          "moody"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sybill Trelawney",
+        "aliases": [
+          "trelawney"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Percy Weasley",
+        "aliases": [
+          "percy"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Fleur Delacour",
+        "aliases": [
+          "fleur"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Viktor Krum",
+        "aliases": [
+          "krum"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Nymphadora Tonks",
+        "aliases": [
+          "tonks"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cornelius Fudge",
+        "aliases": [
+          "fudge"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Buckbeak",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fawkes",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nagini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gellert Grindelwald",
+        "aliases": [
+          "grindelwald"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Horace Slughorn",
+        "aliases": [
+          "slughorn"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Quirinus Quirrell",
+        "aliases": [
+          "quirrell"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Peeves",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kingsley Shacklebolt",
+        "aliases": [
+          "kingsley",
+          "shacklebolt"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aberforth Dumbledore",
+        "aliases": [
+          "aberforth"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rita Skeeter",
+        "aliases": [
+          "skeeter"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xenophilius Lovegood",
+        "aliases": [
+          "xenophilius"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Poppy Pomfrey",
+        "aliases": [
+          "pomfrey"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Garrick Ollivander",
+        "aliases": [
+          "ollivander"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pomona Sprout",
+        "aliases": [
+          "sprout"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Filius Flitwick",
+        "aliases": [
+          "flitwick"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Narcissa Malfoy",
+        "aliases": [
+          "narcissa"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Regulus Black",
+        "aliases": [
+          "regulus"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Firenze",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aragog",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Grawp",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mundungus Fletcher",
+        "aliases": [
+          "mundungus"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fenrir Greyback",
+        "aliases": [
+          "greyback"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Barty Crouch Jr.",
+        "aliases": [
+          "barty crouch junior",
+          "bartemius crouch jr"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Igor Karkaroff",
+        "aliases": [
+          "karkaroff"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Olympe Maxime",
+        "aliases": [
+          "maxime"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arabella Figg",
+        "aliases": [
+          "figg",
+          "mrs figg",
+          "arabella"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "The Sorting Hat",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "simpsons-characters",
+    "prompt": "Name a Simpsons character",
+    "category": "Pop Culture",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Homer Simpson",
+        "aliases": [
+          "homer"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Bart Simpson",
+        "aliases": [
+          "bart"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Marge Simpson",
+        "aliases": [
+          "marge"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Lisa Simpson",
+        "aliases": [
+          "lisa"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Maggie Simpson",
+        "aliases": [
+          "maggie"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mr. Burns",
+        "aliases": [
+          "montgomery burns",
+          "monty burns",
+          "burns"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ned Flanders",
+        "aliases": [
+          "ned",
+          "flanders"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Apu Nahasapeemapetilon",
+        "aliases": [
+          "apu"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Moe Szyslak",
+        "aliases": [
+          "moe"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Krusty the Clown",
+        "aliases": [
+          "krusty"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Milhouse Van Houten",
+        "aliases": [
+          "milhouse"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Principal Skinner",
+        "aliases": [
+          "seymour skinner",
+          "skinner"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Barney Gumble",
+        "aliases": [
+          "barney"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chief Wiggum",
+        "aliases": [
+          "clancy wiggum"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ralph Wiggum",
+        "aliases": [
+          "ralph"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sideshow Bob",
+        "aliases": [
+          "robert terwilliger"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Waylon Smithers",
+        "aliases": [
+          "smithers"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nelson Muntz",
+        "aliases": [
+          "nelson"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Grampa Simpson",
+        "aliases": [
+          "abe simpson",
+          "abraham simpson",
+          "grandpa simpson",
+          "grampa",
+          "grandpa"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Patty Bouvier",
+        "aliases": [
+          "patty"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Selma Bouvier",
+        "aliases": [
+          "selma"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Edna Krabappel",
+        "aliases": [
+          "krabappel",
+          "mrs krabappel"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Groundskeeper Willie",
+        "aliases": [
+          "willie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Comic Book Guy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lenny Leonard",
+        "aliases": [
+          "lenny"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Carl Carlson",
+        "aliases": [
+          "carl"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Otto Mann",
+        "aliases": [
+          "otto"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Dr. Hibbert",
+        "aliases": [
+          "julius hibbert",
+          "hibbert"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Dr. Nick",
+        "aliases": [
+          "nick riviera"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mayor Quimby",
+        "aliases": [
+          "joe quimby",
+          "quimby"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Troy McClure",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lionel Hutz",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kent Brockman",
+        "tier": "Rare"
+      },
+      {
+        "text": "Professor Frink",
+        "aliases": [
+          "frink"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Fat Tony",
+        "tier": "Rare"
+      },
+      {
+        "text": "Snake",
+        "aliases": [
+          "jailbird"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Martin Prince",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maude Flanders",
+        "tier": "Rare"
+      },
+      {
+        "text": "Reverend Lovejoy",
+        "aliases": [
+          "lovejoy"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Itchy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Scratchy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Santa's Little Helper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Snowball II",
+        "aliases": [
+          "snowball"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Kang",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kodos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hans Moleman",
+        "aliases": [
+          "moleman"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cletus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bumblebee Man",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jimbo Jones",
+        "aliases": [
+          "jimbo"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Duffman",
+        "tier": "Rare"
+      },
+      {
+        "text": "Superintendent Chalmers",
+        "aliases": [
+          "chalmers"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Rainier Wolfcastle",
+        "aliases": [
+          "mcbain"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Disco Stu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gil Gunderson",
+        "aliases": [
+          "gil"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sea Captain",
+        "aliases": [
+          "captain mccallister"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lunchlady Doris",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Frank Grimes",
+        "aliases": [
+          "grimey"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Drederick Tatum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dewey Largo",
+        "aliases": [
+          "mr largo"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bleeding Gums Murphy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sideshow Mel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hank Scorpio",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Herb Powell",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Crazy Cat Lady",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lou",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Artie Ziff",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lurleen Lumpkin",
+        "aliases": [
+          "lurleen"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Blinky",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Mr. Plow",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Plopper",
+        "aliases": [
+          "spider-pig"
+        ],
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "star-wars-characters",
+    "prompt": "Name a Star Wars character",
+    "category": "Pop Culture",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "darth",
+      "general",
+      "admiral",
+      "captain",
+      "princess"
+    ],
+    "answers": [
+      {
+        "text": "Luke Skywalker",
+        "aliases": [
+          "luke"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Darth Vader",
+        "aliases": [
+          "vader",
+          "anakin skywalker",
+          "anakin"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Yoda",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Han Solo",
+        "aliases": [
+          "han"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Princess Leia",
+        "aliases": [
+          "leia",
+          "leia organa"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chewbacca",
+        "aliases": [
+          "chewie"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "R2-D2",
+        "aliases": [
+          "artoo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "C-3PO",
+        "aliases": [
+          "threepio"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Obi-Wan Kenobi",
+        "aliases": [
+          "obi-wan",
+          "ben kenobi",
+          "kenobi"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Emperor Palpatine",
+        "aliases": [
+          "palpatine",
+          "darth sidious",
+          "sidious",
+          "the emperor"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Boba Fett",
+        "aliases": [
+          "boba"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jabba the Hutt",
+        "aliases": [
+          "jabba"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lando Calrissian",
+        "aliases": [
+          "lando"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Darth Maul",
+        "aliases": [
+          "maul"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rey",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kylo Ren",
+        "aliases": [
+          "kylo",
+          "ben solo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Padmé Amidala",
+        "aliases": [
+          "padme",
+          "amidala"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jar Jar Binks",
+        "aliases": [
+          "jar jar"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Finn",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Count Dooku",
+        "aliases": [
+          "dooku",
+          "darth tyranus"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mace Windu",
+        "aliases": [
+          "windu"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Qui-Gon Jinn",
+        "aliases": [
+          "qui-gon"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Grand Moff Tarkin",
+        "aliases": [
+          "tarkin"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "BB-8",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Poe Dameron",
+        "aliases": [
+          "poe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "General Grievous",
+        "aliases": [
+          "grievous"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Jango Fett",
+        "aliases": [
+          "jango"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Wedge Antilles",
+        "aliases": [
+          "wedge"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Admiral Ackbar",
+        "aliases": [
+          "ackbar"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Greedo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wicket",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ahsoka Tano",
+        "aliases": [
+          "ahsoka"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Din Djarin",
+        "aliases": [
+          "the mandalorian",
+          "mando"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Grogu",
+        "aliases": [
+          "baby yoda"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cassian Andor",
+        "aliases": [
+          "cassian",
+          "andor"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Jyn Erso",
+        "aliases": [
+          "jyn"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "K-2SO",
+        "tier": "Rare"
+      },
+      {
+        "text": "Captain Phasma",
+        "aliases": [
+          "phasma"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Supreme Leader Snoke",
+        "aliases": [
+          "snoke"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Rose Tico",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maz Kanata",
+        "tier": "Rare"
+      },
+      {
+        "text": "Owen Lars",
+        "aliases": [
+          "uncle owen"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Shmi Skywalker",
+        "aliases": [
+          "shmi"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Watto",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sebulba",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nien Nunb",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mon Mothma",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bail Organa",
+        "tier": "Rare"
+      },
+      {
+        "text": "General Hux",
+        "aliases": [
+          "hux"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Grand Admiral Thrawn",
+        "aliases": [
+          "thrawn"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Captain Rex",
+        "tier": "Rare"
+      },
+      {
+        "text": "Orson Krennic",
+        "aliases": [
+          "krennic"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Biggs Darklighter",
+        "aliases": [
+          "biggs"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Moff Gideon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Beru Lars",
+        "aliases": [
+          "aunt beru"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salacious Crumb",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Admiral Piett",
+        "aliases": [
+          "piett"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chirrut Îmwe",
+        "aliases": [
+          "chirrut"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ki-Adi-Mundi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Plo Koon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kit Fisto",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Saw Gerrera",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cad Bane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Asajj Ventress",
+        "aliases": [
+          "ventress"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ezra Bridger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bo-Katan Kryze",
+        "aliases": [
+          "bo-katan"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Darth Plagueis",
+        "aliases": [
+          "plagueis"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yaddle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jek Porkins",
+        "aliases": [
+          "porkins"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Stormtrooper",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "lord-of-the-rings-characters",
+    "prompt": "Name a Lord of the Rings character",
+    "category": "Pop Culture",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Frodo Baggins",
+        "aliases": [
+          "frodo"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Gandalf",
+        "aliases": [
+          "gandalf the grey",
+          "gandalf the white",
+          "mithrandir"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Gollum",
+        "aliases": [
+          "smeagol"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Samwise Gamgee",
+        "aliases": [
+          "sam",
+          "samwise",
+          "gamgee"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aragorn",
+        "aliases": [
+          "strider",
+          "elessar"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Legolas",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gimli",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bilbo Baggins",
+        "aliases": [
+          "bilbo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sauron",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Saruman",
+        "aliases": [
+          "sharkey"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Boromir",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Merry",
+        "aliases": [
+          "meriadoc brandybuck",
+          "merry brandybuck"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pippin",
+        "aliases": [
+          "peregrin took",
+          "pippin took"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Arwen",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Galadriel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Elrond",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Treebeard",
+        "aliases": [
+          "fangorn"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Éowyn",
+        "tier": "Rare"
+      },
+      {
+        "text": "Théoden",
+        "tier": "Rare"
+      },
+      {
+        "text": "Faramir",
+        "tier": "Rare"
+      },
+      {
+        "text": "Éomer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Denethor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gríma Wormtongue",
+        "aliases": [
+          "wormtongue",
+          "grima"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tom Bombadil",
+        "aliases": [
+          "bombadil"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Shelob",
+        "tier": "Rare"
+      },
+      {
+        "text": "Witch-king of Angmar",
+        "aliases": [
+          "witch-king",
+          "lord of the nazgul"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Celeborn",
+        "tier": "Rare"
+      },
+      {
+        "text": "Haldir",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rosie Cotton",
+        "aliases": [
+          "rosie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Barliman Butterbur",
+        "aliases": [
+          "butterbur"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Radagast",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lurtz",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shadowfax",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bill the Pony",
+        "tier": "Rare"
+      },
+      {
+        "text": "Isildur",
+        "tier": "Rare"
+      },
+      {
+        "text": "Elendil",
+        "tier": "Rare"
+      },
+      {
+        "text": "Farmer Maggot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lobelia Sackville-Baggins",
+        "aliases": [
+          "lobelia"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "The Balrog",
+        "aliases": [
+          "durins bane"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gothmog",
+        "tier": "Rare"
+      },
+      {
+        "text": "Glóin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Goldberry",
+        "tier": "Rare"
+      },
+      {
+        "text": "Uglúk",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Grishnákh",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shagrat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gorbag",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gamling",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Háma",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Erkenbrand",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Beregond",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Prince Imrahil",
+        "aliases": [
+          "imrahil"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Quickbeam",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gwaihir",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Glorfindel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Old Man Willow",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bill Ferny",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fredegar Bolger",
+        "aliases": [
+          "fatty bolger"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gaffer Gamgee",
+        "aliases": [
+          "hamfast gamgee",
+          "the gaffer"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Elladan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Elrohir",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Halbarad",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Déagol",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mouth of Sauron",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ioreth",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bergil",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ted Sandyman",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gil-galad",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ghân-buri-Ghân",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "The One Ring",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "The Nazgûl",
+        "aliases": [
+          "ringwraiths",
+          "black riders"
+        ],
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "beatles-songs",
+    "prompt": "Name a Beatles song",
+    "category": "Pop Culture",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Hey Jude",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Yesterday",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Let It Be",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Come Together",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Here Comes the Sun",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yellow Submarine",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Help!",
+        "tier": "Schooler"
+      },
+      {
+        "text": "All You Need Is Love",
+        "tier": "Schooler"
+      },
+      {
+        "text": "I Want to Hold Your Hand",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Twist and Shout",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Strawberry Fields Forever",
+        "aliases": [
+          "strawberry fields"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Penny Lane",
+        "tier": "Schooler"
+      },
+      {
+        "text": "A Hard Day's Night",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Eleanor Rigby",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lucy in the Sky with Diamonds",
+        "tier": "Schooler"
+      },
+      {
+        "text": "She Loves You",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Can't Buy Me Love",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Love Me Do",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Blackbird",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Get Back",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ob-La-Di, Ob-La-Da",
+        "tier": "Schooler"
+      },
+      {
+        "text": "With a Little Help from My Friends",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sgt. Pepper's Lonely Hearts Club Band",
+        "aliases": [
+          "sergeant peppers lonely hearts club band",
+          "sgt pepper"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Something",
+        "tier": "Rare"
+      },
+      {
+        "text": "Revolution",
+        "tier": "Rare"
+      },
+      {
+        "text": "In My Life",
+        "tier": "Rare"
+      },
+      {
+        "text": "Michelle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hello, Goodbye",
+        "tier": "Rare"
+      },
+      {
+        "text": "Day Tripper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Norwegian Wood (This Bird Has Flown)",
+        "aliases": [
+          "norwegian wood"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "The Long and Winding Road",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ticket to Ride",
+        "tier": "Rare"
+      },
+      {
+        "text": "Paperback Writer",
+        "tier": "Rare"
+      },
+      {
+        "text": "While My Guitar Gently Weeps",
+        "tier": "Rare"
+      },
+      {
+        "text": "Helter Skelter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eight Days a Week",
+        "tier": "Rare"
+      },
+      {
+        "text": "Drive My Car",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nowhere Man",
+        "tier": "Rare"
+      },
+      {
+        "text": "Back in the U.S.S.R.",
+        "tier": "Rare"
+      },
+      {
+        "text": "Taxman",
+        "tier": "Rare"
+      },
+      {
+        "text": "I Am the Walrus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Across the Universe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Octopus's Garden",
+        "tier": "Rare"
+      },
+      {
+        "text": "A Day in the Life",
+        "tier": "Rare"
+      },
+      {
+        "text": "When I'm Sixty-Four",
+        "aliases": [
+          "when im 64"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Please Please Me",
+        "tier": "Rare"
+      },
+      {
+        "text": "I Saw Her Standing There",
+        "tier": "Rare"
+      },
+      {
+        "text": "All My Loving",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lady Madonna",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dear Prudence",
+        "tier": "Rare"
+      },
+      {
+        "text": "Don't Let Me Down",
+        "tier": "Rare"
+      },
+      {
+        "text": "We Can Work It Out",
+        "tier": "Rare"
+      },
+      {
+        "text": "The Fool on the Hill",
+        "tier": "Rare"
+      },
+      {
+        "text": "Golden Slumbers",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mean Mr. Mustard",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Polythene Pam",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "She Came In Through the Bathroom Window",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Glass Onion",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Happiness Is a Warm Gun",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Being for the Benefit of Mr. Kite!",
+        "aliases": [
+          "mr kite"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "She's Leaving Home",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tomorrow Never Knows",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "The Continuing Story of Bungalow Bill",
+        "aliases": [
+          "bungalow bill"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "You Never Give Me Your Money",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maxwell's Silver Hammer",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Free as a Bird",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Everybody's Got Something to Hide Except Me and My Monkey",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Her Majesty",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Revolution 9",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Flying",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "mario-characters",
+    "prompt": "Name a Super Mario character",
+    "category": "Pop Culture",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Mario",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Luigi",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Princess Peach",
+        "aliases": [
+          "peach",
+          "princess toadstool"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Bowser",
+        "aliases": [
+          "king koopa"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yoshi",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Toad",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Donkey Kong",
+        "aliases": [
+          "dk"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wario",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Waluigi",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Princess Daisy",
+        "aliases": [
+          "daisy"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rosalina",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bowser Jr.",
+        "aliases": [
+          "bowser junior"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Koopa Troopa",
+        "aliases": [
+          "koopa"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Goomba",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Boo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shy Guy",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Toadette",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Diddy Kong",
+        "aliases": [
+          "diddy"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Birdo",
+        "tier": "Rare"
+      },
+      {
+        "text": "King Boo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lakitu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kamek",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dry Bones",
+        "tier": "Rare"
+      },
+      {
+        "text": "Piranha Plant",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chain Chomp",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bullet Bill",
+        "tier": "Rare"
+      },
+      {
+        "text": "Toadsworth",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hammer Bro",
+        "tier": "Rare"
+      },
+      {
+        "text": "Blooper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thwomp",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cheep Cheep",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pauline",
+        "tier": "Rare"
+      },
+      {
+        "text": "Petey Piranha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Captain Toad",
+        "tier": "Rare"
+      },
+      {
+        "text": "Professor E. Gadd",
+        "aliases": [
+          "e gadd"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bob-omb",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wiggler",
+        "tier": "Rare"
+      },
+      {
+        "text": "Monty Mole",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spiny",
+        "tier": "Rare"
+      },
+      {
+        "text": "Buzzy Beetle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baby Mario",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baby Luigi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dry Bowser",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nabbit",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boom Boom",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pom Pom",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cappy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Larry Koopa",
+        "tier": "Rare"
+      },
+      {
+        "text": "Morton Koopa Jr.",
+        "aliases": [
+          "morton"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Wendy O. Koopa",
+        "aliases": [
+          "wendy koopa"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Iggy Koopa",
+        "tier": "Rare"
+      },
+      {
+        "text": "Roy Koopa",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lemmy Koopa",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ludwig von Koopa",
+        "aliases": [
+          "ludwig"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tatanga",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wart",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mouser",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Geno",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mallow",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Smithy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fawful",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cackletta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Count Bleck",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Goombella",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kammy Koopa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lubba",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pokey",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dorrie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Foreman Spike",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Jumpman",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "original-151-pokemon",
+    "prompt": "Name an original 151 Pokémon",
+    "category": "Pop Culture",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Pikachu",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Charmander",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Squirtle",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Bulbasaur",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Charizard",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jigglypuff",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Meowth",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Psyduck",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mewtwo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mew",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Snorlax",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Eevee",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gengar",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Blastoise",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Venusaur",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Magikarp",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gyarados",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Onix",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Raichu",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vulpix",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Geodude",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Zubat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pidgey",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Caterpie",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Butterfree",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dragonite",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lapras",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ditto",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ekans",
+        "tier": "Rare"
+      },
+      {
+        "text": "Clefairy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Diglett",
+        "tier": "Rare"
+      },
+      {
+        "text": "Growlithe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Arcanine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Abra",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alakazam",
+        "tier": "Rare"
+      },
+      {
+        "text": "Machamp",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slowpoke",
+        "tier": "Rare"
+      },
+      {
+        "text": "Magnemite",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cubone",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hitmonchan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Koffing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chansey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kangaskhan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Starmie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mr. Mime",
+        "tier": "Rare"
+      },
+      {
+        "text": "Scyther",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jynx",
+        "tier": "Rare"
+      },
+      {
+        "text": "Electabuzz",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vaporeon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jolteon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Flareon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Articuno",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zapdos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Moltres",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dratini",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aerodactyl",
+        "tier": "Rare"
+      },
+      {
+        "text": "Venomoth",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Golbat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Seaking",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tangela",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kabutops",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dodrio",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tentacruel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Exeggutor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Porygon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lickitung",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Farfetch'd",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Poliwrath",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Parasect",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "MissingNo.",
+        "aliases": [
+          "missing no"
+        ],
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "the-office-us-characters",
+    "prompt": "Name a character from The Office (US)",
+    "category": "Pop Culture",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Michael Scott",
+        "aliases": [
+          "michael"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Dwight Schrute",
+        "aliases": [
+          "dwight",
+          "schrute"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Jim Halpert",
+        "aliases": [
+          "jim"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Pam Beesly",
+        "aliases": [
+          "pam",
+          "pam halpert",
+          "beesly"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Andy Bernard",
+        "aliases": [
+          "andy"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kevin Malone",
+        "aliases": [
+          "kevin"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Angela Martin",
+        "aliases": [
+          "angela"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Oscar Martinez",
+        "aliases": [
+          "oscar"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Stanley Hudson",
+        "aliases": [
+          "stanley"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ryan Howard",
+        "aliases": [
+          "ryan"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kelly Kapoor",
+        "aliases": [
+          "kelly"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Creed Bratton",
+        "aliases": [
+          "creed"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Toby Flenderson",
+        "aliases": [
+          "toby"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Phyllis Vance",
+        "aliases": [
+          "phyllis"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Meredith Palmer",
+        "aliases": [
+          "meredith"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Erin Hannon",
+        "aliases": [
+          "erin"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Darryl Philbin",
+        "aliases": [
+          "darryl"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jan Levinson",
+        "aliases": [
+          "jan"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Holly Flax",
+        "aliases": [
+          "holly"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gabe Lewis",
+        "aliases": [
+          "gabe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Roy Anderson",
+        "aliases": [
+          "roy"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Karen Filippelli",
+        "aliases": [
+          "karen"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "David Wallace",
+        "tier": "Rare"
+      },
+      {
+        "text": "Robert California",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jo Bennett",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nellie Bertram",
+        "aliases": [
+          "nellie"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Clark Green",
+        "aliases": [
+          "clark"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pete Miller",
+        "aliases": [
+          "pete"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mose Schrute",
+        "aliases": [
+          "mose"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Todd Packer",
+        "aliases": [
+          "packer"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bob Vance",
+        "tier": "Rare"
+      },
+      {
+        "text": "Charles Miner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Deangelo Vickers",
+        "aliases": [
+          "deangelo"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hank Tate",
+        "aliases": [
+          "hank"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Nate Nickerson",
+        "aliases": [
+          "nate"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Danny Cordray",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cathy Simms",
+        "tier": "Rare"
+      },
+      {
+        "text": "Senator Robert Lipton",
+        "aliases": [
+          "the senator"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Val Johnson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brian Wittle",
+        "aliases": [
+          "brian the boom mic guy"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carol Stills",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Helene Beesly",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jessica",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Esther Bruegger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lonny Collins",
+        "aliases": [
+          "lonny"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Madge Madsen",
+        "aliases": [
+          "madge"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ed Truck",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tony Gardner",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Troy Underbridge",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kenny Anderson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Devon White",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jordan Garfield",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rolf Ahl",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cecelia Halpert",
+        "aliases": [
+          "cece"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Isabel Poreba",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Donna",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hidetoshi Hasagawa",
+        "aliases": [
+          "hide"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Prison Mike",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Michael Scarn",
+        "aliases": [
+          "agent michael scarn"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Date Mike",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "game-of-thrones-characters",
+    "prompt": "Name a Game of Thrones character",
+    "category": "Pop Culture",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "ser",
+      "lord",
+      "lady",
+      "maester"
+    ],
+    "answers": [
+      {
+        "text": "Jon Snow",
+        "aliases": [
+          "jon"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Daenerys Targaryen",
+        "aliases": [
+          "daenerys",
+          "dany",
+          "khaleesi",
+          "mother of dragons"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tyrion Lannister",
+        "aliases": [
+          "tyrion"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Cersei Lannister",
+        "aliases": [
+          "cersei"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jaime Lannister",
+        "aliases": [
+          "jaime"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Arya Stark",
+        "aliases": [
+          "arya"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sansa Stark",
+        "aliases": [
+          "sansa"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ned Stark",
+        "aliases": [
+          "eddard stark",
+          "eddard"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Joffrey Baratheon",
+        "aliases": [
+          "joffrey"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bran Stark",
+        "aliases": [
+          "bran",
+          "brandon stark"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Robb Stark",
+        "aliases": [
+          "robb"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Catelyn Stark",
+        "aliases": [
+          "catelyn"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tywin Lannister",
+        "aliases": [
+          "tywin"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Petyr Baelish",
+        "aliases": [
+          "littlefinger",
+          "baelish"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Varys",
+        "aliases": [
+          "the spider"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "The Hound",
+        "aliases": [
+          "sandor clegane",
+          "sandor"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Brienne of Tarth",
+        "aliases": [
+          "brienne"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Theon Greyjoy",
+        "aliases": [
+          "theon",
+          "reek"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Khal Drogo",
+        "aliases": [
+          "drogo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Samwell Tarly",
+        "aliases": [
+          "samwell",
+          "sam tarly"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ramsay Bolton",
+        "aliases": [
+          "ramsay",
+          "ramsay snow"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Robert Baratheon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "The Night King",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hodor",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Stannis Baratheon",
+        "aliases": [
+          "stannis"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Melisandre",
+        "aliases": [
+          "the red woman"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Davos Seaworth",
+        "aliases": [
+          "davos",
+          "onion knight"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Margaery Tyrell",
+        "aliases": [
+          "margaery"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Olenna Tyrell",
+        "aliases": [
+          "olenna",
+          "queen of thorns"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Jorah Mormont",
+        "aliases": [
+          "jorah"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Missandei",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grey Worm",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gendry",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bronn",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ygritte",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tormund Giantsbane",
+        "aliases": [
+          "tormund"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "The Mountain",
+        "aliases": [
+          "gregor clegane",
+          "gregor"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Oberyn Martell",
+        "aliases": [
+          "oberyn",
+          "red viper"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Podrick Payne",
+        "aliases": [
+          "podrick"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Shae",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gilly",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jaqen H'ghar",
+        "aliases": [
+          "jaqen"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Walder Frey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Roose Bolton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Euron Greyjoy",
+        "aliases": [
+          "euron"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Yara Greyjoy",
+        "aliases": [
+          "yara"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Viserys Targaryen",
+        "aliases": [
+          "viserys"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Daario Naharis",
+        "aliases": [
+          "daario"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tommen Baratheon",
+        "aliases": [
+          "tommen"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Renly Baratheon",
+        "aliases": [
+          "renly"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "High Sparrow",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hot Pie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lyanna Mormont",
+        "tier": "Rare"
+      },
+      {
+        "text": "Qyburn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Myrcella Baratheon",
+        "aliases": [
+          "myrcella"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Loras Tyrell",
+        "aliases": [
+          "loras"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Meera Reed",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Osha",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mance Rayder",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Benjen Stark",
+        "aliases": [
+          "benjen"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maester Aemon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Barristan Selmy",
+        "aliases": [
+          "barristan"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Syrio Forel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Beric Dondarrion",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brynden Tully",
+        "aliases": [
+          "the blackfish"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shireen Baratheon",
+        "aliases": [
+          "shireen"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Qhorin Halfhand",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wun Wun",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Archmaester Ebrose",
+        "aliases": [
+          "ebrose"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Ser Pounce",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "seinfeld-characters",
+    "prompt": "Name a Seinfeld character",
+    "category": "Pop Culture",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Jerry Seinfeld",
+        "aliases": [
+          "jerry"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "George Costanza",
+        "aliases": [
+          "george",
+          "costanza"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kramer",
+        "aliases": [
+          "cosmo kramer"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Elaine Benes",
+        "aliases": [
+          "elaine"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Newman",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Frank Costanza",
+        "aliases": [
+          "frank"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Estelle Costanza",
+        "aliases": [
+          "estelle"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "The Soup Nazi",
+        "aliases": [
+          "yev kassem"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "J. Peterman",
+        "aliases": [
+          "jacopo peterman",
+          "peterman"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "David Puddy",
+        "aliases": [
+          "puddy"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "George Steinbrenner",
+        "aliases": [
+          "steinbrenner"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Uncle Leo",
+        "aliases": [
+          "leo"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Susan Ross",
+        "aliases": [
+          "susan"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Morty Seinfeld",
+        "aliases": [
+          "morty"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Helen Seinfeld",
+        "aliases": [
+          "helen"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Jackie Chiles",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kenny Bania",
+        "aliases": [
+          "bania"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mr. Lippman",
+        "aliases": [
+          "lippman"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Babu Bhatt",
+        "aliases": [
+          "babu"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tim Whatley",
+        "aliases": [
+          "whatley"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mickey Abbott",
+        "aliases": [
+          "mickey"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Crazy Joe Davola",
+        "aliases": [
+          "joe davola"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sue Ellen Mischke",
+        "tier": "Rare"
+      },
+      {
+        "text": "Justin Pitt",
+        "aliases": [
+          "mr pitt"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lloyd Braun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Keith Hernandez",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lt. Bookman",
+        "aliases": [
+          "bookman"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "The Maestro",
+        "aliases": [
+          "bob cobb"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mr. Kruger",
+        "aliases": [
+          "kruger"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Alton Benes",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jake Jarmel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mr. Wilhelm",
+        "aliases": [
+          "wilhelm"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Russell Dalrymple",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Izzy Mandelbaum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sidra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sally Weaver",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jean-Paul",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ramon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Poppie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cousin Jeffrey",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jimmy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mr. Ross",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mrs. Ross",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dolores",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Marla",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rachel Goldstein",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kevin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jack Klompus",
+        "aliases": [
+          "klompus"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Art Vandelay",
+        "aliases": [
+          "vandelay"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Bob Sacamano",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Dr. Martin Van Nostrand",
+        "aliases": [
+          "van nostrand"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "H.E. Pennypacker",
+        "aliases": [
+          "pennypacker"
+        ],
+        "tier": "Too Clever"
+      }
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+<!doctype html>
+<!-- DEV ONLY: preview of the end-screen answer reveal. Not part of the production build. -->
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
+<style>html,body{overflow:auto!important;background:#04100c}</style></head>
+<body><div class="sheet" style="position:static;padding:16px;width:375px"><div class="end-inner"><section class="card" id="c"></section></div></div>
+<script type="module">
+import '/src/styles.css';
+import { recapHTML, bindRecap } from '/src/ui/recap.ts';
+const q = await (await fetch('/data/questions.json')).json();
+const ids = ['cheese-types', 'dog-breeds'];
+const prompts = ids.map((id) => q.find((p) => p.id === id));
+const results = [
+  { promptId: 'cheese-types', answer: 'Halloumi', tier: 'Rare', points: 60 },
+  { promptId: 'dog-breeds', answer: null, tier: null, points: 0 },
+];
+const c = document.getElementById('c');
+c.innerHTML = '<div class="card-label">RECAP · tap a prompt to reveal every answer</div>' + recapHTML(prompts, results);
+bindRecap(c, prompts, 1);
+document.title = 'w=' + innerWidth + ' sw=' + document.documentElement.scrollWidth;
+if (location.hash === '#open') c.querySelectorAll('.recap-head')[0].click();
+if (location.hash === '#search') { c.querySelectorAll('.recap-head')[0].click(); const i = c.querySelector('[data-search]'); i.value = 'parm'; i.dispatchEvent(new Event('input', { bubbles: true })); }
+</script></body></html>

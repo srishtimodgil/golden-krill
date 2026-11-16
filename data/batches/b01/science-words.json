@@ -1,0 +1,6637 @@
+[
+  {
+    "id": "human-bones",
+    "prompt": "Name a bone in the human body",
+    "category": "Science & Body",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "bone",
+      "bones"
+    ],
+    "answers": [
+      {
+        "text": "Femur",
+        "aliases": [
+          "thigh bone",
+          "thighbone"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Skull",
+        "aliases": [
+          "cranium"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tibia",
+        "aliases": [
+          "shin bone",
+          "shinbone"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rib",
+        "aliases": [
+          "ribcage",
+          "rib cage"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vertebra",
+        "aliases": [
+          "vertebrae",
+          "spine",
+          "backbone",
+          "spinal column"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Humerus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pelvis",
+        "aliases": [
+          "hip bone",
+          "hipbone"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mandible",
+        "aliases": [
+          "jawbone",
+          "jaw",
+          "lower jaw"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fibula",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Radius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ulna",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sternum",
+        "aliases": [
+          "breastbone"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Clavicle",
+        "aliases": [
+          "collarbone",
+          "collar bone"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Patella",
+        "aliases": [
+          "kneecap",
+          "knee cap"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Scapula",
+        "aliases": [
+          "shoulder blade"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Coccyx",
+        "aliases": [
+          "tailbone",
+          "tail bone"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sacrum",
+        "tier": "Rare"
+      },
+      {
+        "text": "Phalanges",
+        "aliases": [
+          "phalanx",
+          "finger bone",
+          "toe bone"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Metacarpal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Metatarsal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carpal",
+        "aliases": [
+          "wrist bone"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tarsal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Calcaneus",
+        "aliases": [
+          "heel bone"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Maxilla",
+        "aliases": [
+          "upper jaw"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Zygomatic",
+        "aliases": [
+          "cheekbone",
+          "cheek bone",
+          "zygoma"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Atlas",
+        "tier": "Rare"
+      },
+      {
+        "text": "Axis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nasal",
+        "aliases": [
+          "nose bone"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Frontal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hyoid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stapes",
+        "aliases": [
+          "stirrup"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Incus",
+        "aliases": [
+          "anvil"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Malleus",
+        "aliases": [
+          "hammer"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Talus",
+        "aliases": [
+          "ankle bone",
+          "astragalus"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scaphoid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lunate",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Triquetrum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pisiform",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Trapezium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Trapezoid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Capitate",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Navicular",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cuboid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cuneiform",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ilium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ischium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pubis",
+        "aliases": [
+          "pubic bone"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Occipital",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Parietal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Temporal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sphenoid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ethmoid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vomer",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lacrimal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Palatine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sesamoid",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hamate",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Funny bone",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "human-organs",
+    "prompt": "Name an organ in the human body",
+    "category": "Science & Body",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Heart",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Brain",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Lung",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Liver",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kidney",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Stomach",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Skin",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Intestines",
+        "aliases": [
+          "intestine",
+          "bowel",
+          "gut",
+          "small intestine"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bladder",
+        "aliases": [
+          "urinary bladder"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pancreas",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Eye",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Spleen",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gallbladder",
+        "aliases": [
+          "gall bladder"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Appendix",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thyroid",
+        "aliases": [
+          "thyroid gland"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Esophagus",
+        "aliases": [
+          "oesophagus",
+          "gullet"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Uterus",
+        "aliases": [
+          "womb"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ovary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Testicle",
+        "aliases": [
+          "testis",
+          "testes"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Prostate",
+        "aliases": [
+          "prostate gland"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tongue",
+        "tier": "Rare"
+      },
+      {
+        "text": "Colon",
+        "aliases": [
+          "large intestine"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ear",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nose",
+        "tier": "Rare"
+      },
+      {
+        "text": "Larynx",
+        "aliases": [
+          "voice box"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Trachea",
+        "aliases": [
+          "windpipe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Rectum",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spinal cord",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tonsil",
+        "tier": "Rare"
+      },
+      {
+        "text": "Adrenal gland",
+        "aliases": [
+          "adrenal"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pituitary gland",
+        "aliases": [
+          "pituitary"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Thymus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pineal gland",
+        "aliases": [
+          "pineal"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Parathyroid",
+        "aliases": [
+          "parathyroid gland"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pharynx",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Duodenum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Placenta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lymph node",
+        "aliases": [
+          "lymph gland"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bone marrow",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salivary gland",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cecum",
+        "aliases": [
+          "caecum"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jejunum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ileum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fallopian tube",
+        "aliases": [
+          "oviduct"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Epididymis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cervix",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Urethra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ureter",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hypothalamus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mesentery",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "chemical-elements",
+    "prompt": "Name a chemical element",
+    "category": "Science & Body",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "element"
+    ],
+    "answers": [
+      {
+        "text": "Oxygen",
+        "aliases": [
+          "O"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Hydrogen",
+        "aliases": [
+          "H"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Carbon",
+        "aliases": [
+          "C"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Gold",
+        "aliases": [
+          "Au"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Iron",
+        "aliases": [
+          "Fe"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Helium",
+        "aliases": [
+          "He"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nitrogen",
+        "aliases": [
+          "N"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Silver",
+        "aliases": [
+          "Ag"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Copper",
+        "aliases": [
+          "Cu"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sodium",
+        "aliases": [
+          "Na"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Calcium",
+        "aliases": [
+          "Ca"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lead",
+        "aliases": [
+          "Pb"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aluminium",
+        "aliases": [
+          "aluminum",
+          "Al"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Zinc",
+        "aliases": [
+          "Zn"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Uranium",
+        "aliases": [
+          "U"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chlorine",
+        "aliases": [
+          "Cl"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Neon",
+        "aliases": [
+          "Ne"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mercury",
+        "aliases": [
+          "Hg"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Platinum",
+        "aliases": [
+          "Pt"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Potassium",
+        "aliases": [
+          "K"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Magnesium",
+        "aliases": [
+          "Mg"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sulfur",
+        "aliases": [
+          "sulphur",
+          "S"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tin",
+        "aliases": [
+          "Sn"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lithium",
+        "aliases": [
+          "Li"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Plutonium",
+        "aliases": [
+          "Pu"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Titanium",
+        "aliases": [
+          "Ti"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Silicon",
+        "aliases": [
+          "Si"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Argon",
+        "aliases": [
+          "Ar"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Phosphorus",
+        "aliases": [
+          "P"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Fluorine",
+        "aliases": [
+          "F"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Iodine",
+        "aliases": [
+          "I"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cobalt",
+        "aliases": [
+          "Co"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Nickel",
+        "aliases": [
+          "Ni"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Chromium",
+        "aliases": [
+          "Cr"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Manganese",
+        "aliases": [
+          "Mn"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tungsten",
+        "aliases": [
+          "wolfram",
+          "W"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Radium",
+        "aliases": [
+          "Ra"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Radon",
+        "aliases": [
+          "Rn"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Arsenic",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boron",
+        "aliases": [
+          "B"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Beryllium",
+        "tier": "Rare"
+      },
+      {
+        "text": "Krypton",
+        "aliases": [
+          "Kr"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Xenon",
+        "aliases": [
+          "Xe"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bromine",
+        "aliases": [
+          "Br"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Barium",
+        "aliases": [
+          "Ba"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Strontium",
+        "aliases": [
+          "Sr"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Cadmium",
+        "aliases": [
+          "Cd"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Caesium",
+        "aliases": [
+          "cesium"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Bismuth",
+        "aliases": [
+          "Bi"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Polonium",
+        "aliases": [
+          "Po"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Palladium",
+        "aliases": [
+          "Pd"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Iridium",
+        "aliases": [
+          "Ir"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Osmium",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gallium",
+        "aliases": [
+          "Ga"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Germanium",
+        "aliases": [
+          "Ge"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Selenium",
+        "aliases": [
+          "Se"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Vanadium",
+        "aliases": [
+          "V"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Thorium",
+        "aliases": [
+          "Th"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Francium",
+        "aliases": [
+          "Fr"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Einsteinium",
+        "tier": "Rare"
+      },
+      {
+        "text": "Americium",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antimony",
+        "aliases": [
+          "Sb"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Zirconium",
+        "aliases": [
+          "Zr"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Rhodium",
+        "aliases": [
+          "Rh"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Neodymium",
+        "aliases": [
+          "Nd"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Californium",
+        "aliases": [
+          "Cf"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Curium",
+        "aliases": [
+          "Cm"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Scandium",
+        "aliases": [
+          "Sc"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rubidium",
+        "aliases": [
+          "Rb"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yttrium",
+        "aliases": [
+          "Y"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Niobium",
+        "aliases": [
+          "Nb"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Molybdenum",
+        "aliases": [
+          "Mo"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Technetium",
+        "aliases": [
+          "Tc"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ruthenium",
+        "aliases": [
+          "Ru"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Indium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tellurium",
+        "aliases": [
+          "Te"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lanthanum",
+        "aliases": [
+          "La"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cerium",
+        "aliases": [
+          "Ce"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Promethium",
+        "aliases": [
+          "Pm"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Samarium",
+        "aliases": [
+          "Sm"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Europium",
+        "aliases": [
+          "Eu"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gadolinium",
+        "aliases": [
+          "Gd"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Terbium",
+        "aliases": [
+          "Tb"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dysprosium",
+        "aliases": [
+          "Dy"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Holmium",
+        "aliases": [
+          "Ho"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Erbium",
+        "aliases": [
+          "Er"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Thulium",
+        "aliases": [
+          "Tm"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ytterbium",
+        "aliases": [
+          "Yb"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lutetium",
+        "aliases": [
+          "Lu"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hafnium",
+        "aliases": [
+          "Hf"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tantalum",
+        "aliases": [
+          "Ta"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhenium",
+        "aliases": [
+          "Re"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Thallium",
+        "aliases": [
+          "Tl"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Astatine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Actinium",
+        "aliases": [
+          "Ac"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Protactinium",
+        "aliases": [
+          "Pa"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Neptunium",
+        "aliases": [
+          "Np"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Berkelium",
+        "aliases": [
+          "Bk"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fermium",
+        "aliases": [
+          "Fm"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mendelevium",
+        "aliases": [
+          "Md"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nobelium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lawrencium",
+        "aliases": [
+          "Lr"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rutherfordium",
+        "aliases": [
+          "Rf"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dubnium",
+        "aliases": [
+          "Db"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Seaborgium",
+        "aliases": [
+          "Sg"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bohrium",
+        "aliases": [
+          "Bh"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hassium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Meitnerium",
+        "aliases": [
+          "Mt"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Darmstadtium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Roentgenium",
+        "aliases": [
+          "Rg"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Copernicium",
+        "aliases": [
+          "Cn"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nihonium",
+        "aliases": [
+          "Nh"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Flerovium",
+        "aliases": [
+          "Fl"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Moscovium",
+        "aliases": [
+          "Mc"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Livermorium",
+        "aliases": [
+          "Lv"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tennessine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oganesson",
+        "aliases": [
+          "Og"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Praseodymium",
+        "aliases": [
+          "Pr"
+        ],
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "constellations",
+    "prompt": "Name a constellation",
+    "category": "Science & Body",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Orion",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ursa Major",
+        "aliases": [
+          "great bear"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Scorpius",
+        "aliases": [
+          "scorpio"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ursa Minor",
+        "aliases": [
+          "little bear"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cassiopeia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Leo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gemini",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Taurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aries",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cancer",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Virgo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Libra",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sagittarius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Capricornus",
+        "aliases": [
+          "capricorn"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aquarius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pisces",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Andromeda",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cygnus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pegasus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Draco",
+        "tier": "Rare"
+      },
+      {
+        "text": "Perseus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hercules",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lyra",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aquila",
+        "tier": "Rare"
+      },
+      {
+        "text": "Centaurus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Crux",
+        "aliases": [
+          "southern cross"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Canis Major",
+        "tier": "Rare"
+      },
+      {
+        "text": "Canis Minor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Phoenix",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hydra",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lupus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ophiuchus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cepheus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Auriga",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boötes",
+        "tier": "Rare"
+      },
+      {
+        "text": "Corona Borealis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cetus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lynx",
+        "tier": "Rare"
+      },
+      {
+        "text": "Delphinus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carina",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eridanus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Monoceros",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Antlia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Apus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ara",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caelum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Camelopardalis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Canes Venatici",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chamaeleon",
+        "aliases": [
+          "chameleon"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Circinus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Columba",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coma Berenices",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Corona Australis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Corvus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Crater",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dorado",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Equuleus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fornax",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Grus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Horologium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hydrus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Indus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lacerta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leo Minor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lepus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mensa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Musca",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Norma",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Octans",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pavo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pictor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Piscis Austrinus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Puppis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pyxis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Reticulum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sagitta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sculptor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scutum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Serpens",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sextans",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Telescopium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Triangulum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Triangulum Australe",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tucana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vela",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Volans",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vulpecula",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Microscopium",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Big Dipper",
+        "aliases": [
+          "plough",
+          "plow"
+        ],
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Little Dipper",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "human-muscles",
+    "prompt": "Name a muscle in the human body",
+    "category": "Science & Body",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "muscle",
+      "muscles"
+    ],
+    "answers": [
+      {
+        "text": "Biceps",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Triceps",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Rectus abdominis",
+        "aliases": [
+          "abs",
+          "abdominals",
+          "six pack"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Quadriceps",
+        "aliases": [
+          "quads",
+          "quad"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hamstring",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gluteus maximus",
+        "aliases": [
+          "glutes",
+          "glute"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gastrocnemius",
+        "aliases": [
+          "calf",
+          "calves"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pectoralis major",
+        "aliases": [
+          "pecs",
+          "pec",
+          "pectorals"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Deltoid",
+        "aliases": [
+          "delts",
+          "delt"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Diaphragm",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Latissimus dorsi",
+        "aliases": [
+          "lats",
+          "lat"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Trapezius",
+        "aliases": [
+          "traps",
+          "trap"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Obliques",
+        "aliases": [
+          "external oblique",
+          "internal oblique"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Soleus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tibialis anterior",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sartorius",
+        "tier": "Rare"
+      },
+      {
+        "text": "Masseter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rhomboid",
+        "tier": "Rare"
+      },
+      {
+        "text": "Erector spinae",
+        "tier": "Rare"
+      },
+      {
+        "text": "Adductor longus",
+        "aliases": [
+          "adductor"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gluteus medius",
+        "tier": "Rare"
+      },
+      {
+        "text": "Iliopsoas",
+        "aliases": [
+          "psoas"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Serratus anterior",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brachialis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Piriformis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rotator cuff",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sternocleidomastoid",
+        "tier": "Rare"
+      },
+      {
+        "text": "Temporalis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rectus femoris",
+        "tier": "Rare"
+      },
+      {
+        "text": "Transversus abdominis",
+        "aliases": [
+          "transverse abdominis"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Platysma",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Frontalis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Buccinator",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vastus lateralis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vastus medialis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gracilis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Teres major",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Teres minor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Infraspinatus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Supraspinatus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Subscapularis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Levator scapulae",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brachioradialis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pronator teres",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pectoralis minor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coracobrachialis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tensor fasciae latae",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Popliteus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Peroneus longus",
+        "aliases": [
+          "fibularis longus"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Orbicularis oculi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Orbicularis oris",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zygomaticus major",
+        "aliases": [
+          "zygomaticus"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Detrusor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Multifidus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Quadratus lumborum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Intercostal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stapedius",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Heart",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Tongue",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "gases",
+    "prompt": "Name a gas",
+    "category": "Science & Body",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Oxygen",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Carbon dioxide",
+        "aliases": [
+          "CO2"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Helium",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Nitrogen",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hydrogen",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Methane",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Carbon monoxide",
+        "aliases": [
+          "CO"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Neon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Propane",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nitrous oxide",
+        "aliases": [
+          "laughing gas",
+          "N2O"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Butane",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chlorine",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Argon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ozone",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ammonia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Radon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Xenon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Krypton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fluorine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ethylene",
+        "aliases": [
+          "ethene"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Acetylene",
+        "aliases": [
+          "ethyne"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Sulfur dioxide",
+        "aliases": [
+          "sulphur dioxide",
+          "SO2"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hydrogen sulfide",
+        "aliases": [
+          "hydrogen sulphide",
+          "H2S"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ethane",
+        "tier": "Rare"
+      },
+      {
+        "text": "Natural gas",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nitrogen dioxide",
+        "aliases": [
+          "NO2"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Water vapor",
+        "aliases": [
+          "water vapour",
+          "steam"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Phosgene",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nitric oxide",
+        "aliases": [
+          "nitrogen monoxide"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Phosphine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arsine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Silane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hydrogen chloride",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sulfur hexafluoride",
+        "aliases": [
+          "sulphur hexafluoride",
+          "SF6"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chloromethane",
+        "aliases": [
+          "methyl chloride"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Formaldehyde",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dimethyl ether",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Propylene",
+        "aliases": [
+          "propene"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carbonyl sulfide",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nitrogen trifluoride",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Germane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stibine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hydrogen selenide",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chlorine dioxide",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cyanogen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Isobutane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tetrafluoromethane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fluoromethane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Methylamine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vinyl chloride",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oxygen difluoride",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Diborane",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Air",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "infectious-diseases",
+    "prompt": "Name an infectious disease",
+    "category": "Science & Body",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Flu",
+        "aliases": [
+          "influenza"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "COVID-19",
+        "aliases": [
+          "covid",
+          "coronavirus",
+          "covid 19"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Common cold",
+        "aliases": [
+          "cold"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Measles",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chickenpox",
+        "aliases": [
+          "chicken pox",
+          "varicella"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Malaria",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tuberculosis",
+        "aliases": [
+          "TB"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "HIV",
+        "aliases": [
+          "AIDS"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mumps",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ebola",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Polio",
+        "aliases": [
+          "poliomyelitis"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Smallpox",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rabies",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Strep throat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cholera",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tetanus",
+        "aliases": [
+          "lockjaw"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Whooping cough",
+        "aliases": [
+          "pertussis"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Typhoid",
+        "aliases": [
+          "typhoid fever"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Plague",
+        "aliases": [
+          "bubonic plague",
+          "black death"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Leprosy",
+        "aliases": [
+          "hansens disease"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Syphilis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gonorrhea",
+        "aliases": [
+          "gonorrhoea"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Chlamydia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hepatitis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rubella",
+        "aliases": [
+          "german measles"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Lyme disease",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shingles",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mononucleosis",
+        "aliases": [
+          "mono",
+          "glandular fever"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Scarlet fever",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dengue",
+        "aliases": [
+          "dengue fever"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Zika",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yellow fever",
+        "tier": "Rare"
+      },
+      {
+        "text": "Diphtheria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Norovirus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Salmonella",
+        "aliases": [
+          "salmonellosis"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Anthrax",
+        "tier": "Rare"
+      },
+      {
+        "text": "MRSA",
+        "tier": "Rare"
+      },
+      {
+        "text": "Herpes",
+        "tier": "Rare"
+      },
+      {
+        "text": "SARS",
+        "tier": "Rare"
+      },
+      {
+        "text": "West Nile virus",
+        "aliases": [
+          "west nile"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Legionnaires disease",
+        "aliases": [
+          "legionellosis"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Listeriosis",
+        "aliases": [
+          "listeria"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Botulism",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chikungunya",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hantavirus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leptospirosis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Typhus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Toxoplasmosis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Giardiasis",
+        "aliases": [
+          "giardia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sleeping sickness",
+        "aliases": [
+          "trypanosomiasis"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chagas disease",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Impetigo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hand foot and mouth disease",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "MERS",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tularemia",
+        "aliases": [
+          "rabbit fever"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Schistosomiasis",
+        "aliases": [
+          "bilharzia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lassa fever",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Marburg virus",
+        "aliases": [
+          "marburg"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mpox",
+        "aliases": [
+          "monkeypox"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kuru",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "units-of-measurement",
+    "prompt": "Name a unit of measurement",
+    "category": "Science & Body",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Meter",
+        "aliases": [
+          "metre"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Inch",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Foot",
+        "aliases": [
+          "feet"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mile",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Centimeter",
+        "aliases": [
+          "centimetre",
+          "cm"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kilogram",
+        "aliases": [
+          "kilo",
+          "kg"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pound",
+        "aliases": [
+          "lb"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gram",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Liter",
+        "aliases": [
+          "litre"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yard",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ounce",
+        "aliases": [
+          "oz"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gallon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kilometer",
+        "aliases": [
+          "kilometre",
+          "km"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Second",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Minute",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hour",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Millimeter",
+        "aliases": [
+          "millimetre",
+          "mm"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ton",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Degree Celsius",
+        "aliases": [
+          "celsius",
+          "centigrade"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Degree Fahrenheit",
+        "aliases": [
+          "fahrenheit"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pint",
+        "tier": "Rare"
+      },
+      {
+        "text": "Quart",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cup",
+        "tier": "Rare"
+      },
+      {
+        "text": "Teaspoon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tablespoon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Acre",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hectare",
+        "tier": "Rare"
+      },
+      {
+        "text": "Watt",
+        "tier": "Rare"
+      },
+      {
+        "text": "Volt",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ampere",
+        "aliases": [
+          "amp"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Kelvin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Joule",
+        "tier": "Rare"
+      },
+      {
+        "text": "Calorie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Newton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ohm",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hertz",
+        "tier": "Rare"
+      },
+      {
+        "text": "Byte",
+        "tier": "Rare"
+      },
+      {
+        "text": "Decibel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Knot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Light-year",
+        "aliases": [
+          "light year"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Stone",
+        "tier": "Rare"
+      },
+      {
+        "text": "Furlong",
+        "tier": "Rare"
+      },
+      {
+        "text": "Milliliter",
+        "aliases": [
+          "millilitre",
+          "ml"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Horsepower",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pascal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fathom",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tonne",
+        "aliases": [
+          "metric ton"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mole",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Candela",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coulomb",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tesla",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Becquerel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lumen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Parsec",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Astronomical unit",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Angstrom",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cubit",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bushel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Barn",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "subatomic-particles",
+    "prompt": "Name a subatomic particle",
+    "category": "Science & Body",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Electron",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Proton",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Neutron",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Quark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Neutrino",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Photon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Positron",
+        "aliases": [
+          "antielectron"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Muon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Higgs boson",
+        "aliases": [
+          "higgs"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gluon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hadron",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lepton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Meson",
+        "tier": "Rare"
+      },
+      {
+        "text": "Baryon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fermion",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boson",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antiproton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antineutron",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antiquark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antineutrino",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tau",
+        "aliases": [
+          "tauon",
+          "tau lepton"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pion",
+        "aliases": [
+          "pi meson"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "W boson",
+        "tier": "Rare"
+      },
+      {
+        "text": "Z boson",
+        "tier": "Rare"
+      },
+      {
+        "text": "Up quark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Down quark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alpha particle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Beta particle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nucleon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kaon",
+        "aliases": [
+          "k meson"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Strange quark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Charm quark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Top quark",
+        "aliases": [
+          "truth quark"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bottom quark",
+        "aliases": [
+          "beauty quark"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Electron neutrino",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Muon neutrino",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tau neutrino",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lambda baryon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sigma baryon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xi baryon",
+        "aliases": [
+          "cascade particle"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Omega baryon",
+        "aliases": [
+          "omega minus"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Delta baryon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eta meson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rho meson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "J/psi meson",
+        "aliases": [
+          "j psi"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "B meson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "D meson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Upsilon meson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Deuteron",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Triton",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tetraquark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pentaquark",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Phonon",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "night-sky-stars",
+    "prompt": "Name a star in the night sky",
+    "category": "Science & Body",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "star"
+    ],
+    "answers": [
+      {
+        "text": "Polaris",
+        "aliases": [
+          "north star",
+          "pole star"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sirius",
+        "aliases": [
+          "dog star"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Betelgeuse",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Alpha Centauri",
+        "aliases": [
+          "rigil kentaurus"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Proxima Centauri",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vega",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rigel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Arcturus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aldebaran",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Antares",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Canopus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Capella",
+        "tier": "Rare"
+      },
+      {
+        "text": "Deneb",
+        "tier": "Rare"
+      },
+      {
+        "text": "Altair",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spica",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pollux",
+        "tier": "Rare"
+      },
+      {
+        "text": "Castor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Procyon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Regulus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bellatrix",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fomalhaut",
+        "tier": "Rare"
+      },
+      {
+        "text": "Achernar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mira",
+        "tier": "Rare"
+      },
+      {
+        "text": "Algol",
+        "aliases": [
+          "demon star"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Mintaka",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alnilam",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alnitak",
+        "tier": "Rare"
+      },
+      {
+        "text": "Saiph",
+        "tier": "Rare"
+      },
+      {
+        "text": "Barnards Star",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eta Carinae",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mizar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alcor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tau Ceti",
+        "tier": "Rare"
+      },
+      {
+        "text": "Epsilon Eridani",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thuban",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dubhe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Merak",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alioth",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alkaid",
+        "aliases": [
+          "benetnasch"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wolf 359",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "VY Canis Majoris",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "UY Scuti",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tabbys Star",
+        "aliases": [
+          "boyajians star"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hadar",
+        "aliases": [
+          "beta centauri"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Acrux",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mimosa",
+        "aliases": [
+          "becrux"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shaula",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alpheratz",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mirach",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Almach",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Albireo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sadr",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rasalhague",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Denebola",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kochab",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alphard",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kapteyns Star",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Van Maanens Star",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zubenelgenubi",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Sun",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "rocks-and-minerals",
+    "prompt": "Name a rock or mineral",
+    "category": "Science & Body",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Granite",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Diamond",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Quartz",
+        "aliases": [
+          "amethyst",
+          "citrine",
+          "rose quartz"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Marble",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Limestone",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sandstone",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Slate",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Obsidian",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Coal",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chalk",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Basalt",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pumice",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Flint",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pyrite",
+        "aliases": [
+          "fools gold"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shale",
+        "tier": "Rare"
+      },
+      {
+        "text": "Talc",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gypsum",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mica",
+        "tier": "Rare"
+      },
+      {
+        "text": "Feldspar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Calcite",
+        "tier": "Rare"
+      },
+      {
+        "text": "Graphite",
+        "tier": "Rare"
+      },
+      {
+        "text": "Halite",
+        "aliases": [
+          "rock salt"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gneiss",
+        "tier": "Rare"
+      },
+      {
+        "text": "Schist",
+        "tier": "Rare"
+      },
+      {
+        "text": "Quartzite",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jade",
+        "aliases": [
+          "jadeite",
+          "nephrite"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Turquoise",
+        "tier": "Rare"
+      },
+      {
+        "text": "Topaz",
+        "tier": "Rare"
+      },
+      {
+        "text": "Garnet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Malachite",
+        "tier": "Rare"
+      },
+      {
+        "text": "Magnetite",
+        "aliases": [
+          "lodestone"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hematite",
+        "aliases": [
+          "haematite"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Fluorite",
+        "aliases": [
+          "fluorspar"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Corundum",
+        "aliases": [
+          "ruby",
+          "sapphire"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Beryl",
+        "aliases": [
+          "emerald",
+          "aquamarine"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Olivine",
+        "aliases": [
+          "peridot"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Gold",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lapis lazuli",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tourmaline",
+        "tier": "Rare"
+      },
+      {
+        "text": "Galena",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Azurite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cinnabar",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sphalerite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chalcopyrite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kyanite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zircon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Muscovite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Apatite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dolomite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhyolite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Andesite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gabbro",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Diorite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tuff",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Breccia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Conglomerate",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Soapstone",
+        "aliases": [
+          "steatite"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kimberlite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pegmatite",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Komatiite",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "interjections",
+    "prompt": "Name an interjection or exclamation",
+    "category": "Words",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Wow",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ouch",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Oops",
+        "aliases": [
+          "whoops"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Hey",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yay",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hooray",
+        "aliases": [
+          "hurray",
+          "hurrah"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Oh",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ah",
+        "aliases": [
+          "aah"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yikes",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ugh",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Uh-oh",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Phew",
+        "aliases": [
+          "whew"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Huh",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hmm",
+        "aliases": [
+          "hm"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Eek",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Yuck",
+        "aliases": [
+          "yuk"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ha",
+        "aliases": [
+          "hah"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Boo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gosh",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Whoa",
+        "aliases": [
+          "woah"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ow",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aw",
+        "aliases": [
+          "aww"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bravo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Alas",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yippee",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shh",
+        "aliases": [
+          "shush"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Golly",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gee",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jeez",
+        "aliases": [
+          "geez"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hallelujah",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bingo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eureka",
+        "tier": "Rare"
+      },
+      {
+        "text": "Voilà",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bah",
+        "tier": "Rare"
+      },
+      {
+        "text": "Humbug",
+        "tier": "Rare"
+      },
+      {
+        "text": "Crikey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Blimey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Drat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rats",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shucks",
+        "tier": "Rare"
+      },
+      {
+        "text": "Woohoo",
+        "aliases": [
+          "woo hoo"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Aha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ahoy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ahem",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oy vey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Touché",
+        "tier": "Rare"
+      },
+      {
+        "text": "Olé",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pshaw",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Egad",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gadzooks",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Huzzah",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Avast",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tally-ho",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hark",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alack",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Strewth",
+        "aliases": [
+          "struth"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zounds",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Yes",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "No",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "animal-sounds",
+    "prompt": "Name a sound an animal makes",
+    "category": "Words",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Moo",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Woof",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Meow",
+        "aliases": [
+          "miaow",
+          "meaow"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Oink",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Baa",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Quack",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Neigh",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bark",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Roar",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hiss",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cluck",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tweet",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Purr",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Buzz",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ribbit",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Howl",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Growl",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chirp",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cock-a-doodle-doo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hoot",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Croak",
+        "tier": "Rare"
+      },
+      {
+        "text": "Squeak",
+        "tier": "Rare"
+      },
+      {
+        "text": "Honk",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gobble",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bleat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bray",
+        "aliases": [
+          "hee-haw"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Caw",
+        "tier": "Rare"
+      },
+      {
+        "text": "Coo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Whinny",
+        "tier": "Rare"
+      },
+      {
+        "text": "Squawk",
+        "tier": "Rare"
+      },
+      {
+        "text": "Screech",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yelp",
+        "tier": "Rare"
+      },
+      {
+        "text": "Snort",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grunt",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trumpet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bellow",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chatter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Whimper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yap",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mew",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cackle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Warble",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trill",
+        "tier": "Rare"
+      },
+      {
+        "text": "Snarl",
+        "tier": "Rare"
+      },
+      {
+        "text": "Squeal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Whine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cuckoo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bow-wow",
+        "tier": "Rare"
+      },
+      {
+        "text": "Twitter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Peep",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yowl",
+        "tier": "Rare"
+      },
+      {
+        "text": "Caterwaul",
+        "tier": "Rare"
+      },
+      {
+        "text": "Low",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bay",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bugle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nicker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Whicker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tu-whit tu-whoo",
+        "aliases": [
+          "twit twoo"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Boom",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Troat",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "rhymes-with-cat",
+    "prompt": "Name a word that rhymes with \"cat\"",
+    "category": "Words",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Hat",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Bat",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mat",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Rat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Flat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "That",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Brat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Spat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Splat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gnat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Scat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Drat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Format",
+        "tier": "Rare"
+      },
+      {
+        "text": "Acrobat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Diplomat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Habitat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wombat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Combat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Doormat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thermostat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Democrat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aristocrat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Copycat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bobcat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tomcat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wildcat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Polecat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chitchat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Muskrat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Stat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Frat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Prat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sprat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cravat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Laundromat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bureaucrat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Matte",
+        "tier": "Rare"
+      },
+      {
+        "text": "Expat",
+        "aliases": [
+          "ex-pat"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Hazmat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dingbat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Autocrat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Technocrat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Plutocrat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Theocrat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Concordat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Photostat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rheostat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brickbat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pitapat",
+        "aliases": [
+          "pit-a-pat"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Automat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Begat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hellcat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ziggurat",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "ology-words",
+    "prompt": "Name a word ending in -ology",
+    "category": "Words",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Biology",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Geology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Astrology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Psychology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Technology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Zoology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sociology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Theology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Archaeology",
+        "aliases": [
+          "archeology"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Anthropology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ecology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mythology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Criminology",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Etymology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cardiology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Neurology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dermatology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Radiology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Oncology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pathology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Physiology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Meteorology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Paleontology",
+        "aliases": [
+          "palaeontology"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ornithology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Entomology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gynecology",
+        "aliases": [
+          "gynaecology"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Immunology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Virology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Toxicology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Methodology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Terminology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ideology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chronology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cosmology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Seismology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Urology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pharmacology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Numerology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ophthalmology",
+        "tier": "Rare"
+      },
+      {
+        "text": "Speleology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Herpetology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ichthyology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mycology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Epidemiology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Histology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hydrology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Volcanology",
+        "aliases": [
+          "vulcanology"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Eschatology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oenology",
+        "aliases": [
+          "enology"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Horology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dendrology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vexillology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Glaciology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Myrmecology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Phrenology",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Campanology",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Apology",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Anthology",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Tautology",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Doxology",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "palindromes",
+    "prompt": "Name a word that is a palindrome",
+    "category": "Words",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Racecar",
+        "aliases": [
+          "race car"
+        ],
+        "tier": "Plankton"
+      },
+      {
+        "text": "Level",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kayak",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Radar",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mom",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dad",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wow",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Noon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Civic",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Madam",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Eye",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pop",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Refer",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rotor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Deed",
+        "tier": "Rare"
+      },
+      {
+        "text": "Peep",
+        "tier": "Rare"
+      },
+      {
+        "text": "Stats",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tenet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Solos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sagas",
+        "tier": "Rare"
+      },
+      {
+        "text": "Redder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pup",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gag",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bib",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bob",
+        "tier": "Rare"
+      },
+      {
+        "text": "Did",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ewe",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gig",
+        "tier": "Rare"
+      },
+      {
+        "text": "Huh",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pip",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Toot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Poop",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sees",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boob",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maam",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tut",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dud",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pep",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ere",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kook",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yay",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eve",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Minim",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Reviver",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rotator",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Repaper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Deified",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Reifier",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sexes",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shahs",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alula",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kinnikinnik",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Tattarrattat",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Aibohphobia",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "phobias",
+    "prompt": "Name a phobia",
+    "category": "Words",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Arachnophobia",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Claustrophobia",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Agoraphobia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Acrophobia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Xenophobia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hydrophobia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Technophobia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Coulrophobia",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Germophobia",
+        "aliases": [
+          "germaphobia"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Homophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nyctophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aerophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trypophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Glossophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hemophobia",
+        "aliases": [
+          "haemophobia"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ophidiophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Necrophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thanatophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Emetophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cynophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Photophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Entomophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aquaphobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pyrophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Astraphobia",
+        "aliases": [
+          "astrophobia"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Nomophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thalassophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Autophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sociophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gynophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Androphobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Trypanophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brontophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Monophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Phobophobia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ailurophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ornithophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Apiphobia",
+        "aliases": [
+          "melissophobia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Musophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ombrophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chionophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Odontophobia",
+        "aliases": [
+          "dentophobia"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gerascophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ergophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Anglophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Francophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hippophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pogonophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bibliophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Heliophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mysophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ichthyophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nosophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Somniphobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Philophobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Paraskevidekatriaphobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hexakosioihexekontahexaphobia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Triskaidekaphobia",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Hippopotomonstrosesquippedaliophobia",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Arachibutyrophobia",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "portmanteau-words",
+    "prompt": "Name a portmanteau (a blended word)",
+    "category": "Words",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Brunch",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Smog",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Spork",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Motel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Brexit",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sitcom",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Podcast",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Frenemy",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bromance",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hangry",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Staycation",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Infomercial",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Blog",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Labradoodle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Liger",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Emoticon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Glamping",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mockumentary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Webinar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Camcorder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cosplay",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spanglish",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chunnel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Televangelist",
+        "tier": "Rare"
+      },
+      {
+        "text": "Guesstimate",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jeggings",
+        "tier": "Rare"
+      },
+      {
+        "text": "Skort",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vlog",
+        "tier": "Rare"
+      },
+      {
+        "text": "Netizen",
+        "tier": "Rare"
+      },
+      {
+        "text": "Edutainment",
+        "tier": "Rare"
+      },
+      {
+        "text": "Docudrama",
+        "tier": "Rare"
+      },
+      {
+        "text": "Simulcast",
+        "tier": "Rare"
+      },
+      {
+        "text": "Breathalyzer",
+        "aliases": [
+          "breathalyser"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Moped",
+        "tier": "Rare"
+      },
+      {
+        "text": "Modem",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pixel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carjack",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fanzine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Workaholic",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sexting",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bollywood",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ginormous",
+        "tier": "Rare"
+      },
+      {
+        "text": "Motorcade",
+        "tier": "Rare"
+      },
+      {
+        "text": "Telethon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cockapoo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Malware",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mansplain",
+        "tier": "Rare"
+      },
+      {
+        "text": "Athleisure",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chortle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Galumph",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dumbfound",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Splatter",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Squiggle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Electrocute",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tangelo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Transistor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Velcro",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cyborg",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Netiquette",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gerrymander",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "japanese-loanwords",
+    "prompt": "Name an English word that comes from Japanese",
+    "category": "Words",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Sushi",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Karate",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tsunami",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Karaoke",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Emoji",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Anime",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Manga",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ninja",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Samurai",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Origami",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Haiku",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kimono",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ramen",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sake",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Judo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bonsai",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Teriyaki",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wasabi",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tofu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tempura",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sashimi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Futon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sudoku",
+        "tier": "Rare"
+      },
+      {
+        "text": "Geisha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sumo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zen",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kamikaze",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tycoon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Honcho",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shogun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dojo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sensei",
+        "tier": "Rare"
+      },
+      {
+        "text": "Miso",
+        "tier": "Rare"
+      },
+      {
+        "text": "Edamame",
+        "tier": "Rare"
+      },
+      {
+        "text": "Umami",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bento",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tatami",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kabuki",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ikebana",
+        "tier": "Rare"
+      },
+      {
+        "text": "Matcha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shiitake",
+        "tier": "Rare"
+      },
+      {
+        "text": "Koi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Banzai",
+        "tier": "Rare"
+      },
+      {
+        "text": "Harakiri",
+        "aliases": [
+          "hara-kiri"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Jujitsu",
+        "aliases": [
+          "jiu-jitsu",
+          "jujutsu"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Aikido",
+        "tier": "Rare"
+      },
+      {
+        "text": "Otaku",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kawaii",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yakuza",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ronin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Soy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kudzu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ginkgo",
+        "aliases": [
+          "gingko"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kaizen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Katakana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hiragana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Satsuma",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Daikon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bokeh",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Skosh",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "animal-collective-nouns",
+    "prompt": "Name a collective noun for a group of animals",
+    "category": "Words",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Flock",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Herd",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Pack",
+        "tier": "Plankton"
+      },
+      {
+        "text": "School",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Swarm",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pride",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pod",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Gaggle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Litter",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Colony",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hive",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Murder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Parliament",
+        "tier": "Rare"
+      },
+      {
+        "text": "Troop",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shoal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Brood",
+        "tier": "Rare"
+      },
+      {
+        "text": "Drove",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mob",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bevy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Covey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Army",
+        "tier": "Rare"
+      },
+      {
+        "text": "Business",
+        "tier": "Rare"
+      },
+      {
+        "text": "Crash",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tower",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dazzle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Murmuration",
+        "tier": "Rare"
+      },
+      {
+        "text": "Skulk",
+        "tier": "Rare"
+      },
+      {
+        "text": "Clowder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kindle",
+        "tier": "Rare"
+      },
+      {
+        "text": "Raft",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bloat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Unkindness",
+        "tier": "Rare"
+      },
+      {
+        "text": "Exaltation",
+        "tier": "Rare"
+      },
+      {
+        "text": "Conspiracy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sleuth",
+        "aliases": [
+          "sloth"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ambush",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Streak",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leap",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cete",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Charm",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Convocation",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Knot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lounge",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bask",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Parade",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Prickle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Siege",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Romp",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Muster",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Drift",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sounder",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Smack",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shiver",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pandemonium",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rhumba",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mischief",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cackle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ostentation",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Group",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Bunch",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "all-five-vowels",
+    "prompt": "Name a word containing all five vowels",
+    "category": "Words",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Education",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Sequoia",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Equation",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Favourite",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dialogue",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Automobile",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Communicate",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Discourage",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Encouraging",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ultraviolet",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Authorize",
+        "aliases": [
+          "authorise"
+        ],
+        "tier": "Schooler"
+      },
+      {
+        "text": "Behaviour",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mountaineer",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Regulation",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Reputation",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Facetious",
+        "tier": "Rare"
+      },
+      {
+        "text": "Euphoria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Simultaneous",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pneumonia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Miscellaneous",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cauliflower",
+        "tier": "Rare"
+      },
+      {
+        "text": "Revolutionary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Unsociable",
+        "tier": "Rare"
+      },
+      {
+        "text": "Instantaneous",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ambidextrous",
+        "tier": "Rare"
+      },
+      {
+        "text": "Questionable",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pandemonium",
+        "tier": "Rare"
+      },
+      {
+        "text": "Precaution",
+        "tier": "Rare"
+      },
+      {
+        "text": "Exhaustion",
+        "tier": "Rare"
+      },
+      {
+        "text": "Outpatient",
+        "tier": "Rare"
+      },
+      {
+        "text": "Housemaid",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mouthwatering",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tambourine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Inoculate",
+        "tier": "Rare"
+      },
+      {
+        "text": "Evolutionary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cautioned",
+        "tier": "Rare"
+      },
+      {
+        "text": "Refutation",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nefarious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gregarious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Precarious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tenacious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mendacious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vexatious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sacrilegious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Consultative",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Overpopulation",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Adventitious",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Uncomplimentary",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Authoritative",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bougainvillea",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Unequivocal",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Subcontinental",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Abstemious",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "eponym-words",
+    "prompt": "Name a word named after a real person",
+    "category": "Words",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Sandwich",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Cardigan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Saxophone",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Leotard",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Guillotine",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Diesel",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Braille",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Boycott",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Watt",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Volt",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fahrenheit",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Celsius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Teddy bear",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nicotine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Silhouette",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sideburns",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bloomers",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mesmerize",
+        "aliases": [
+          "mesmerise"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Pasteurize",
+        "aliases": [
+          "pasteurise"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Galvanize",
+        "aliases": [
+          "galvanise"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Ampere",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ohm",
+        "tier": "Rare"
+      },
+      {
+        "text": "Newton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kelvin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Salmonella",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shrapnel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maverick",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lynch",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sadism",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nachos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ferris wheel",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jacuzzi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zeppelin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Molotov cocktail",
+        "aliases": [
+          "molotov"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Wellington",
+        "aliases": [
+          "wellies",
+          "wellington boot"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Tarmac",
+        "aliases": [
+          "macadam"
+        ],
+        "tier": "Rare"
+      },
+      {
+        "text": "Poinsettia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Caesar salad",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bunsen burner",
+        "tier": "Rare"
+      },
+      {
+        "text": "Machiavellian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mackintosh",
+        "tier": "Rare"
+      },
+      {
+        "text": "Masochism",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mausoleum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Magnolia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dahlia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gardenia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Begonia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fuchsia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Decibel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dunce",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Platonic",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Doily",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Derrick",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spoonerism",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pompadour",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Algorithm",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Melba toast",
+        "aliases": [
+          "peach melba"
+        ],
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gatling gun",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bowdlerize",
+        "aliases": [
+          "bowdlerise"
+        ],
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "America",
+        "tier": "Too Clever"
+      }
+    ]
+  }
+]

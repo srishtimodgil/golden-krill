@@ -1,0 +1,6783 @@
+[
+  {
+    "id": "greek-gods",
+    "prompt": "Name a Greek god or goddess",
+    "category": "History & Mythology",
+    "difficulty": "everyday",
+    "ignoreWords": [
+      "god",
+      "goddess"
+    ],
+    "answers": [
+      {
+        "text": "Zeus",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Athena",
+        "tier": "Schooler",
+        "aliases": [
+          "Athene"
+        ]
+      },
+      {
+        "text": "Hermes",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Poseidon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hades",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Apollo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Aphrodite",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ares",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Artemis",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hera",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Eros",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Hephaestus",
+        "tier": "Rare",
+        "aliases": [
+          "Hephaistos"
+        ]
+      },
+      {
+        "text": "Dionysus",
+        "tier": "Rare",
+        "aliases": [
+          "Dionysos"
+        ]
+      },
+      {
+        "text": "Demeter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Persephone",
+        "tier": "Rare",
+        "aliases": [
+          "Kore"
+        ]
+      },
+      {
+        "text": "Cronus",
+        "tier": "Rare",
+        "aliases": [
+          "Kronos",
+          "Cronos"
+        ]
+      },
+      {
+        "text": "Gaia",
+        "tier": "Rare",
+        "aliases": [
+          "Gaea"
+        ]
+      },
+      {
+        "text": "Atlas",
+        "tier": "Rare"
+      },
+      {
+        "text": "Prometheus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nike",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Helios",
+        "tier": "Rare"
+      },
+      {
+        "text": "Selene",
+        "tier": "Rare"
+      },
+      {
+        "text": "Uranus",
+        "tier": "Rare",
+        "aliases": [
+          "Ouranos"
+        ]
+      },
+      {
+        "text": "Rhea",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nemesis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hecate",
+        "tier": "Rare",
+        "aliases": [
+          "Hekate"
+        ]
+      },
+      {
+        "text": "Hypnos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thanatos",
+        "tier": "Rare"
+      },
+      {
+        "text": "Iris",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hestia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nyx",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hebe",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chaos",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Erebus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tartarus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Oceanus",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Okeanos"
+        ]
+      },
+      {
+        "text": "Tethys",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hyperion",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Themis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mnemosyne",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Coeus",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Koios"
+        ]
+      },
+      {
+        "text": "Iapetus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Theia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Asclepius",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Asklepios"
+        ]
+      },
+      {
+        "text": "Eris",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aeolus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Boreas",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zephyrus",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Zephyr"
+        ]
+      },
+      {
+        "text": "Triton",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nereus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Proteus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Morpheus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leto",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Metis",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Phobos",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Deimos",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tyche",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Kratos",
+        "tier": "Too Clever",
+        "aliases": [
+          "Cratos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mythical-creatures",
+    "prompt": "Name a mythical creature",
+    "category": "History & Mythology",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Dragon",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Unicorn",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Phoenix",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mermaid",
+        "tier": "Schooler",
+        "aliases": [
+          "Merman",
+          "Merfolk"
+        ]
+      },
+      {
+        "text": "Centaur",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Griffin",
+        "tier": "Schooler",
+        "aliases": [
+          "Gryphon",
+          "Griffon"
+        ]
+      },
+      {
+        "text": "Pegasus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Minotaur",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vampire",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Werewolf",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Fairy",
+        "tier": "Schooler",
+        "aliases": [
+          "Faerie"
+        ]
+      },
+      {
+        "text": "Bigfoot",
+        "tier": "Schooler",
+        "aliases": [
+          "Sasquatch"
+        ]
+      },
+      {
+        "text": "Yeti",
+        "tier": "Schooler",
+        "aliases": [
+          "Abominable Snowman"
+        ]
+      },
+      {
+        "text": "Loch Ness Monster",
+        "tier": "Schooler",
+        "aliases": [
+          "Nessie"
+        ]
+      },
+      {
+        "text": "Kraken",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hydra",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cyclops",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sphinx",
+        "tier": "Rare"
+      },
+      {
+        "text": "Troll",
+        "tier": "Rare"
+      },
+      {
+        "text": "Goblin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ogre",
+        "tier": "Rare"
+      },
+      {
+        "text": "Leprechaun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Banshee",
+        "tier": "Rare"
+      },
+      {
+        "text": "Basilisk",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chimera",
+        "tier": "Rare",
+        "aliases": [
+          "Chimaera"
+        ]
+      },
+      {
+        "text": "Harpy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Siren",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gnome",
+        "tier": "Rare"
+      },
+      {
+        "text": "Elf",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kelpie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Satyr",
+        "tier": "Rare"
+      },
+      {
+        "text": "Faun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Golem",
+        "tier": "Rare"
+      },
+      {
+        "text": "Genie",
+        "tier": "Rare",
+        "aliases": [
+          "Djinn",
+          "Jinn"
+        ]
+      },
+      {
+        "text": "Wendigo",
+        "tier": "Rare",
+        "aliases": [
+          "Windigo"
+        ]
+      },
+      {
+        "text": "Chupacabra",
+        "tier": "Rare"
+      },
+      {
+        "text": "Thunderbird",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cerberus",
+        "tier": "Rare",
+        "aliases": [
+          "Kerberos"
+        ]
+      },
+      {
+        "text": "Medusa",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gorgon",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pixie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hippogriff",
+        "tier": "Rare",
+        "aliases": [
+          "Hippogryph"
+        ]
+      },
+      {
+        "text": "Manticore",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cockatrice",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wyvern",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Roc",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kitsune",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kappa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tengu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Selkie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bunyip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Qilin",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Kirin"
+        ]
+      },
+      {
+        "text": "Jackalope",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leviathan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Naga",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mothman",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fenrir",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Fenris"
+        ]
+      },
+      {
+        "text": "Jormungandr",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Midgard Serpent",
+          "World Serpent"
+        ]
+      },
+      {
+        "text": "Sleipnir",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nuckelavee",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "famous-explorers",
+    "prompt": "Name a famous explorer",
+    "category": "History & Mythology",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Christopher Columbus",
+        "tier": "Plankton",
+        "aliases": [
+          "Columbus"
+        ]
+      },
+      {
+        "text": "Marco Polo",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ferdinand Magellan",
+        "tier": "Schooler",
+        "aliases": [
+          "Magellan"
+        ]
+      },
+      {
+        "text": "Vasco da Gama",
+        "tier": "Schooler",
+        "aliases": [
+          "da Gama"
+        ]
+      },
+      {
+        "text": "James Cook",
+        "tier": "Schooler",
+        "aliases": [
+          "Captain Cook",
+          "Cook"
+        ]
+      },
+      {
+        "text": "Meriwether Lewis",
+        "tier": "Schooler",
+        "aliases": [
+          "Lewis",
+          "Lewis and Clark"
+        ]
+      },
+      {
+        "text": "William Clark",
+        "tier": "Schooler",
+        "aliases": [
+          "Clark"
+        ]
+      },
+      {
+        "text": "Leif Erikson",
+        "tier": "Schooler",
+        "aliases": [
+          "Leif Ericson",
+          "Leif Eriksson",
+          "Leif Ericsson"
+        ]
+      },
+      {
+        "text": "Amerigo Vespucci",
+        "tier": "Schooler",
+        "aliases": [
+          "Vespucci"
+        ]
+      },
+      {
+        "text": "Hernan Cortes",
+        "tier": "Schooler",
+        "aliases": [
+          "Cortes",
+          "Cortez",
+          "Hernando Cortez"
+        ]
+      },
+      {
+        "text": "Francisco Pizarro",
+        "tier": "Schooler",
+        "aliases": [
+          "Pizarro"
+        ]
+      },
+      {
+        "text": "Ernest Shackleton",
+        "tier": "Schooler",
+        "aliases": [
+          "Shackleton"
+        ]
+      },
+      {
+        "text": "Roald Amundsen",
+        "tier": "Schooler",
+        "aliases": [
+          "Amundsen"
+        ]
+      },
+      {
+        "text": "Sacagawea",
+        "tier": "Schooler",
+        "aliases": [
+          "Sacajawea"
+        ]
+      },
+      {
+        "text": "Edmund Hillary",
+        "tier": "Schooler",
+        "aliases": [
+          "Hillary"
+        ]
+      },
+      {
+        "text": "Hernando de Soto",
+        "tier": "Rare",
+        "aliases": [
+          "de Soto"
+        ]
+      },
+      {
+        "text": "Juan Ponce de Leon",
+        "tier": "Rare",
+        "aliases": [
+          "Ponce de Leon"
+        ]
+      },
+      {
+        "text": "Robert Falcon Scott",
+        "tier": "Rare",
+        "aliases": [
+          "Captain Scott",
+          "Scott of the Antarctic"
+        ]
+      },
+      {
+        "text": "Henry Hudson",
+        "tier": "Rare",
+        "aliases": [
+          "Hudson"
+        ]
+      },
+      {
+        "text": "Jacques Cartier",
+        "tier": "Rare",
+        "aliases": [
+          "Cartier"
+        ]
+      },
+      {
+        "text": "Samuel de Champlain",
+        "tier": "Rare",
+        "aliases": [
+          "Champlain"
+        ]
+      },
+      {
+        "text": "John Cabot",
+        "tier": "Rare",
+        "aliases": [
+          "Cabot",
+          "Giovanni Caboto"
+        ]
+      },
+      {
+        "text": "Walter Raleigh",
+        "tier": "Rare",
+        "aliases": [
+          "Sir Walter Raleigh",
+          "Raleigh"
+        ]
+      },
+      {
+        "text": "Francis Drake",
+        "tier": "Rare",
+        "aliases": [
+          "Sir Francis Drake",
+          "Drake"
+        ]
+      },
+      {
+        "text": "David Livingstone",
+        "tier": "Rare",
+        "aliases": [
+          "Livingstone"
+        ]
+      },
+      {
+        "text": "Henry Morton Stanley",
+        "tier": "Rare",
+        "aliases": [
+          "Stanley"
+        ]
+      },
+      {
+        "text": "Ibn Battuta",
+        "tier": "Rare"
+      },
+      {
+        "text": "Zheng He",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bartolomeu Dias",
+        "tier": "Rare",
+        "aliases": [
+          "Bartholomew Diaz",
+          "Dias"
+        ]
+      },
+      {
+        "text": "Erik the Red",
+        "tier": "Rare",
+        "aliases": [
+          "Eric the Red"
+        ]
+      },
+      {
+        "text": "Tenzing Norgay",
+        "tier": "Rare",
+        "aliases": [
+          "Tenzing"
+        ]
+      },
+      {
+        "text": "Robert Peary",
+        "tier": "Rare",
+        "aliases": [
+          "Peary"
+        ]
+      },
+      {
+        "text": "Abel Tasman",
+        "tier": "Rare",
+        "aliases": [
+          "Tasman"
+        ]
+      },
+      {
+        "text": "Vitus Bering",
+        "tier": "Rare",
+        "aliases": [
+          "Bering"
+        ]
+      },
+      {
+        "text": "Daniel Boone",
+        "tier": "Rare",
+        "aliases": [
+          "Boone"
+        ]
+      },
+      {
+        "text": "Jacques Cousteau",
+        "tier": "Rare",
+        "aliases": [
+          "Cousteau"
+        ]
+      },
+      {
+        "text": "Vasco Nunez de Balboa",
+        "tier": "Rare",
+        "aliases": [
+          "Balboa"
+        ]
+      },
+      {
+        "text": "Matthew Henson",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Henson"
+        ]
+      },
+      {
+        "text": "Fridtjof Nansen",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Nansen"
+        ]
+      },
+      {
+        "text": "John Franklin",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Sir John Franklin"
+        ]
+      },
+      {
+        "text": "Mungo Park",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Richard Francis Burton",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Sir Richard Burton"
+        ]
+      },
+      {
+        "text": "John Hanning Speke",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Speke"
+        ]
+      },
+      {
+        "text": "Xuanzang",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gertrude Bell",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Isabella Bird",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zebulon Pike",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Francisco Vazquez de Coronado",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Coronado"
+        ]
+      },
+      {
+        "text": "Juan Rodriguez Cabrillo",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Cabrillo"
+        ]
+      },
+      {
+        "text": "Pedro Alvares Cabral",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Cabral"
+        ]
+      },
+      {
+        "text": "Louis Antoine de Bougainville",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Bougainville"
+        ]
+      },
+      {
+        "text": "Alexander von Humboldt",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Humboldt"
+        ]
+      },
+      {
+        "text": "Douglas Mawson",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Mawson"
+        ]
+      },
+      {
+        "text": "Willem Barentsz",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Barentsz",
+          "Willem Barents"
+        ]
+      },
+      {
+        "text": "Juan Sebastian Elcano",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Elcano"
+        ]
+      },
+      {
+        "text": "Robert Cavelier de La Salle",
+        "tier": "Deep Cut",
+        "aliases": [
+          "La Salle"
+        ]
+      },
+      {
+        "text": "Martin Frobisher",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Frobisher"
+        ]
+      },
+      {
+        "text": "Pytheas",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Neil Armstrong",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Dora the Explorer",
+        "tier": "Too Clever",
+        "aliases": [
+          "Dora"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "norse-gods",
+    "prompt": "Name a Norse god or goddess",
+    "category": "History & Mythology",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "god",
+      "goddess"
+    ],
+    "answers": [
+      {
+        "text": "Thor",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Odin",
+        "tier": "Plankton",
+        "aliases": [
+          "Woden",
+          "Wotan",
+          "Wodan"
+        ]
+      },
+      {
+        "text": "Loki",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Freya",
+        "tier": "Schooler",
+        "aliases": [
+          "Freyja",
+          "Freja"
+        ]
+      },
+      {
+        "text": "Frigg",
+        "tier": "Schooler",
+        "aliases": [
+          "Frigga"
+        ]
+      },
+      {
+        "text": "Baldur",
+        "tier": "Schooler",
+        "aliases": [
+          "Balder",
+          "Baldr"
+        ]
+      },
+      {
+        "text": "Heimdall",
+        "tier": "Schooler",
+        "aliases": [
+          "Heimdallr"
+        ]
+      },
+      {
+        "text": "Tyr",
+        "tier": "Schooler",
+        "aliases": [
+          "Tiw"
+        ]
+      },
+      {
+        "text": "Hel",
+        "tier": "Schooler",
+        "aliases": [
+          "Hela"
+        ]
+      },
+      {
+        "text": "Freyr",
+        "tier": "Schooler",
+        "aliases": [
+          "Frey"
+        ]
+      },
+      {
+        "text": "Njord",
+        "tier": "Rare",
+        "aliases": [
+          "Njordr"
+        ]
+      },
+      {
+        "text": "Idun",
+        "tier": "Rare",
+        "aliases": [
+          "Idunn",
+          "Iduna"
+        ]
+      },
+      {
+        "text": "Sif",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bragi",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vidar",
+        "tier": "Rare",
+        "aliases": [
+          "Vidarr"
+        ]
+      },
+      {
+        "text": "Vali",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hodr",
+        "tier": "Rare",
+        "aliases": [
+          "Hod",
+          "Hoder"
+        ]
+      },
+      {
+        "text": "Forseti",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ullr",
+        "tier": "Rare",
+        "aliases": [
+          "Ull",
+          "Uller"
+        ]
+      },
+      {
+        "text": "Skadi",
+        "tier": "Rare",
+        "aliases": [
+          "Skathi"
+        ]
+      },
+      {
+        "text": "Mimir",
+        "tier": "Rare",
+        "aliases": [
+          "Mim"
+        ]
+      },
+      {
+        "text": "Ran",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aegir",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eir",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Saga",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gefjon",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Gefjun",
+          "Gefion"
+        ]
+      },
+      {
+        "text": "Fulla",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sigyn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hoenir",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kvasir",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nanna",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gerd",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Gerdr",
+          "Gerda"
+        ]
+      },
+      {
+        "text": "Sol",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Sunna"
+        ]
+      },
+      {
+        "text": "Mani",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nott",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Natt"
+        ]
+      },
+      {
+        "text": "Dagr",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Dag"
+        ]
+      },
+      {
+        "text": "Jord",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Jorth",
+          "Fjorgyn"
+        ]
+      },
+      {
+        "text": "Lofn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sjofn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Syn",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hlin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Var",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Magni",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Modi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Thrud",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Thrudr"
+        ]
+      },
+      {
+        "text": "Vili",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ve",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Buri",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Borr",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Bor"
+        ]
+      },
+      {
+        "text": "Hermod",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Hermodr"
+        ]
+      },
+      {
+        "text": "Hnoss",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gersemi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Delling",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Snotra",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "egyptian-gods",
+    "prompt": "Name an Egyptian god or goddess",
+    "category": "History & Mythology",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "god",
+      "goddess"
+    ],
+    "answers": [
+      {
+        "text": "Ra",
+        "tier": "Plankton",
+        "aliases": [
+          "Re"
+        ]
+      },
+      {
+        "text": "Anubis",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Osiris",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Isis",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Horus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Set",
+        "tier": "Schooler",
+        "aliases": [
+          "Seth"
+        ]
+      },
+      {
+        "text": "Bastet",
+        "tier": "Schooler",
+        "aliases": [
+          "Bast"
+        ]
+      },
+      {
+        "text": "Thoth",
+        "tier": "Schooler",
+        "aliases": [
+          "Djehuty"
+        ]
+      },
+      {
+        "text": "Amun",
+        "tier": "Schooler",
+        "aliases": [
+          "Amon",
+          "Amen",
+          "Amun-Ra",
+          "Amon-Ra"
+        ]
+      },
+      {
+        "text": "Hathor",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sobek",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Ptah",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sekhmet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nut",
+        "tier": "Rare"
+      },
+      {
+        "text": "Geb",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tefnut",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nephthys",
+        "tier": "Rare"
+      },
+      {
+        "text": "Aten",
+        "tier": "Rare",
+        "aliases": [
+          "Aton"
+        ]
+      },
+      {
+        "text": "Khnum",
+        "tier": "Rare"
+      },
+      {
+        "text": "Maat",
+        "tier": "Rare"
+      },
+      {
+        "text": "Atum",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bes",
+        "tier": "Rare"
+      },
+      {
+        "text": "Khepri",
+        "tier": "Rare",
+        "aliases": [
+          "Khepera"
+        ]
+      },
+      {
+        "text": "Apep",
+        "tier": "Rare",
+        "aliases": [
+          "Apophis"
+        ]
+      },
+      {
+        "text": "Taweret",
+        "tier": "Rare",
+        "aliases": [
+          "Tawaret",
+          "Taurt"
+        ]
+      },
+      {
+        "text": "Neith",
+        "tier": "Rare"
+      },
+      {
+        "text": "Khonsu",
+        "tier": "Rare",
+        "aliases": [
+          "Khons"
+        ]
+      },
+      {
+        "text": "Montu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wadjet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nekhbet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hapi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Min",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mut",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Serket",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Serqet",
+          "Selket"
+        ]
+      },
+      {
+        "text": "Heqet",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Heket"
+        ]
+      },
+      {
+        "text": "Meretseger",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wepwawet",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Upuaut"
+        ]
+      },
+      {
+        "text": "Seshat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nun",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Nu"
+        ]
+      },
+      {
+        "text": "Anuket",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Anukis"
+        ]
+      },
+      {
+        "text": "Satet",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Satis"
+        ]
+      },
+      {
+        "text": "Renenutet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ihy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Heh",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Huh"
+        ]
+      },
+      {
+        "text": "Hu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Babi",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Baba"
+        ]
+      },
+      {
+        "text": "Aker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shezmu",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Shesmu"
+        ]
+      },
+      {
+        "text": "Menhit",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pakhet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mehen",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sopdet",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Sothis"
+        ]
+      },
+      {
+        "text": "Amunet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mafdet",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Imhotep",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "famous-ships",
+    "prompt": "Name a famous ship",
+    "category": "History & Mythology",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "hms",
+      "uss",
+      "rms",
+      "ss",
+      "ship"
+    ],
+    "answers": [
+      {
+        "text": "Titanic",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Mayflower",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Santa Maria",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bismarck",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lusitania",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Victory",
+        "tier": "Schooler",
+        "aliases": [
+          "HMS Victory"
+        ]
+      },
+      {
+        "text": "Arizona",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Constitution",
+        "tier": "Schooler",
+        "aliases": [
+          "Old Ironsides"
+        ]
+      },
+      {
+        "text": "Noah's Ark",
+        "tier": "Schooler",
+        "aliases": [
+          "Ark"
+        ]
+      },
+      {
+        "text": "Pinta",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nina",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Endeavour",
+        "tier": "Schooler",
+        "aliases": [
+          "Endeavor"
+        ]
+      },
+      {
+        "text": "Beagle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bounty",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mary Rose",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Golden Hind",
+        "tier": "Rare",
+        "aliases": [
+          "Golden Hinde"
+        ]
+      },
+      {
+        "text": "Cutty Sark",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mary Celeste",
+        "tier": "Rare",
+        "aliases": [
+          "Marie Celeste"
+        ]
+      },
+      {
+        "text": "Yamato",
+        "tier": "Rare"
+      },
+      {
+        "text": "Missouri",
+        "tier": "Rare",
+        "aliases": [
+          "Mighty Mo"
+        ]
+      },
+      {
+        "text": "Monitor",
+        "tier": "Rare"
+      },
+      {
+        "text": "Merrimack",
+        "tier": "Rare",
+        "aliases": [
+          "Merrimac",
+          "CSS Virginia"
+        ]
+      },
+      {
+        "text": "Andrea Doria",
+        "tier": "Rare"
+      },
+      {
+        "text": "Edmund Fitzgerald",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vasa",
+        "tier": "Rare",
+        "aliases": [
+          "Wasa"
+        ]
+      },
+      {
+        "text": "Hood",
+        "tier": "Rare"
+      },
+      {
+        "text": "Endurance",
+        "tier": "Rare"
+      },
+      {
+        "text": "Argo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kon-Tiki",
+        "tier": "Rare"
+      },
+      {
+        "text": "Enterprise",
+        "tier": "Rare"
+      },
+      {
+        "text": "Queen Mary",
+        "tier": "Rare"
+      },
+      {
+        "text": "Queen Elizabeth 2",
+        "tier": "Rare",
+        "aliases": [
+          "QE2"
+        ]
+      },
+      {
+        "text": "Exxon Valdez",
+        "tier": "Rare"
+      },
+      {
+        "text": "Flying Dutchman",
+        "tier": "Rare"
+      },
+      {
+        "text": "Carpathia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Indianapolis",
+        "tier": "Rare"
+      },
+      {
+        "text": "Queen Anne's Revenge",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nautilus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Britannic",
+        "tier": "Rare"
+      },
+      {
+        "text": "Potemkin",
+        "tier": "Rare",
+        "aliases": [
+          "Battleship Potemkin"
+        ]
+      },
+      {
+        "text": "Fram",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Terra Nova",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Erebus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Terror",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Batavia",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Essex",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Amistad",
+        "tier": "Deep Cut",
+        "aliases": [
+          "La Amistad"
+        ]
+      },
+      {
+        "text": "Calypso",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rainbow Warrior",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Victoria",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Half Moon",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Halve Maen"
+        ]
+      },
+      {
+        "text": "Graf Spee",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Admiral Graf Spee"
+        ]
+      },
+      {
+        "text": "Tirpitz",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dreadnought",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hunley",
+        "tier": "Deep Cut",
+        "aliases": [
+          "H. L. Hunley"
+        ]
+      },
+      {
+        "text": "Whydah",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Whydah Gally"
+        ]
+      },
+      {
+        "text": "Lexington",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wilhelm Gustloff",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Millennium Falcon",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Black Pearl",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "famous-inventors",
+    "prompt": "Name a famous inventor",
+    "category": "History & Mythology",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Thomas Edison",
+        "tier": "Plankton",
+        "aliases": [
+          "Edison"
+        ]
+      },
+      {
+        "text": "Nikola Tesla",
+        "tier": "Plankton",
+        "aliases": [
+          "Tesla"
+        ]
+      },
+      {
+        "text": "Alexander Graham Bell",
+        "tier": "Plankton",
+        "aliases": [
+          "Graham Bell",
+          "Bell"
+        ]
+      },
+      {
+        "text": "Benjamin Franklin",
+        "tier": "Schooler",
+        "aliases": [
+          "Ben Franklin",
+          "Franklin"
+        ]
+      },
+      {
+        "text": "Wright Brothers",
+        "tier": "Schooler",
+        "aliases": [
+          "Orville Wright",
+          "Wilbur Wright",
+          "Wright"
+        ]
+      },
+      {
+        "text": "Leonardo da Vinci",
+        "tier": "Schooler",
+        "aliases": [
+          "da Vinci",
+          "Leonardo"
+        ]
+      },
+      {
+        "text": "Henry Ford",
+        "tier": "Schooler",
+        "aliases": [
+          "Ford"
+        ]
+      },
+      {
+        "text": "Johannes Gutenberg",
+        "tier": "Schooler",
+        "aliases": [
+          "Gutenberg"
+        ]
+      },
+      {
+        "text": "James Watt",
+        "tier": "Schooler",
+        "aliases": [
+          "Watt"
+        ]
+      },
+      {
+        "text": "Eli Whitney",
+        "tier": "Schooler",
+        "aliases": [
+          "Whitney"
+        ]
+      },
+      {
+        "text": "Samuel Morse",
+        "tier": "Schooler",
+        "aliases": [
+          "Morse"
+        ]
+      },
+      {
+        "text": "Guglielmo Marconi",
+        "tier": "Schooler",
+        "aliases": [
+          "Marconi"
+        ]
+      },
+      {
+        "text": "Archimedes",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Alfred Nobel",
+        "tier": "Schooler",
+        "aliases": [
+          "Nobel"
+        ]
+      },
+      {
+        "text": "Karl Benz",
+        "tier": "Rare",
+        "aliases": [
+          "Benz"
+        ]
+      },
+      {
+        "text": "Rudolf Diesel",
+        "tier": "Rare",
+        "aliases": [
+          "Diesel"
+        ]
+      },
+      {
+        "text": "George Westinghouse",
+        "tier": "Rare",
+        "aliases": [
+          "Westinghouse"
+        ]
+      },
+      {
+        "text": "Louis Braille",
+        "tier": "Rare",
+        "aliases": [
+          "Braille"
+        ]
+      },
+      {
+        "text": "Tim Berners-Lee",
+        "tier": "Rare",
+        "aliases": [
+          "Berners-Lee"
+        ]
+      },
+      {
+        "text": "John Logie Baird",
+        "tier": "Rare",
+        "aliases": [
+          "Baird"
+        ]
+      },
+      {
+        "text": "Charles Babbage",
+        "tier": "Rare",
+        "aliases": [
+          "Babbage"
+        ]
+      },
+      {
+        "text": "Elisha Otis",
+        "tier": "Rare",
+        "aliases": [
+          "Otis"
+        ]
+      },
+      {
+        "text": "Cyrus McCormick",
+        "tier": "Rare",
+        "aliases": [
+          "McCormick"
+        ]
+      },
+      {
+        "text": "Samuel Colt",
+        "tier": "Rare",
+        "aliases": [
+          "Colt"
+        ]
+      },
+      {
+        "text": "Isaac Singer",
+        "tier": "Rare",
+        "aliases": [
+          "Singer"
+        ]
+      },
+      {
+        "text": "George Stephenson",
+        "tier": "Rare",
+        "aliases": [
+          "Stephenson"
+        ]
+      },
+      {
+        "text": "Hedy Lamarr",
+        "tier": "Rare",
+        "aliases": [
+          "Lamarr"
+        ]
+      },
+      {
+        "text": "Garrett Morgan",
+        "tier": "Rare"
+      },
+      {
+        "text": "George Washington Carver",
+        "tier": "Rare",
+        "aliases": [
+          "Carver"
+        ]
+      },
+      {
+        "text": "Alessandro Volta",
+        "tier": "Rare",
+        "aliases": [
+          "Volta"
+        ]
+      },
+      {
+        "text": "Charles Goodyear",
+        "tier": "Rare",
+        "aliases": [
+          "Goodyear"
+        ]
+      },
+      {
+        "text": "King C. Gillette",
+        "tier": "Rare",
+        "aliases": [
+          "Gillette"
+        ]
+      },
+      {
+        "text": "Philo Farnsworth",
+        "tier": "Rare",
+        "aliases": [
+          "Farnsworth"
+        ]
+      },
+      {
+        "text": "Robert Fulton",
+        "tier": "Rare",
+        "aliases": [
+          "Fulton"
+        ]
+      },
+      {
+        "text": "John Deere",
+        "tier": "Rare",
+        "aliases": [
+          "Deere"
+        ]
+      },
+      {
+        "text": "George Eastman",
+        "tier": "Rare",
+        "aliases": [
+          "Eastman"
+        ]
+      },
+      {
+        "text": "Gottlieb Daimler",
+        "tier": "Rare",
+        "aliases": [
+          "Daimler"
+        ]
+      },
+      {
+        "text": "Erno Rubik",
+        "tier": "Rare",
+        "aliases": [
+          "Rubik"
+        ]
+      },
+      {
+        "text": "James Dyson",
+        "tier": "Rare",
+        "aliases": [
+          "Dyson"
+        ]
+      },
+      {
+        "text": "Richard Arkwright",
+        "tier": "Rare",
+        "aliases": [
+          "Arkwright"
+        ]
+      },
+      {
+        "text": "Thomas Newcomen",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Newcomen"
+        ]
+      },
+      {
+        "text": "Joseph Swan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Willis Carrier",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Percy Spencer",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hero of Alexandria",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Heron of Alexandria"
+        ]
+      },
+      {
+        "text": "Cai Lun",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Zhang Heng",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Christopher Latham Sholes",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Sholes"
+        ]
+      },
+      {
+        "text": "Mary Anderson",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Josephine Cochrane",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stephanie Kwolek",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nikolaus Otto",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Igor Sikorsky",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Sikorsky"
+        ]
+      },
+      {
+        "text": "Lewis Latimer",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Elijah McCoy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Granville Woods",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "John Harrison",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Louis Daguerre",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Daguerre"
+        ]
+      },
+      {
+        "text": "James Hargreaves",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Al-Jazari",
+        "tier": "Golden Krill",
+        "aliases": [
+          "Ismail al-Jazari"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "roman-emperors",
+    "prompt": "Name a Roman emperor",
+    "category": "History & Mythology",
+    "difficulty": "medium",
+    "ignoreWords": [
+      "emperor"
+    ],
+    "answers": [
+      {
+        "text": "Augustus",
+        "tier": "Plankton",
+        "aliases": [
+          "Octavian",
+          "Octavius",
+          "Caesar Augustus"
+        ]
+      },
+      {
+        "text": "Nero",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Caligula",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Marcus Aurelius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Constantine",
+        "tier": "Schooler",
+        "aliases": [
+          "Constantine the Great",
+          "Constantine I"
+        ]
+      },
+      {
+        "text": "Hadrian",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Commodus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tiberius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Claudius",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Trajan",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Vespasian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Titus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Domitian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Diocletian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Septimius Severus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Caracalla",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antoninus Pius",
+        "tier": "Rare"
+      },
+      {
+        "text": "Elagabalus",
+        "tier": "Rare",
+        "aliases": [
+          "Heliogabalus"
+        ]
+      },
+      {
+        "text": "Nerva",
+        "tier": "Rare"
+      },
+      {
+        "text": "Galba",
+        "tier": "Rare"
+      },
+      {
+        "text": "Otho",
+        "tier": "Rare"
+      },
+      {
+        "text": "Vitellius",
+        "tier": "Rare"
+      },
+      {
+        "text": "Justinian",
+        "tier": "Rare",
+        "aliases": [
+          "Justinian I",
+          "Justinian the Great"
+        ]
+      },
+      {
+        "text": "Theodosius",
+        "tier": "Rare",
+        "aliases": [
+          "Theodosius I",
+          "Theodosius the Great"
+        ]
+      },
+      {
+        "text": "Lucius Verus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Julian",
+        "tier": "Rare",
+        "aliases": [
+          "Julian the Apostate"
+        ]
+      },
+      {
+        "text": "Aurelian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Valerian",
+        "tier": "Rare"
+      },
+      {
+        "text": "Romulus Augustulus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pertinax",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Macrinus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Severus Alexander",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Alexander Severus"
+        ]
+      },
+      {
+        "text": "Maximinus Thrax",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gordian",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Gordian I",
+          "Gordian II",
+          "Gordian III"
+        ]
+      },
+      {
+        "text": "Philip the Arab",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Decius",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Trajan Decius"
+        ]
+      },
+      {
+        "text": "Gallienus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Claudius Gothicus",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Claudius II"
+        ]
+      },
+      {
+        "text": "Probus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Numerian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carinus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maximian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Galerius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Constantius Chlorus",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Constantius I"
+        ]
+      },
+      {
+        "text": "Constantius II",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Licinius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Maxentius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jovian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Valentinian",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Valentinian I"
+        ]
+      },
+      {
+        "text": "Valens",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gratian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Honorius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arcadius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Majorian",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Heraclius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Basil II",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Basil the Bulgar Slayer"
+        ]
+      },
+      {
+        "text": "Constantine XI",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Geta",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Didius Julianus",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "hindu-gods",
+    "prompt": "Name a Hindu god or goddess",
+    "category": "History & Mythology",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "god",
+      "goddess",
+      "lord"
+    ],
+    "answers": [
+      {
+        "text": "Shiva",
+        "tier": "Plankton",
+        "aliases": [
+          "Siva"
+        ]
+      },
+      {
+        "text": "Vishnu",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Ganesha",
+        "tier": "Plankton",
+        "aliases": [
+          "Ganesh",
+          "Ganapati",
+          "Ganesa"
+        ]
+      },
+      {
+        "text": "Brahma",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Krishna",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lakshmi",
+        "tier": "Schooler",
+        "aliases": [
+          "Laxmi"
+        ]
+      },
+      {
+        "text": "Kali",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rama",
+        "tier": "Schooler",
+        "aliases": [
+          "Ram"
+        ]
+      },
+      {
+        "text": "Hanuman",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Durga",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Parvati",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Saraswati",
+        "tier": "Rare",
+        "aliases": [
+          "Sarasvati"
+        ]
+      },
+      {
+        "text": "Indra",
+        "tier": "Rare"
+      },
+      {
+        "text": "Agni",
+        "tier": "Rare"
+      },
+      {
+        "text": "Surya",
+        "tier": "Rare"
+      },
+      {
+        "text": "Varuna",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yama",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kartikeya",
+        "tier": "Rare",
+        "aliases": [
+          "Murugan",
+          "Skanda"
+        ]
+      },
+      {
+        "text": "Vayu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shakti",
+        "tier": "Rare",
+        "aliases": [
+          "Sakti"
+        ]
+      },
+      {
+        "text": "Sita",
+        "tier": "Rare"
+      },
+      {
+        "text": "Radha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ganga",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kamadeva",
+        "tier": "Rare",
+        "aliases": [
+          "Kama"
+        ]
+      },
+      {
+        "text": "Narasimha",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chandra",
+        "tier": "Rare",
+        "aliases": [
+          "Soma"
+        ]
+      },
+      {
+        "text": "Kubera",
+        "tier": "Rare",
+        "aliases": [
+          "Kuber"
+        ]
+      },
+      {
+        "text": "Vishvakarma",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Vishwakarma"
+        ]
+      },
+      {
+        "text": "Ashvins",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Ashwini Kumaras"
+        ]
+      },
+      {
+        "text": "Rudra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aditi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ushas",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mitra",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dhanvantari",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Annapurna",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chamunda",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bhairava",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Balarama",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shani",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rahu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ketu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jagannath",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Venkateswara",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Balaji"
+        ]
+      },
+      {
+        "text": "Vithoba",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ayyappa",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Ayyappan"
+        ]
+      },
+      {
+        "text": "Matsya",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kurma",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Varaha",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Vamana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Parashurama",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kalki",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Manasa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Meenakshi",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brihaspati",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tvashtr",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Tvastar"
+        ]
+      },
+      {
+        "text": "Savitr",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Prithvi",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Bhumi"
+        ]
+      },
+      {
+        "text": "Pushan",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Buddha",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "greek-philosophers",
+    "prompt": "Name an ancient Greek philosopher",
+    "category": "History & Mythology",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Socrates",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Plato",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Aristotle",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Pythagoras",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Diogenes",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Epicurus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Heraclitus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Zeno",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Thales",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Democritus",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Parmenides",
+        "tier": "Rare"
+      },
+      {
+        "text": "Anaximander",
+        "tier": "Rare"
+      },
+      {
+        "text": "Empedocles",
+        "tier": "Rare"
+      },
+      {
+        "text": "Protagoras",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hypatia",
+        "tier": "Rare"
+      },
+      {
+        "text": "Epictetus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Plotinus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Anaxagoras",
+        "tier": "Rare"
+      },
+      {
+        "text": "Xenophanes",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pyrrho",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gorgias",
+        "tier": "Rare"
+      },
+      {
+        "text": "Theophrastus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Leucippus",
+        "tier": "Rare"
+      },
+      {
+        "text": "Anaximenes",
+        "tier": "Rare"
+      },
+      {
+        "text": "Antisthenes",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Aristippus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Chrysippus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Cleanthes",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carneades",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Speusippus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xenocrates",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Crates",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Philolaus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Melissus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Porphyry",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Proclus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Iamblichus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sextus Empiricus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Timon of Phlius",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Timon"
+        ]
+      },
+      {
+        "text": "Arcesilaus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Posidonius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Panaetius",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Diodorus Cronus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Strato of Lampsacus",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Strato"
+        ]
+      },
+      {
+        "text": "Prodicus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hippias",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Thrasymachus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Archytas",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Alcmaeon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Metrodorus",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hipparchia",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "arthurian-legend",
+    "prompt": "Name a character from Arthurian legend",
+    "category": "History & Mythology",
+    "difficulty": "niche",
+    "ignoreWords": [
+      "sir",
+      "king",
+      "queen"
+    ],
+    "answers": [
+      {
+        "text": "Arthur",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Merlin",
+        "tier": "Plankton",
+        "aliases": [
+          "Merlyn",
+          "Myrddin"
+        ]
+      },
+      {
+        "text": "Lancelot",
+        "tier": "Plankton",
+        "aliases": [
+          "Launcelot"
+        ]
+      },
+      {
+        "text": "Guinevere",
+        "tier": "Schooler",
+        "aliases": [
+          "Guenevere",
+          "Gwenhwyfar"
+        ]
+      },
+      {
+        "text": "Galahad",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Morgan le Fay",
+        "tier": "Schooler",
+        "aliases": [
+          "Morgana",
+          "Morgaine"
+        ]
+      },
+      {
+        "text": "Mordred",
+        "tier": "Schooler",
+        "aliases": [
+          "Modred",
+          "Medraut"
+        ]
+      },
+      {
+        "text": "Gawain",
+        "tier": "Schooler",
+        "aliases": [
+          "Gawaine",
+          "Gwalchmai"
+        ]
+      },
+      {
+        "text": "Percival",
+        "tier": "Schooler",
+        "aliases": [
+          "Perceval",
+          "Parzival",
+          "Parsifal",
+          "Peredur"
+        ]
+      },
+      {
+        "text": "Lady of the Lake",
+        "tier": "Schooler",
+        "aliases": [
+          "Nimue",
+          "Viviane",
+          "Vivien"
+        ]
+      },
+      {
+        "text": "Tristan",
+        "tier": "Rare",
+        "aliases": [
+          "Tristram"
+        ]
+      },
+      {
+        "text": "Isolde",
+        "tier": "Rare",
+        "aliases": [
+          "Iseult",
+          "Isolt",
+          "Yseult"
+        ]
+      },
+      {
+        "text": "Kay",
+        "tier": "Rare",
+        "aliases": [
+          "Cai"
+        ]
+      },
+      {
+        "text": "Bedivere",
+        "tier": "Rare",
+        "aliases": [
+          "Bedwyr"
+        ]
+      },
+      {
+        "text": "Uther Pendragon",
+        "tier": "Rare",
+        "aliases": [
+          "Uther"
+        ]
+      },
+      {
+        "text": "Igraine",
+        "tier": "Rare",
+        "aliases": [
+          "Ygraine",
+          "Igerna"
+        ]
+      },
+      {
+        "text": "Green Knight",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fisher King",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gareth",
+        "tier": "Rare"
+      },
+      {
+        "text": "Elaine",
+        "tier": "Rare",
+        "aliases": [
+          "Elaine of Astolat",
+          "Lady of Shalott"
+        ]
+      },
+      {
+        "text": "Bors",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ector",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pellinore",
+        "tier": "Rare"
+      },
+      {
+        "text": "Gaheris",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Agravain",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lamorak",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Palamedes",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dagonet",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Galehaut",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Morgause",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mark",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Mark of Cornwall"
+        ]
+      },
+      {
+        "text": "Yvain",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Owain",
+          "Ywain"
+        ]
+      },
+      {
+        "text": "Erec",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Geraint",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Enide",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Enid"
+        ]
+      },
+      {
+        "text": "Lynette",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lucan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Balin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Balan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tor",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lionel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gorlois",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pelles",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bertilak",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Bercilak"
+        ]
+      },
+      {
+        "text": "Urien",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Leodegrance",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brangaine",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Brangwen"
+        ]
+      },
+      {
+        "text": "Lohengrin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Accolon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sagramore",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ragnelle",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Dame Ragnelle"
+        ]
+      },
+      {
+        "text": "Dinadan",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "ball-sports",
+    "prompt": "Name a sport played with a ball",
+    "category": "Sports",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Soccer",
+        "tier": "Plankton",
+        "aliases": [
+          "Football",
+          "Association football",
+          "Futbol"
+        ]
+      },
+      {
+        "text": "Basketball",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Tennis",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Golf",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Baseball",
+        "tier": "Schooler"
+      },
+      {
+        "text": "American football",
+        "tier": "Schooler",
+        "aliases": [
+          "Gridiron",
+          "Gridiron football"
+        ]
+      },
+      {
+        "text": "Volleyball",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cricket",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rugby",
+        "tier": "Schooler",
+        "aliases": [
+          "Rugby union"
+        ]
+      },
+      {
+        "text": "Bowling",
+        "tier": "Schooler",
+        "aliases": [
+          "Tenpin bowling"
+        ]
+      },
+      {
+        "text": "Table tennis",
+        "tier": "Schooler",
+        "aliases": [
+          "Ping pong"
+        ]
+      },
+      {
+        "text": "Dodgeball",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Softball",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lacrosse",
+        "tier": "Rare"
+      },
+      {
+        "text": "Water polo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Handball",
+        "tier": "Rare",
+        "aliases": [
+          "Team handball"
+        ]
+      },
+      {
+        "text": "Squash",
+        "tier": "Rare"
+      },
+      {
+        "text": "Field hockey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kickball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pool",
+        "tier": "Rare",
+        "aliases": [
+          "Eight-ball",
+          "8-ball"
+        ]
+      },
+      {
+        "text": "Snooker",
+        "tier": "Rare"
+      },
+      {
+        "text": "Billiards",
+        "tier": "Rare"
+      },
+      {
+        "text": "Polo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Racquetball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rugby league",
+        "tier": "Rare"
+      },
+      {
+        "text": "Beach volleyball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bocce",
+        "tier": "Rare",
+        "aliases": [
+          "Bocce ball"
+        ]
+      },
+      {
+        "text": "Croquet",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wiffle ball",
+        "tier": "Rare",
+        "aliases": [
+          "Wiffleball"
+        ]
+      },
+      {
+        "text": "Netball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pickleball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Four square",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tetherball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Australian rules football",
+        "tier": "Rare",
+        "aliases": [
+          "Aussie rules",
+          "AFL"
+        ]
+      },
+      {
+        "text": "Futsal",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lawn bowls",
+        "tier": "Rare",
+        "aliases": [
+          "Bowls"
+        ]
+      },
+      {
+        "text": "Stickball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Canadian football",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hurling",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Petanque",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Boules"
+        ]
+      },
+      {
+        "text": "Jai alai",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Basque pelota",
+          "Pelota"
+        ]
+      },
+      {
+        "text": "Rounders",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Korfball",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bandy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gaelic football",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Camogie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shinty",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Goalball",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Real tennis",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Court tennis"
+        ]
+      },
+      {
+        "text": "Padel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Teqball",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Footvolley",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Underwater rugby",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kin-ball",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pesapallo",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Finnish baseball"
+        ]
+      },
+      {
+        "text": "Cuju",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sepak takraw",
+        "tier": "Golden Krill",
+        "aliases": [
+          "Takraw"
+        ]
+      },
+      {
+        "text": "Fetch",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Beer pong",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Quidditch",
+        "tier": "Too Clever",
+        "aliases": [
+          "Quadball"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "winter-sports",
+    "prompt": "Name a winter sport",
+    "category": "Sports",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Skiing",
+        "tier": "Plankton",
+        "aliases": [
+          "Ski"
+        ]
+      },
+      {
+        "text": "Ice hockey",
+        "tier": "Plankton",
+        "aliases": [
+          "Hockey"
+        ]
+      },
+      {
+        "text": "Snowboarding",
+        "tier": "Plankton",
+        "aliases": [
+          "Snowboard"
+        ]
+      },
+      {
+        "text": "Figure skating",
+        "tier": "Schooler",
+        "aliases": [
+          "Ice skating",
+          "Skating"
+        ]
+      },
+      {
+        "text": "Sledding",
+        "tier": "Schooler",
+        "aliases": [
+          "Sledging"
+        ]
+      },
+      {
+        "text": "Bobsleigh",
+        "tier": "Schooler",
+        "aliases": [
+          "Bobsled",
+          "Bobsledding"
+        ]
+      },
+      {
+        "text": "Curling",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Luge",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Speed skating",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Biathlon",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Cross-country skiing",
+        "tier": "Schooler",
+        "aliases": [
+          "Nordic skiing"
+        ]
+      },
+      {
+        "text": "Ski jumping",
+        "tier": "Rare"
+      },
+      {
+        "text": "Skeleton",
+        "tier": "Rare"
+      },
+      {
+        "text": "Alpine skiing",
+        "tier": "Rare",
+        "aliases": [
+          "Downhill skiing",
+          "Downhill"
+        ]
+      },
+      {
+        "text": "Freestyle skiing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slalom",
+        "tier": "Rare",
+        "aliases": [
+          "Giant slalom"
+        ]
+      },
+      {
+        "text": "Super-G",
+        "tier": "Rare",
+        "aliases": [
+          "Super giant slalom"
+        ]
+      },
+      {
+        "text": "Moguls",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nordic combined",
+        "tier": "Rare"
+      },
+      {
+        "text": "Snowmobiling",
+        "tier": "Rare",
+        "aliases": [
+          "Snowmobile racing"
+        ]
+      },
+      {
+        "text": "Short track",
+        "tier": "Rare",
+        "aliases": [
+          "Short track speed skating"
+        ]
+      },
+      {
+        "text": "Ice climbing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Tobogganing",
+        "tier": "Rare",
+        "aliases": [
+          "Toboggan"
+        ]
+      },
+      {
+        "text": "Ice dancing",
+        "tier": "Rare",
+        "aliases": [
+          "Ice dance"
+        ]
+      },
+      {
+        "text": "Dog sledding",
+        "tier": "Rare",
+        "aliases": [
+          "Mushing",
+          "Sled dog racing"
+        ]
+      },
+      {
+        "text": "Snowshoeing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bandy",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ski mountaineering",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Skimo"
+        ]
+      },
+      {
+        "text": "Halfpipe",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Slopestyle",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Big air",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ski cross",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Snowboard cross",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Boardercross"
+        ]
+      },
+      {
+        "text": "Aerials",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Telemark skiing",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Telemark"
+        ]
+      },
+      {
+        "text": "Snowkiting",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ice speedway",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ice yachting",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Iceboating",
+          "Ice sailing"
+        ]
+      },
+      {
+        "text": "Ringette",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Broomball",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Synchronized skating",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sled hockey",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Para ice hockey"
+        ]
+      },
+      {
+        "text": "Ski orienteering",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ice stock sport",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Eisstockschiessen"
+        ]
+      },
+      {
+        "text": "Skibobbing",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Skibob"
+        ]
+      },
+      {
+        "text": "Military patrol",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Skijoring",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Snowball fight",
+        "tier": "Too Clever",
+        "aliases": [
+          "Snowball fighting",
+          "Yukigassen"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "water-sports",
+    "prompt": "Name a water sport",
+    "category": "Sports",
+    "difficulty": "everyday",
+    "answers": [
+      {
+        "text": "Swimming",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Surfing",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Water polo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Diving",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Water skiing",
+        "tier": "Schooler",
+        "aliases": [
+          "Waterskiing"
+        ]
+      },
+      {
+        "text": "Kayaking",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Canoeing",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rowing",
+        "tier": "Schooler",
+        "aliases": [
+          "Crew"
+        ]
+      },
+      {
+        "text": "Sailing",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Scuba diving",
+        "tier": "Schooler",
+        "aliases": [
+          "Scuba"
+        ]
+      },
+      {
+        "text": "Wakeboarding",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Rafting",
+        "tier": "Schooler",
+        "aliases": [
+          "White water rafting",
+          "Whitewater rafting"
+        ]
+      },
+      {
+        "text": "Jet skiing",
+        "tier": "Schooler",
+        "aliases": [
+          "Jet ski"
+        ]
+      },
+      {
+        "text": "Snorkeling",
+        "tier": "Schooler",
+        "aliases": [
+          "Snorkelling"
+        ]
+      },
+      {
+        "text": "Synchronized swimming",
+        "tier": "Rare",
+        "aliases": [
+          "Artistic swimming"
+        ]
+      },
+      {
+        "text": "Kitesurfing",
+        "tier": "Rare",
+        "aliases": [
+          "Kiteboarding"
+        ]
+      },
+      {
+        "text": "Windsurfing",
+        "tier": "Rare",
+        "aliases": [
+          "Sailboarding"
+        ]
+      },
+      {
+        "text": "Bodyboarding",
+        "tier": "Rare",
+        "aliases": [
+          "Boogie boarding"
+        ]
+      },
+      {
+        "text": "Paddleboarding",
+        "tier": "Rare",
+        "aliases": [
+          "Stand-up paddleboarding",
+          "SUP"
+        ]
+      },
+      {
+        "text": "Freediving",
+        "tier": "Rare",
+        "aliases": [
+          "Free diving"
+        ]
+      },
+      {
+        "text": "Cliff diving",
+        "tier": "Rare"
+      },
+      {
+        "text": "Parasailing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Open water swimming",
+        "tier": "Rare",
+        "aliases": [
+          "Marathon swimming"
+        ]
+      },
+      {
+        "text": "Dragon boat racing",
+        "tier": "Rare",
+        "aliases": [
+          "Dragon boating"
+        ]
+      },
+      {
+        "text": "Tubing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spearfishing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Underwater hockey",
+        "tier": "Rare",
+        "aliases": [
+          "Octopush"
+        ]
+      },
+      {
+        "text": "Wakesurfing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kneeboarding",
+        "tier": "Rare"
+      },
+      {
+        "text": "Yachting",
+        "tier": "Rare"
+      },
+      {
+        "text": "Canoe polo",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Kayak polo"
+        ]
+      },
+      {
+        "text": "Finswimming",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Fin swimming"
+        ]
+      },
+      {
+        "text": "Bodysurfing",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Skimboarding",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Flyboarding",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hydrofoiling",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Foiling"
+        ]
+      },
+      {
+        "text": "Powerboat racing",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Powerboating"
+        ]
+      },
+      {
+        "text": "Outrigger canoeing",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Va'a"
+        ]
+      },
+      {
+        "text": "Coasteering",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Canyoning",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Barefoot skiing",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Barefoot waterskiing"
+        ]
+      },
+      {
+        "text": "Surf lifesaving",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Lifesaving"
+        ]
+      },
+      {
+        "text": "Surf ski",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Surfski"
+        ]
+      },
+      {
+        "text": "Aquathlon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Riverboarding",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Hydrospeed"
+        ]
+      },
+      {
+        "text": "Packrafting",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gig racing",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Underwater rugby",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Marco Polo",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "martial-arts",
+    "prompt": "Name a martial art",
+    "category": "Sports",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Karate",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kung fu",
+        "tier": "Plankton",
+        "aliases": [
+          "Gung fu"
+        ]
+      },
+      {
+        "text": "Judo",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Taekwondo",
+        "tier": "Schooler",
+        "aliases": [
+          "Tae kwon do"
+        ]
+      },
+      {
+        "text": "Brazilian jiu-jitsu",
+        "tier": "Schooler",
+        "aliases": [
+          "BJJ",
+          "Jiu-jitsu"
+        ]
+      },
+      {
+        "text": "Jujutsu",
+        "tier": "Schooler",
+        "aliases": [
+          "Jujitsu"
+        ]
+      },
+      {
+        "text": "Boxing",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kickboxing",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Muay Thai",
+        "tier": "Schooler",
+        "aliases": [
+          "Thai boxing"
+        ]
+      },
+      {
+        "text": "Aikido",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Krav Maga",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wrestling",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kendo",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tai chi",
+        "tier": "Schooler",
+        "aliases": [
+          "Tai chi chuan",
+          "Taiji"
+        ]
+      },
+      {
+        "text": "Capoeira",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Mixed martial arts",
+        "tier": "Schooler",
+        "aliases": [
+          "MMA"
+        ]
+      },
+      {
+        "text": "Sumo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wing Chun",
+        "tier": "Rare"
+      },
+      {
+        "text": "Jeet Kune Do",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hapkido",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sambo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Savate",
+        "tier": "Rare"
+      },
+      {
+        "text": "Eskrima",
+        "tier": "Rare",
+        "aliases": [
+          "Escrima",
+          "Arnis",
+          "Kali"
+        ]
+      },
+      {
+        "text": "Silat",
+        "tier": "Rare",
+        "aliases": [
+          "Pencak silat"
+        ]
+      },
+      {
+        "text": "Fencing",
+        "tier": "Rare"
+      },
+      {
+        "text": "Iaido",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kyudo",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ninjutsu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Systema",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kenjutsu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wushu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hung Gar",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sanda",
+        "tier": "Rare",
+        "aliases": [
+          "Sanshou"
+        ]
+      },
+      {
+        "text": "Tang Soo Do",
+        "tier": "Rare"
+      },
+      {
+        "text": "Kenpo",
+        "tier": "Rare",
+        "aliases": [
+          "Kempo"
+        ]
+      },
+      {
+        "text": "Kalaripayattu",
+        "tier": "Rare"
+      },
+      {
+        "text": "Glima",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pankration",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lethwei",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bokator",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ssireum",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shuai jiao",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Baguazhang",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Xingyiquan",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Taekkyon",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bojutsu",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shorinji Kempo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kajukenbo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Krabi krabong",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Silambam",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Gatka",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dambe",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Laamb",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Senegalese wrestling"
+        ]
+      },
+      {
+        "text": "Hwa Rang Do",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Catch wrestling",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Canne de combat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jogo do pau",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Historical European martial arts",
+        "tier": "Deep Cut",
+        "aliases": [
+          "HEMA"
+        ]
+      },
+      {
+        "text": "Drunken boxing",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Zui quan"
+        ]
+      },
+      {
+        "text": "Bartitsu",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "golf-terms",
+    "prompt": "Name a golf term",
+    "category": "Sports",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Birdie",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Par",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Hole in one",
+        "tier": "Plankton",
+        "aliases": [
+          "Ace"
+        ]
+      },
+      {
+        "text": "Bogey",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Eagle",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tee",
+        "tier": "Schooler",
+        "aliases": [
+          "Tee box",
+          "Teeing ground"
+        ]
+      },
+      {
+        "text": "Fairway",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Green",
+        "tier": "Schooler",
+        "aliases": [
+          "Putting green"
+        ]
+      },
+      {
+        "text": "Putt",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Caddie",
+        "tier": "Schooler",
+        "aliases": [
+          "Caddy"
+        ]
+      },
+      {
+        "text": "Fore",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Handicap",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bunker",
+        "tier": "Schooler",
+        "aliases": [
+          "Sand trap"
+        ]
+      },
+      {
+        "text": "Driver",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Putter",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Iron",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wedge",
+        "tier": "Schooler",
+        "aliases": [
+          "Sand wedge"
+        ]
+      },
+      {
+        "text": "Club",
+        "tier": "Schooler",
+        "aliases": [
+          "Golf club"
+        ]
+      },
+      {
+        "text": "Course",
+        "tier": "Schooler",
+        "aliases": [
+          "Golf course"
+        ]
+      },
+      {
+        "text": "Swing",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Golf cart",
+        "tier": "Schooler",
+        "aliases": [
+          "Buggy"
+        ]
+      },
+      {
+        "text": "Albatross",
+        "tier": "Rare",
+        "aliases": [
+          "Double eagle"
+        ]
+      },
+      {
+        "text": "Double bogey",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mulligan",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rough",
+        "tier": "Rare"
+      },
+      {
+        "text": "Divot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Chip",
+        "tier": "Rare",
+        "aliases": [
+          "Chip shot"
+        ]
+      },
+      {
+        "text": "Slice",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hook",
+        "tier": "Rare"
+      },
+      {
+        "text": "Dogleg",
+        "tier": "Rare"
+      },
+      {
+        "text": "Links",
+        "tier": "Rare"
+      },
+      {
+        "text": "Back nine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Front nine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hazard",
+        "tier": "Rare",
+        "aliases": [
+          "Water hazard"
+        ]
+      },
+      {
+        "text": "Pin",
+        "tier": "Rare",
+        "aliases": [
+          "Flagstick",
+          "Flag"
+        ]
+      },
+      {
+        "text": "Drive",
+        "tier": "Rare",
+        "aliases": [
+          "Tee shot"
+        ]
+      },
+      {
+        "text": "Gimme",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Wood",
+        "tier": "Rare",
+        "aliases": [
+          "Fairway wood"
+        ]
+      },
+      {
+        "text": "Lie",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stroke",
+        "tier": "Rare"
+      },
+      {
+        "text": "Draw",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fade",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Approach",
+        "tier": "Rare",
+        "aliases": [
+          "Approach shot"
+        ]
+      },
+      {
+        "text": "Shank",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yips",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pitch",
+        "tier": "Rare",
+        "aliases": [
+          "Pitch shot"
+        ]
+      },
+      {
+        "text": "Out of bounds",
+        "tier": "Rare",
+        "aliases": [
+          "OB"
+        ]
+      },
+      {
+        "text": "Triple bogey",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fringe",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Apron",
+          "Collar"
+        ]
+      },
+      {
+        "text": "Lag putt",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Up and down",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sandy",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Scramble",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Match play",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stroke play",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Medal play"
+        ]
+      },
+      {
+        "text": "Flop shot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dormie",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Dormy"
+        ]
+      },
+      {
+        "text": "Fried egg",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Plugged lie"
+        ]
+      },
+      {
+        "text": "Snowman",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Condor",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "tennis-terms",
+    "prompt": "Name a tennis term",
+    "category": "Sports",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Ace",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Love",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Deuce",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Serve",
+        "tier": "Schooler",
+        "aliases": [
+          "Service"
+        ]
+      },
+      {
+        "text": "Volley",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Lob",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Smash",
+        "tier": "Schooler",
+        "aliases": [
+          "Overhead",
+          "Overhead smash"
+        ]
+      },
+      {
+        "text": "Forehand",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Backhand",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Net",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Racket",
+        "tier": "Schooler",
+        "aliases": [
+          "Racquet"
+        ]
+      },
+      {
+        "text": "Set",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Match point",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tiebreak",
+        "tier": "Schooler",
+        "aliases": [
+          "Tiebreaker"
+        ]
+      },
+      {
+        "text": "Advantage",
+        "tier": "Schooler",
+        "aliases": [
+          "Ad"
+        ]
+      },
+      {
+        "text": "Fault",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Let",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Double fault",
+        "tier": "Rare"
+      },
+      {
+        "text": "Break point",
+        "tier": "Rare"
+      },
+      {
+        "text": "Break",
+        "tier": "Rare",
+        "aliases": [
+          "Service break"
+        ]
+      },
+      {
+        "text": "Baseline",
+        "tier": "Rare"
+      },
+      {
+        "text": "Drop shot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rally",
+        "tier": "Rare"
+      },
+      {
+        "text": "Game point",
+        "tier": "Rare"
+      },
+      {
+        "text": "Set point",
+        "tier": "Rare"
+      },
+      {
+        "text": "Grand Slam",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slice",
+        "tier": "Rare"
+      },
+      {
+        "text": "Topspin",
+        "tier": "Rare"
+      },
+      {
+        "text": "Ball boy",
+        "tier": "Rare",
+        "aliases": [
+          "Ball girl",
+          "Ball kid"
+        ]
+      },
+      {
+        "text": "Umpire",
+        "tier": "Rare",
+        "aliases": [
+          "Chair umpire"
+        ]
+      },
+      {
+        "text": "Line judge",
+        "tier": "Rare",
+        "aliases": [
+          "Linesman"
+        ]
+      },
+      {
+        "text": "Hawk-Eye",
+        "tier": "Rare"
+      },
+      {
+        "text": "Doubles",
+        "tier": "Rare"
+      },
+      {
+        "text": "Singles",
+        "tier": "Rare"
+      },
+      {
+        "text": "Mixed doubles",
+        "tier": "Rare"
+      },
+      {
+        "text": "Seed",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wild card",
+        "tier": "Rare"
+      },
+      {
+        "text": "Passing shot",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Half volley",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Foot fault",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Groundstroke",
+        "tier": "Rare"
+      },
+      {
+        "text": "Return of serve",
+        "tier": "Rare",
+        "aliases": [
+          "Return"
+        ]
+      },
+      {
+        "text": "Approach shot",
+        "tier": "Rare"
+      },
+      {
+        "text": "Serve and volley",
+        "tier": "Rare"
+      },
+      {
+        "text": "Golden set",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bagel",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Golden Slam",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tweener",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Between-the-legs shot"
+        ]
+      },
+      {
+        "text": "Moonball",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Kick serve",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Kicker",
+          "American twist"
+        ]
+      },
+      {
+        "text": "Hold",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Hold serve"
+        ]
+      },
+      {
+        "text": "Service line",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Tramlines",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Doubles alley",
+          "Alley"
+        ]
+      },
+      {
+        "text": "Ad court",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Deuce court",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Lucky loser",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Walkover",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dead rubber",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Drop volley",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Breadstick",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "team-positions",
+    "prompt": "Name a position in a team sport",
+    "category": "Sports",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Goalkeeper",
+        "tier": "Plankton",
+        "aliases": [
+          "Goalie",
+          "Keeper",
+          "Goaltender"
+        ]
+      },
+      {
+        "text": "Quarterback",
+        "tier": "Plankton",
+        "aliases": [
+          "QB"
+        ]
+      },
+      {
+        "text": "Pitcher",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Catcher",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Striker",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Defender",
+        "tier": "Schooler",
+        "aliases": [
+          "Defenseman",
+          "Defenceman"
+        ]
+      },
+      {
+        "text": "Midfielder",
+        "tier": "Schooler",
+        "aliases": [
+          "Midfield"
+        ]
+      },
+      {
+        "text": "Forward",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Center",
+        "tier": "Schooler",
+        "aliases": [
+          "Centre"
+        ]
+      },
+      {
+        "text": "Point guard",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shooting guard",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Power forward",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Small forward",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shortstop",
+        "tier": "Schooler"
+      },
+      {
+        "text": "First baseman",
+        "tier": "Schooler",
+        "aliases": [
+          "First base"
+        ]
+      },
+      {
+        "text": "Second baseman",
+        "tier": "Rare",
+        "aliases": [
+          "Second base"
+        ]
+      },
+      {
+        "text": "Third baseman",
+        "tier": "Rare",
+        "aliases": [
+          "Third base"
+        ]
+      },
+      {
+        "text": "Left fielder",
+        "tier": "Rare",
+        "aliases": [
+          "Left field"
+        ]
+      },
+      {
+        "text": "Center fielder",
+        "tier": "Schooler",
+        "aliases": [
+          "Center field",
+          "Centerfield"
+        ]
+      },
+      {
+        "text": "Right fielder",
+        "tier": "Rare",
+        "aliases": [
+          "Right field"
+        ]
+      },
+      {
+        "text": "Winger",
+        "tier": "Schooler",
+        "aliases": [
+          "Wing"
+        ]
+      },
+      {
+        "text": "Running back",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Wide receiver",
+        "tier": "Schooler",
+        "aliases": [
+          "Receiver"
+        ]
+      },
+      {
+        "text": "Linebacker",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tight end",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Kicker",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Punter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Safety",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cornerback",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sweeper",
+        "tier": "Rare"
+      },
+      {
+        "text": "Fullback",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wing-back",
+        "tier": "Rare"
+      },
+      {
+        "text": "Center back",
+        "tier": "Rare",
+        "aliases": [
+          "Centre-back",
+          "Centre back"
+        ]
+      },
+      {
+        "text": "Libero",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Setter",
+        "tier": "Rare"
+      },
+      {
+        "text": "Outside hitter",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Middle blocker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hooker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Prop",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fly-half",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Fly half",
+          "Stand-off",
+          "Out-half"
+        ]
+      },
+      {
+        "text": "Scrum-half",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Scrum half"
+        ]
+      },
+      {
+        "text": "Lock",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Second row"
+        ]
+      },
+      {
+        "text": "Flanker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Number eight",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Number 8",
+          "No. 8"
+        ]
+      },
+      {
+        "text": "Designated hitter",
+        "tier": "Rare",
+        "aliases": [
+          "DH"
+        ]
+      },
+      {
+        "text": "Relief pitcher",
+        "tier": "Rare",
+        "aliases": [
+          "Reliever"
+        ]
+      },
+      {
+        "text": "Closer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Defensive end",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wicketkeeper",
+        "tier": "Rare",
+        "aliases": [
+          "Wicket-keeper"
+        ]
+      },
+      {
+        "text": "Bowler",
+        "tier": "Rare"
+      },
+      {
+        "text": "Batter",
+        "tier": "Rare",
+        "aliases": [
+          "Batsman"
+        ]
+      },
+      {
+        "text": "Slip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Silly point",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Third man",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Opposite hitter",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Opposite"
+        ]
+      },
+      {
+        "text": "Long snapper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Skip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jammer",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "Nickelback",
+        "tier": "Too Clever"
+      },
+      {
+        "text": "Seeker",
+        "tier": "Too Clever"
+      }
+    ]
+  },
+  {
+    "id": "gym-equipment",
+    "prompt": "Name a piece of gym equipment",
+    "category": "Sports",
+    "difficulty": "medium",
+    "answers": [
+      {
+        "text": "Treadmill",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Dumbbell",
+        "tier": "Plankton",
+        "aliases": [
+          "Dumbell"
+        ]
+      },
+      {
+        "text": "Barbell",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kettlebell",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Exercise bike",
+        "tier": "Schooler",
+        "aliases": [
+          "Stationary bike",
+          "Spin bike"
+        ]
+      },
+      {
+        "text": "Rowing machine",
+        "tier": "Schooler",
+        "aliases": [
+          "Rower",
+          "Erg",
+          "Ergometer"
+        ]
+      },
+      {
+        "text": "Elliptical",
+        "tier": "Schooler",
+        "aliases": [
+          "Cross trainer",
+          "Elliptical trainer"
+        ]
+      },
+      {
+        "text": "Weight bench",
+        "tier": "Schooler",
+        "aliases": [
+          "Bench"
+        ]
+      },
+      {
+        "text": "Yoga mat",
+        "tier": "Schooler",
+        "aliases": [
+          "Mat",
+          "Exercise mat"
+        ]
+      },
+      {
+        "text": "Jump rope",
+        "tier": "Schooler",
+        "aliases": [
+          "Skipping rope"
+        ]
+      },
+      {
+        "text": "Medicine ball",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pull-up bar",
+        "tier": "Schooler",
+        "aliases": [
+          "Chin-up bar"
+        ]
+      },
+      {
+        "text": "Stair climber",
+        "tier": "Schooler",
+        "aliases": [
+          "StairMaster",
+          "Stepper",
+          "Step machine"
+        ]
+      },
+      {
+        "text": "Squat rack",
+        "tier": "Schooler",
+        "aliases": [
+          "Power rack",
+          "Squat cage"
+        ]
+      },
+      {
+        "text": "Resistance band",
+        "tier": "Schooler",
+        "aliases": [
+          "Exercise band"
+        ]
+      },
+      {
+        "text": "Weight plate",
+        "tier": "Schooler",
+        "aliases": [
+          "Plate"
+        ]
+      },
+      {
+        "text": "Exercise ball",
+        "tier": "Schooler",
+        "aliases": [
+          "Swiss ball",
+          "Stability ball",
+          "Yoga ball"
+        ]
+      },
+      {
+        "text": "Smith machine",
+        "tier": "Rare"
+      },
+      {
+        "text": "Cable machine",
+        "tier": "Rare",
+        "aliases": [
+          "Cable crossover"
+        ]
+      },
+      {
+        "text": "Leg press",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lat pulldown",
+        "tier": "Rare"
+      },
+      {
+        "text": "Foam roller",
+        "tier": "Rare"
+      },
+      {
+        "text": "Punching bag",
+        "tier": "Rare",
+        "aliases": [
+          "Heavy bag",
+          "Boxing bag"
+        ]
+      },
+      {
+        "text": "Battle rope",
+        "tier": "Rare"
+      },
+      {
+        "text": "Plyo box",
+        "tier": "Rare",
+        "aliases": [
+          "Plyometric box",
+          "Jump box"
+        ]
+      },
+      {
+        "text": "Bosu ball",
+        "tier": "Rare",
+        "aliases": [
+          "Bosu"
+        ]
+      },
+      {
+        "text": "Ab roller",
+        "tier": "Rare",
+        "aliases": [
+          "Ab wheel"
+        ]
+      },
+      {
+        "text": "Leg extension",
+        "tier": "Rare"
+      },
+      {
+        "text": "Leg curl",
+        "tier": "Rare",
+        "aliases": [
+          "Hamstring curl"
+        ]
+      },
+      {
+        "text": "Pec deck",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Chest fly machine",
+          "Butterfly machine"
+        ]
+      },
+      {
+        "text": "EZ bar",
+        "tier": "Deep Cut",
+        "aliases": [
+          "EZ curl bar"
+        ]
+      },
+      {
+        "text": "Trap bar",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Hex bar"
+        ]
+      },
+      {
+        "text": "Weight belt",
+        "tier": "Rare",
+        "aliases": [
+          "Lifting belt"
+        ]
+      },
+      {
+        "text": "Chalk",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sandbag",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hack squat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dip station",
+        "tier": "Rare",
+        "aliases": [
+          "Dip bars"
+        ]
+      },
+      {
+        "text": "Preacher bench",
+        "tier": "Rare",
+        "aliases": [
+          "Preacher curl bench"
+        ]
+      },
+      {
+        "text": "Assault bike",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Air bike",
+          "Fan bike"
+        ]
+      },
+      {
+        "text": "Sled",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Prowler",
+          "Push sled"
+        ]
+      },
+      {
+        "text": "TRX",
+        "tier": "Rare",
+        "aliases": [
+          "Suspension trainer"
+        ]
+      },
+      {
+        "text": "Gymnastic rings",
+        "tier": "Rare",
+        "aliases": [
+          "Rings"
+        ]
+      },
+      {
+        "text": "Roman chair",
+        "tier": "Rare",
+        "aliases": [
+          "Hyperextension bench",
+          "Back extension"
+        ]
+      },
+      {
+        "text": "Speed bag",
+        "tier": "Rare"
+      },
+      {
+        "text": "Agility ladder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Slam ball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Hand gripper",
+        "tier": "Rare",
+        "aliases": [
+          "Grip trainer"
+        ]
+      },
+      {
+        "text": "Reverse hyper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Belt squat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jacob's ladder",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "VersaClimber",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "SkiErg",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Steel mace",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Mace"
+        ]
+      },
+      {
+        "text": "Bulgarian bag",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Landmine",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Glute ham developer",
+        "tier": "Deep Cut",
+        "aliases": [
+          "GHD"
+        ]
+      },
+      {
+        "text": "Pegboard",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Atlas stone",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Yoke",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Indian clubs",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "cricket-terms",
+    "prompt": "Name a cricket term",
+    "category": "Sports",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Wicket",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Run",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Over",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Boundary",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Six",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Four",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bat",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bowler",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Batsman",
+        "tier": "Schooler",
+        "aliases": [
+          "Batter"
+        ]
+      },
+      {
+        "text": "Stumps",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Bails",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Innings",
+        "tier": "Schooler"
+      },
+      {
+        "text": "LBW",
+        "tier": "Schooler",
+        "aliases": [
+          "Leg before wicket",
+          "Leg before"
+        ]
+      },
+      {
+        "text": "Duck",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Century",
+        "tier": "Schooler",
+        "aliases": [
+          "Ton",
+          "Hundred"
+        ]
+      },
+      {
+        "text": "Pitch",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Umpire",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Test match",
+        "tier": "Schooler",
+        "aliases": [
+          "Test"
+        ]
+      },
+      {
+        "text": "Caught",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Run out",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Maiden",
+        "tier": "Schooler",
+        "aliases": [
+          "Maiden over"
+        ]
+      },
+      {
+        "text": "Yorker",
+        "tier": "Rare"
+      },
+      {
+        "text": "Googly",
+        "tier": "Rare",
+        "aliases": [
+          "Wrong'un"
+        ]
+      },
+      {
+        "text": "Bouncer",
+        "tier": "Rare"
+      },
+      {
+        "text": "Spinner",
+        "tier": "Rare",
+        "aliases": [
+          "Spin"
+        ]
+      },
+      {
+        "text": "Leg spin",
+        "tier": "Rare",
+        "aliases": [
+          "Leg-spinner",
+          "Leggie"
+        ]
+      },
+      {
+        "text": "Off spin",
+        "tier": "Rare",
+        "aliases": [
+          "Off-spinner"
+        ]
+      },
+      {
+        "text": "Hat-trick",
+        "tier": "Rare"
+      },
+      {
+        "text": "Crease",
+        "tier": "Rare",
+        "aliases": [
+          "Popping crease"
+        ]
+      },
+      {
+        "text": "Stumped",
+        "tier": "Rare",
+        "aliases": [
+          "Stumping"
+        ]
+      },
+      {
+        "text": "Wicketkeeper",
+        "tier": "Rare",
+        "aliases": [
+          "Keeper"
+        ]
+      },
+      {
+        "text": "Slip",
+        "tier": "Rare"
+      },
+      {
+        "text": "No-ball",
+        "tier": "Rare"
+      },
+      {
+        "text": "Wide",
+        "tier": "Rare"
+      },
+      {
+        "text": "Bye",
+        "tier": "Rare"
+      },
+      {
+        "text": "Leg bye",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Extras",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Declaration",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Declare"
+        ]
+      },
+      {
+        "text": "Follow-on",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Golden duck",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Fifty",
+        "tier": "Rare",
+        "aliases": [
+          "Half-century"
+        ]
+      },
+      {
+        "text": "Seam bowling",
+        "tier": "Rare",
+        "aliases": [
+          "Seamer",
+          "Seam"
+        ]
+      },
+      {
+        "text": "Swing bowling",
+        "tier": "Rare",
+        "aliases": [
+          "Swing"
+        ]
+      },
+      {
+        "text": "Reverse swing",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Sledging",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Nightwatchman",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Twenty20",
+        "tier": "Rare",
+        "aliases": [
+          "T20"
+        ]
+      },
+      {
+        "text": "One Day International",
+        "tier": "Rare",
+        "aliases": [
+          "ODI"
+        ]
+      },
+      {
+        "text": "The Ashes",
+        "tier": "Rare",
+        "aliases": [
+          "Ashes"
+        ]
+      },
+      {
+        "text": "All-rounder",
+        "tier": "Rare"
+      },
+      {
+        "text": "Full toss",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Beamer",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Jaffa",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pair",
+        "tier": "Deep Cut",
+        "aliases": [
+          "King pair"
+        ]
+      },
+      {
+        "text": "Five-for",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Fifer",
+          "Five-wicket haul"
+        ]
+      },
+      {
+        "text": "Duckworth-Lewis",
+        "tier": "Deep Cut",
+        "aliases": [
+          "DLS",
+          "Duckworth-Lewis-Stern"
+        ]
+      },
+      {
+        "text": "Mankad",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bodyline",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Carrom ball",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Doosra",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "skateboard-tricks",
+    "prompt": "Name a skateboarding trick",
+    "category": "Sports",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Ollie",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Kickflip",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Heelflip",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Grind",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Shove-it",
+        "tier": "Schooler",
+        "aliases": [
+          "Shuvit",
+          "Pop shove-it",
+          "Pop shuvit"
+        ]
+      },
+      {
+        "text": "Manual",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Nollie",
+        "tier": "Schooler"
+      },
+      {
+        "text": "50-50",
+        "tier": "Schooler",
+        "aliases": [
+          "Fifty-fifty"
+        ]
+      },
+      {
+        "text": "Boardslide",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Drop in",
+        "tier": "Schooler"
+      },
+      {
+        "text": "360 flip",
+        "tier": "Schooler",
+        "aliases": [
+          "Tre flip",
+          "Tre",
+          "Three-sixty flip"
+        ]
+      },
+      {
+        "text": "Kickturn",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Tailslide",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Varial flip",
+        "tier": "Schooler",
+        "aliases": [
+          "Varial kickflip"
+        ]
+      },
+      {
+        "text": "Hippie jump",
+        "tier": "Schooler",
+        "aliases": [
+          "Hippy jump"
+        ]
+      },
+      {
+        "text": "Hardflip",
+        "tier": "Rare"
+      },
+      {
+        "text": "Impossible",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Noseslide",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lipslide",
+        "tier": "Rare"
+      },
+      {
+        "text": "Nosegrind",
+        "tier": "Rare"
+      },
+      {
+        "text": "5-0",
+        "tier": "Rare",
+        "aliases": [
+          "Five-O"
+        ]
+      },
+      {
+        "text": "Crooked grind",
+        "tier": "Rare",
+        "aliases": [
+          "Crook"
+        ]
+      },
+      {
+        "text": "Smith grind",
+        "tier": "Rare",
+        "aliases": [
+          "Smith"
+        ]
+      },
+      {
+        "text": "Feeble grind",
+        "tier": "Rare",
+        "aliases": [
+          "Feeble"
+        ]
+      },
+      {
+        "text": "Nose manual",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rock to fakie",
+        "tier": "Rare"
+      },
+      {
+        "text": "Rock and roll",
+        "tier": "Rare"
+      },
+      {
+        "text": "Axle stall",
+        "tier": "Rare"
+      },
+      {
+        "text": "Indy grab",
+        "tier": "Rare",
+        "aliases": [
+          "Indy"
+        ]
+      },
+      {
+        "text": "Melon grab",
+        "tier": "Rare",
+        "aliases": [
+          "Melon"
+        ]
+      },
+      {
+        "text": "Method",
+        "tier": "Rare",
+        "aliases": [
+          "Method air"
+        ]
+      },
+      {
+        "text": "McTwist",
+        "tier": "Rare"
+      },
+      {
+        "text": "900",
+        "tier": "Rare"
+      },
+      {
+        "text": "540",
+        "tier": "Rare"
+      },
+      {
+        "text": "Boneless",
+        "tier": "Rare"
+      },
+      {
+        "text": "Casper",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Primo",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Pressure flip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Laser flip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Inward heelflip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bigspin",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bluntslide",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "No comply",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Caveman",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Salad grind",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Stalefish",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Benihana",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Airwalk",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Handplant",
+        "tier": "Rare",
+        "aliases": [
+          "Hand plant",
+          "Invert"
+        ]
+      },
+      {
+        "text": "Disaster",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Mute grab",
+        "tier": "Rare",
+        "aliases": [
+          "Mute"
+        ]
+      },
+      {
+        "text": "Frontside air",
+        "tier": "Rare"
+      },
+      {
+        "text": "Backside air",
+        "tier": "Rare"
+      },
+      {
+        "text": "Madonna",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Christ air",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Judo air",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Dolphin flip",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Forward flip"
+        ]
+      },
+      {
+        "text": "Nightmare flip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Varial heelflip",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Darkslide",
+        "tier": "Golden Krill"
+      }
+    ]
+  },
+  {
+    "id": "wrestling-moves",
+    "prompt": "Name a wrestling move",
+    "category": "Sports",
+    "difficulty": "niche",
+    "answers": [
+      {
+        "text": "Body slam",
+        "tier": "Plankton",
+        "aliases": [
+          "Slam"
+        ]
+      },
+      {
+        "text": "Headlock",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Suplex",
+        "tier": "Plankton"
+      },
+      {
+        "text": "Piledriver",
+        "tier": "Schooler"
+      },
+      {
+        "text": "DDT",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Powerbomb",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Chokeslam",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Clothesline",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Dropkick",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Half nelson",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Full nelson",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Sleeper hold",
+        "tier": "Schooler",
+        "aliases": [
+          "Sleeper"
+        ]
+      },
+      {
+        "text": "Figure-four leglock",
+        "tier": "Schooler",
+        "aliases": [
+          "Figure four"
+        ]
+      },
+      {
+        "text": "Boston crab",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Elbow drop",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Leg drop",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Takedown",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Pin",
+        "tier": "Schooler",
+        "aliases": [
+          "Pinfall"
+        ]
+      },
+      {
+        "text": "Spear",
+        "tier": "Schooler"
+      },
+      {
+        "text": "Moonsault",
+        "tier": "Schooler"
+      },
+      {
+        "text": "German suplex",
+        "tier": "Rare"
+      },
+      {
+        "text": "Stunner",
+        "tier": "Rare",
+        "aliases": [
+          "Stone Cold Stunner"
+        ]
+      },
+      {
+        "text": "Tombstone piledriver",
+        "tier": "Rare",
+        "aliases": [
+          "Tombstone"
+        ]
+      },
+      {
+        "text": "Camel clutch",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sharpshooter",
+        "tier": "Rare",
+        "aliases": [
+          "Scorpion Deathlock"
+        ]
+      },
+      {
+        "text": "Crossface",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ankle lock",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Frog splash",
+        "tier": "Rare"
+      },
+      {
+        "text": "Shooting star press",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Spinebuster",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Backbreaker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Hurricanrana",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Huracanrana"
+        ]
+      },
+      {
+        "text": "Superkick",
+        "tier": "Rare"
+      },
+      {
+        "text": "Lariat",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Neckbreaker",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Single-leg takedown",
+        "tier": "Rare",
+        "aliases": [
+          "Single leg"
+        ]
+      },
+      {
+        "text": "Double-leg takedown",
+        "tier": "Rare",
+        "aliases": [
+          "Double leg"
+        ]
+      },
+      {
+        "text": "Fireman's carry",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Arm drag",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Rock Bottom",
+        "tier": "Rare"
+      },
+      {
+        "text": "Pedigree",
+        "tier": "Rare"
+      },
+      {
+        "text": "People's Elbow",
+        "tier": "Rare"
+      },
+      {
+        "text": "Sweet Chin Music",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "RKO",
+        "tier": "Rare"
+      },
+      {
+        "text": "F-5",
+        "tier": "Rare",
+        "aliases": [
+          "F5"
+        ]
+      },
+      {
+        "text": "Attitude Adjustment",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Bearhug",
+        "tier": "Rare",
+        "aliases": [
+          "Bear hug"
+        ]
+      },
+      {
+        "text": "Armbar",
+        "tier": "Rare",
+        "aliases": [
+          "Arm bar"
+        ]
+      },
+      {
+        "text": "Senton",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "450 splash",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Enzuigiri",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Brainbuster",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Indian deathlock",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "STF",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Ankle pick",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Shining wizard",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Iron claw",
+        "tier": "Deep Cut",
+        "aliases": [
+          "Claw"
+        ]
+      },
+      {
+        "text": "Peterson roll",
+        "tier": "Deep Cut"
+      },
+      {
+        "text": "Canadian Destroyer",
+        "tier": "Golden Krill"
+      },
+      {
+        "text": "The Worm",
+        "tier": "Too Clever"
+      }
+    ]
+  }
+]
